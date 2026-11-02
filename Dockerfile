@@ -8,7 +8,7 @@ WORKDIR /app
 
 COPY package.json package-lock.json ./
 # sharp ships a prebuilt linuxmusl binary (@img/sharp-linuxmusl-x64), so no build tools are needed.
-RUN npm ci --no-audit --no-fund
+RUN npm install
 
 COPY . .
 # prebuild: scripts/build-images.mjs (raw-images -> public/img + catalog JSON)
