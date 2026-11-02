@@ -1,7 +1,9 @@
 # syntax=docker/dockerfile:1
 
 # ---------- Stage 1: build (image pipeline + prerender) ----------
-FROM node:22-alpine AS build
+# Node 24 ships npm 11, the same npm that wrote package-lock.json. With Node 22 (npm 10)
+# `npm ci` rejects the lock file as out of sync (missing @emnapi/* optional packages).
+FROM node:24-alpine AS build
 WORKDIR /app
 
 COPY package.json package-lock.json ./
