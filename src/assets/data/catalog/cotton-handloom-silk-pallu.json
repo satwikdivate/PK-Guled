@@ -1,0 +1,366 @@
+{
+  "slug": "cotton-handloom-silk-pallu",
+  "count": 40,
+  "items": [
+    {
+      "code": "CSP-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-001-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-001-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJaACdADD2AyrNdgAAP7rxlHskYPS1WfNFHPbk2R+q3c1Cq0z7wcSGZtck2Wl0QY1B6BwGQxhP1yykj3xUKpFOV/2d6Vbq5/jFuBLXjhM9+GKMPCIaQAA"
+    },
+    {
+      "code": "CSP-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-002-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-002-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJYgCdH8AEbT4g60xwAD+6K0uSu78bvj5mkG6mlTSWbf6cHtrwvbNtD4Ja329/Ua5sWfoZ9O8j3ZBlRnuGwgij6VhMG9aRaLyo6dhBG5xsBaT886fQFHgAAA="
+    },
+    {
+      "code": "CSP-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-003-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-003-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAA4BaJbACdFQAA8rLe226R8AA/uis/s7ZL4j6Yp/Qf4hAlkfmwv6qUFvffmJ7Qiiuur72v7feR6bAyYNB2mYYpXFlIsmb/lMAPXEyrl0vfXe+uQ4h4Pkflj1ZIgBDt0DRDqoAAA=="
+    },
+    {
+      "code": "CSP-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-004-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-004-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJbACdIExEZ+cFuqWAAD+yryJK7e4pYuLDRMf37vb/oWEWcOaRold9d41j8M7Om+lho1AZrdyseo2KoXxfvau5rpf7qV5+GZOND2Wn8sU+X5tgI5OoW579E5FjVPlAAA="
+    },
+    {
+      "code": "CSP-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-005-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-005-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAA4BaJQBYheACiMYm3950KAD+68WR/6OA3uANo0MjbJW/2CYJWeoRnwr77oHpczjDjLNQeS5P1RKvxXX26Getd7Uh0yo5NAZkm2bSLacmP+MuDTCAAAA="
+    },
+    {
+      "code": "CSP-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-006-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-006-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJbAC7ADjb9DyWwSAAP64WzcffZlTbL1Yn7+1vbaK3oBXrAsRFBlf8NNc91GGqcyhF5RX/73Invh9186U/rfB1v/JC0RrJtzDPPLaEnWYW0SSAAA="
+    },
+    {
+      "code": "CSP-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-007-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-007-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoQABAAA4BaJbACdADp9RyqRL3AAP7imRE1J3DN+DwHCzCzTMfv75qMb6/28waNjmZ5PfkkDw1mgqqTmnEtVHFLQyHKYaRAoBVJK8dxZ31K9D+U0Qex70F2x/9fey3hE3fvMflZHCSc42/F0gAAAA=="
+    },
+    {
+      "code": "CSP-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-008-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-008-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJbACdAywCnS854B6AAD+9V5n3X2LHS5PSFYRBj0dyJ664a/TbYdDKQAp0MQ+8T4HhGC1txFAsVul0FVAeV4zyZw+VzMibPbRGeo8DoZZuDrIpS7xl8KJ2KYwAA=="
+    },
+    {
+      "code": "CSP-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-009-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-009-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJbACdFQAApOQV5SMQAD+uFsmnxovPHm1WaM3IIVq20cajv13J3kOpKmDkUsBD08TGUhYDXbpkE57IpwCYoAPrhwAUa3V9ZvdVDMvnVw3/IYJyi75z567isHL8VeUn8TgAA=="
+    },
+    {
+      "code": "CSP-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-010-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-010-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQABAAA4BaJbACdAfwBo+nHldm1IAA/u5sSWcY08hsDU96R4rm+irvPXMGScc+BEC3gQwpOQoO/IbJ73pzNkYL5JhrxiAtO/PakuGxxlpQ/g75SsrKceNigAA="
+    },
+    {
+      "code": "CSP-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-011-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-011-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQABAAA4BaJZwAAiD4+oxkAP7im4agzk4O75M01wMrXRlYftGMySeaFTlDasNGaibbgASRoft2jVJFr98FBaMwEekPsztOpdD/nY5kG1W0S5nFYsKAAA=="
+    },
+    {
+      "code": "CSP-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-012-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-012-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQABAAA4BaJZACdADFaaIQAP7imGaa33yYfuLSth6htJE3bYsEth+b55NRs3iSkvMIzllP17tl7ku9/1HcUy2AbIMAAA=="
+    },
+    {
+      "code": "CSP-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-013-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-013-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAA4BaJbACdDBMwagLVbmfX1AA/uKa4Yyn2KIxCQD8X8SYZ7egVZvNJz2kmxhGdkLKFbY+u8xbec2knJ1+tdAamJQmIwpQFOzpfg0sGhx9HIyVRm7FEffggeyGre3cnVGh/AwoqN1rWpQAAA=="
+    },
+    {
+      "code": "CSP-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-014-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-014-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJbACdH8AEbVvtpgAAP7rxYn02hqVeysLDLMa4+BinNPyuBkAIW3UEoRxDVeVDGdG0YJ0ZRrw7zwUIMEJFaPv8whTRNL/hsa8fLj+sDH06U7pkNiAAA=="
+    },
+    {
+      "code": "CSP-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-015-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-015-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJbACdAEbJWhzk64QAP5tO9CzLjEyfv0Anhz2M/oJprqvGYZN4Dcx6182f2aNvB5weU/8yp0uKp0jQMF4xeAaxB73+uwt7+ToMFEac7we8c4ZkmpoAA=="
+    },
+    {
+      "code": "CSP-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-016-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-016-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQABAAA4BaJbACdADC+JnzKAAA/uKdF9gfhnA6Jy8PDG/E4h0okhdLHDSy9XOFPP8wUx0HR4M083HakNa1pioy3Nj9L8UUJ9kSnl36/5sGym9FAz0Eab/+Zb8K4umAAAA="
+    },
+    {
+      "code": "CSP-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-017-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-017-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQABAAA4BaJbACdDiSQPSu0Cz61UAA/uvFqVBxOeHitYCwIxACuYbtTsl9N2brf6x16Gtfm1arCMj2XyZmjtouFk81lda3EGzyCL7WvTbX8YnPby7NIqnpuYdtoW/fq8WrKh9ifG3+VKD9mREAAAAA"
+    },
+    {
+      "code": "CSP-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-018-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-018-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJbACdADHMzC7LhDAAP7rw7VfYZVN8HC2v64NVlmhJHid5D9qv4TLlQXNT6TFsWFhQGP4fPv6rBm8ES+h8epVYQ4EtS/kb7IJy/6/NmWgWSXHHu2Ld/74AAA="
+    },
+    {
+      "code": "CSP-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-019-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-019-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQABAAA4BaJZACdAD8pUNzT/hwAP7orP7N0hxDLHPSToIXt+7fUEfzt/f+1/KY2jh1sCACL9VzEDpcf0wDycOLMHK0Dpye2S445V8KBRyqs8NhzvMq1bQA"
+    },
+    {
+      "code": "CSP-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-020-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-020-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAQCdASoQABAAA4BaJZwAAhvmz8ywAP7rxEeqvxHREBNtN+Qr9DyAc/ZSYIqwSnlxKunvOnRsY0hzZGc1KEqQXsAzSUj1ehAOvGScc0wpRc3k/bYCbAAA"
+    },
+    {
+      "code": "CSP-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-021-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-021-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoQABAAA4BaJbACdH8AFXr8BsxnXiAA/vC1RB1ZsQ/zO48EGSZJA4VNo/JJ5oUrRonj7zJUaL2K7GRaqX0UjqS/roR1NXbz/HMiT/uM5Tx6KyCgkvxSh0q5jXGjgjOdOQ5r6eVV61xCMcA0yZDJ1nd8Nah9eod5cr1q8fwd+8wAAA=="
+    },
+    {
+      "code": "CSP-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-022-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-022-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAA4BaJQBYheACMTfqCTEgAP7rw8IfzOcMD5e8K0X4tGrZO0Y5RMX7lARydShOAy+6KbexlBLaTQwLWfR5ChTIHRwHCq1s3IsarcmSnJADnAAAAA=="
+    },
+    {
+      "code": "CSP-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-023-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-023-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQABAAA4BaJbACdADC9ogqGAD+68WEvmJ3jcvaoklP/C3/D9nJxBJQnQMCspwSNLkr1nCPTv7/iQfhMf++KeLYmsa+MsuE6xJYyEko5QYw2SjlmPAAAA=="
+    },
+    {
+      "code": "CSP-024",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-024-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-024-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-024-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJZQC7AEKpQNjFawAAP7wtRpN3WlVP0aCY1Opn5qL6OFw9igOuBbEvk8UL/lkE9T1srNgtvxOiDlO2GXOEsGtd77ORnGotWe5rSEJHIxtVxg2hSEAITeAAAA="
+    },
+    {
+      "code": "CSP-025",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-025-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-025-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-025-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAQCdASoQABAAA4BaJbACdADwwWDZgAD+6K4ngLUDVtAsdNzvNe/9hTRjlCAzMnkvi/SCtEofexkRt9fLB0sUPNpgMguXc27i+uZ9sVFQtLVtNb8yV5T/k/x78vpLztzN695smiOvJyTNM1EUAA=="
+    },
+    {
+      "code": "CSP-026",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-026-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-026-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-026-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQABAAA4BaJZwAAuQ2m7WJgAAA/th77Xbmc09QQ8KjjP9kS9fy+240BKmFc7hoLkXJW/+9bRjULhzasfaq7n0WHvfXFOcl3T/W1y7FsJv2O7BFawAAAA=="
+    },
+    {
+      "code": "CSP-027",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-027-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-027-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-027-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJQBOgCIAeaofm3yHiAD+6JS7ZonjS62JrbEaLhPrruO9MkTuFDjk/i1MxJc8iNXDJGItjm2nHe7ZJt8KYnkfuXS13DicEl2kROlUEvJ0HLCBlCqAUjPxomz2ljDZgAA="
+    },
+    {
+      "code": "CSP-028",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-028-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-028-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-028-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJagCdH8AFMZw7akZgAD+9UNFntM0WqUbW/c5WdaAfpZmx/+O9R+IXsuwahJElGMv8Kwqzr+HraJ+yRfCDH0FqOXCmeO4+DlkHYSRTJARtGM6LyQnU3yty4AAAA=="
+    },
+    {
+      "code": "CSP-029",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-029-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-029-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-029-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJQBdgB6+YTEn92AAAP71Vw+vlT/4FSBjAl+CWyV6lBD9x1gl8lU//6c8PZrKD5Baql+XEdA8thSEAL2B2mE2V/7VR87mn6LRwBNr+rj5lH747dzIAA=="
+    },
+    {
+      "code": "CSP-030",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-030-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-030-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-030-800.jpg",
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQABAAA4BaJaQAAupzLwwpFwAA/tegXbomkIYokeryb9b2H2T/UM0AteSQxkR7eG5i98v8cgtaMbi/A67NCnT/ExABeXhleAA="
+    },
+    {
+      "code": "CSP-031",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-031-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-031-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-031-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQABAAA4BaJQBYdiHenursVRgAAP7rNtdeGz9POKow/V2BcoPbc+zO4DUzwb7rsgFV6HSJGCxKou6LIBNYCXI9Se4LlEadqIGVlWShADg0+zxO8smbkAAA"
+    },
+    {
+      "code": "CSP-032",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-032-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-032-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-032-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoQABAAA4BaJYgCdH8AGAQqOepdkAAA/uu8+h6Omc0NuQ1RI3/byI0L2dqw2/7uWg6h6gqnMK0NkU+5QT48oxNeUNAutjdCscOURA+Y2L0wN/NvhLKJUuJPLAAAAA=="
+    },
+    {
+      "code": "CSP-033",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-033-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-033-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-033-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQABAAA4BaJQAAYXQvuuIFYFwA/vQKtPVe1HQQb8ioMvEqA0S7tKph+vZDfraOYdvRbjYXFgbyqYVH/OFVh+MbBFkMqQ8kksNYngn8ee+iGIem7XNCN9Io96RDgAAA"
+    },
+    {
+      "code": "CSP-034",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-034-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-034-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-034-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQABAAA4BaJQBdgB4Wupl8ZYAA/uvFxGITJmb4ZARQWMgs0C0ZF2rYXvAt+nx+BOhjPsFCo3/Chp/PSPrubUPEEOQF6eLG32uiwkdzO4pGESYNgAA="
+    },
+    {
+      "code": "CSP-035",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-035-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-035-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-035-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQABAAA4BaJbACdADC8V/qyAAA/vCzDRRUV4X2n77T6LU2XhVqPpliOFerGkd/N/y4BErNyVYjc+j9pLtLe9Y/IStad9M2S8Eyc2fbw23j1bxYpyB6AAAA"
+    },
+    {
+      "code": "CSP-036",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-036-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-036-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-036-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJYwBTAAtcBRnzjmEAP7ubJN2OwcH4baMOyv04kFPwVtKZfXAF5eBxJmquU8MKcMbG0bEssPySF74Dxm7TES5SslYvQxW3jcqMtlkQHP2S2LObHiTaLWX361Z4AAAAAA="
+    },
+    {
+      "code": "CSP-037",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-037-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-037-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-037-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoQABAAA4BaJYgCsO/7BcMd8/dmkqAAAP7ualRW1hrN+utEze5P7z0rbsPnWb3PkYDMFqZssu1uZCth1ASDq//nUmhyA7R1TVjvc19QaSVSGhS/f+BaUeeONAYQLhOs573IAqZb1QozACQA"
+    },
+    {
+      "code": "CSP-038",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-038-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-038-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-038-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJZAC7AECm63u8lddAAD+8oy8J/brSj1QvZJS/q8zCHNXERzqya3Bf6bDlA34JyW2Hh/bMNs5gIUZC0snfWA3fp7UH0Y2elq5M3uNsoqZy9adx8YCerOw3hNoad4TSBHYTW24/2KAAA=="
+    },
+    {
+      "code": "CSP-039",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-039-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-039-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-039-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoQABAAA4BaJZgC7H8AgxTFXJtIKoB2gAD+8LNmp+YmfHF2hyXwliFLLAySgHevHlumlRq6IyTXKC24d231jUl0ycOxdMKFf3Mxvyk3bq6kLDrU9r8qOfPrWrWOiVve6rgQlLiKZxDzmESGUwtrcGR8d0gAAA=="
+    },
+    {
+      "code": "CSP-040",
+      "w": 480,
+      "h": 480,
+      "thumb": "/img/cotton-handloom-silk-pallu/CSP-040-400.webp",
+      "full": "/img/cotton-handloom-silk-pallu/CSP-040-800.webp",
+      "fallback": "/img/cotton-handloom-silk-pallu/CSP-040-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoQABAAA4BaJYgAAzdYr6D/wAD8PLIKsaMkaUsG6vfTuGOPEPhGap8M+QvHiuoR7xMWWE90p5/W+TgPM7DJZOpSYnVQ0b2XHiz9AP8xJA/DyOiL4Ye23dP9AAA="
+    }
+  ]
+}

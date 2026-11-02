@@ -1,0 +1,14 @@
+<a class="skip-link" href="#main">Skip to content</a>
+@defer (on immediate; hydrate on idle) {
+  <app-announcement-bar />
+}
+<app-header />
+<main id="main" tabindex="-1">
+  <router-outlet />
+</main>
+@defer (on idle; hydrate never) {
+  <app-footer />
+}
+@defer (on idle; hydrate on idle) {
+  <app-floating-whatsapp [label]="floatingLabel()" />
+}

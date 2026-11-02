@@ -1,0 +1,21 @@
+{
+  "_note": "Images from the 00 folders. Output: public/img/site/<id>-<width>.<format>. Edit here to swap a photo, no code change needed.",
+  "items": [
+    { "id": "logo", "folder": "00 Homepage (banners, logo, press)", "file": "cropped-datt-1.png", "widths": [256], "format": "png" },
+    { "id": "hero-main", "folder": "00 Collections Page (category covers)", "file": "Untitled-design-7.jpg", "widths": [480, 800], "format": "webp" },
+    { "id": "hero-pallu", "folder": "00 Homepage (banners, logo, press)", "file": "topteni.jpg", "widths": [480, 831], "format": "webp" },
+    { "id": "hero-weaver", "folder": "00 Homepage (banners, logo, press)", "file": "WhatsApp-Image-2022-03-02-at-11.42.35.jpg", "widths": [480, 960], "format": "webp" },
+    { "id": "banner-loom", "folder": "00 Homepage (banners, logo, press)", "file": "14-1.jpg", "widths": [900, 1280], "format": "webp" },
+    { "id": "banner-shuttle", "folder": "00 Homepage (banners, logo, press)", "file": "20-1.jpg", "widths": [900, 1280], "format": "webp" },
+    { "id": "banner-spools", "folder": "00 Homepage (banners, logo, press)", "file": "WhatsApp-Image-2022-03-02-at-11.42.34.jpg", "widths": [900, 1280], "format": "webp" },
+    { "id": "press-the-hindu", "folder": "00 Homepage (banners, logo, press)", "file": "jo7qrMTA_400x400.jpg", "height": 120, "format": "webp" },
+    { "id": "press-deccan-herald", "folder": "00 Homepage (banners, logo, press)", "file": "75446759_10159227604148128_4832343725650739200_n.png", "height": 120, "format": "webp" },
+    { "id": "press-indian-express", "folder": "00 Homepage (banners, logo, press)", "file": "in.jpg", "height": 120, "format": "webp" },
+    { "id": "press-deccan-chronicle", "folder": "00 Homepage (banners, logo, press)", "file": "Deccan-chronicle_10.jpg", "height": 120, "format": "webp" },
+    { "id": "mark-india-handloom", "folder": "00 Homepage (banners, logo, press)", "file": "images-11.jpeg", "height": 160, "format": "webp" },
+    { "id": "mark-silk-mark", "folder": "00 Homepage (banners, logo, press)", "file": "images-12-1.jpeg", "height": 160, "format": "webp" },
+    { "id": "founder", "folder": "00 About Us", "file": "Konnappaji-Guled-1.jpeg", "widths": [358], "format": "webp" },
+    { "id": "about-story", "folder": "00 About Us", "file": "Untitled-design-3-1.png", "widths": [600], "format": "webp" },
+    { "id": "og", "folder": "00 Homepage (banners, logo, press)", "file": "topteni.jpg", "widths": [1200], "format": "jpg", "crop": [1200, 630] }
+  ]
+}

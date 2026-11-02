@@ -1,0 +1,54 @@
+// Self-hosted fonts (latin subset only).
+@import '@fontsource/inter/latin-400.css';
+@import '@fontsource/inter/latin-500.css';
+@import '@fontsource/inter/latin-600.css';
+@import '@fontsource/playfair-display/latin-400-italic.css';
+@import '@fontsource/playfair-display/latin-600.css';
+@import '@fontsource/playfair-display/latin-700.css';
+
+h1,
+h2,
+h3,
+.h1,
+.h2,
+.h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--c-ink);
+  margin: 0;
+}
+
+h1,
+.h1 {
+  font-size: clamp(2.5rem, 1.9rem + 2.6vw, 3.5rem);
+  line-height: 1.1;
+}
+
+h2,
+.h2 {
+  font-size: clamp(1.875rem, 1.6rem + 1.2vw, 2.5rem);
+  line-height: 1.15;
+}
+
+h3,
+.h3 {
+  font-size: clamp(1.25rem, 1.15rem + 0.4vw, 1.5rem);
+  line-height: 1.25;
+}
+
+.eyebrow {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--c-gold-text);
+}
+
+.lead {
+  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.0625rem);
+  line-height: 1.55;
+  color: var(--c-muted);
+  margin: 0;
+}

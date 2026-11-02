@@ -1,0 +1,8 @@
+services:
+  web:
+    build: .
+    image: pkguled-web:latest
+    container_name: pkguled-web
+    ports:
+      - "${HOST_PORT:-8080}:8080"
+    restart: unless-stopped

@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon / Motif" clip-path="url(#clip0_0_7)">
+<path id="Vector" d="M32 0H12C5.37258 0 0 5.37258 0 12V32C0 38.6274 5.37258 44 12 44H32C38.6274 44 44 38.6274 44 32V12C44 5.37258 38.6274 0 32 0Z" fill="#F1E6D3"/>
+<path id="Vector_2" d="M22 10L32 22L22 34L12 22L22 10Z" stroke-width="2" stroke="#7A1F2B"/>
+<path id="Vector_3" d="M22 16L27 22L22 28L17 22L22 16Z" fill="#B8893B"/>
+</g>
+<defs>
+<clipPath id="clip0_0_7">
+<rect width="44" height="44" fill="white"/>
+</clipPath>
+</defs>
+</svg>

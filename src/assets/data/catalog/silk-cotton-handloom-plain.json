@@ -1,0 +1,78 @@
+{
+  "slug": "silk-cotton-handloom-plain",
+  "count": 8,
+  "items": [
+    {
+      "code": "SCP-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-001-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-001-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJZgCdADHKobrDT0AAP7uaneRN82P/aaLg+LxA4dusQlduTTLzNMeddb9d1I8I6g92EnBMAPflqQNw+cYFSRYguoVwYof39yLlIDkc7CpQWb4x/nJx097CTuxkxLyoAAAAA=="
+    },
+    {
+      "code": "SCP-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-002-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-002-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJZgCdH8AEbkjFBi5QAD+6K092v0bktJzfw8ji+N55ytnB/NTf0yFvmjQO/5c3UPDsJo+yWeLchbFF4717C+eI208zEF166pFVMRLEMl8k9kLcpFRvmJ/XO0jbRvQmmO79gAA"
+    },
+    {
+      "code": "SCP-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-003-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-003-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoQABAAA4BaJaACdADw2pFcKuYAAP7rxbb/u4/7bGNvZ+75tXUvOuZ9eT7XzDdUHUkbpKfr2yXiaP+mGnX9E/Hm22jYFdUWfZv/exSIFKLdEFGk4GMLrVhPZmQNkdN6kARlKv2elqXKs8DAAAA="
+    },
+    {
+      "code": "SCP-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-004-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-004-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoQABAAA4BaJbACdADHfHv+j7IAAP7rxbkJ3u0xCdu7OaDQ/4Sl2a6lNRXKtzD+HWLzU9l4mDtcUxHI/SBoGsph35exw4XysfIeV8+BJSBeJ9eYFHP2EXaBrhCzJRlrStrrUUx2QilxevsVk+JQAA=="
+    },
+    {
+      "code": "SCP-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-005-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-005-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJbACdADD2AqBQZngAAD+68W5Cd03396GNZWjNFskbXHMhLPwCDhCFATGPsyddBEKnUtHozDVrTCjxJN0Ktznk7oBgqsoM8k+qmAU/e8THrfcpcXr7FY4QAA="
+    },
+    {
+      "code": "SCP-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-006-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-006-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAAA4BaJZACdADD2Apz91QA/th54Vf7NaI8JdB2sXfSlCnrkT00AmM2QJp3W2HiVJDfqlTB2dlVKptUOFEdwrK2IVYlOOR2EyvWlhNEAAAA"
+    },
+    {
+      "code": "SCP-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-007-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-007-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwAgCdASoQABAAA4BaJbACdDBGiIqIzDSxb7gAAP64W5lg+ecUX3QFL44mrJCjeKhar2U4CCeevHeNwOJvfv7zaBhC/lOasYCI1Taly6L5QXVT2LL0SyWI45v32JcltzBJz2z2FhUwthXAQetUV6/r9T6+Y1vtlUUA8hJZpKm++7a4oZU77RbE9eJAdj8fIAAAAA=="
+    },
+    {
+      "code": "SCP-008",
+      "w": 480,
+      "h": 480,
+      "thumb": "/img/silk-cotton-handloom-plain/SCP-008-400.webp",
+      "full": "/img/silk-cotton-handloom-plain/SCP-008-800.webp",
+      "fallback": "/img/silk-cotton-handloom-plain/SCP-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQABAAA4BaJbACdAE07Ym/vo7uAAD+l9wTX4fMftYQr9qGOFWm1s184Sd8nnj6tNbCBCwUr747yAaPkI7fhK3SuOzKBiFfUCIKsyDD47kVhouNAAA="
+    }
+  ]
+}

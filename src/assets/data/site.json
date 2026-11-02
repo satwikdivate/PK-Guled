@@ -1,0 +1,90 @@
+{
+  "brand": { "name": "P K Guled", "tagline": "Ilkal Sarees", "since": 1875, "monogram": "PK", "logo": "/img/site/logo-256.png" },
+  "contact": {
+    "whatsapp": "919448125460",
+    "phoneDisplay": "+91 94481 25460",
+    "email": "TODO",
+    "address": ["3809, New Kothwal Peth, Ward No. 5", "Ilkal 587125, Taluk Hungund", "District Bagalkote, Karnataka, India"],
+    "mapsUrl": "https://www.google.com/maps/place/P+K+GULED+Ilkal+Sarees/@15.9569658,76.1154364,17z",
+    "mapsEmbed": "https://www.google.com/maps?q=15.9569658,76.1154364&z=16&output=embed",
+    "geo": { "lat": 15.9569658, "lng": 76.1154364 },
+    "gstn": "29ACKPG7177L1ZW",
+    "hours": "TODO"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/pkguledsarees",
+    "facebook": "https://www.facebook.com/pkguledilkalsarees/",
+    "youtube": "https://www.youtube.com/channel/UCG_9ZyyOonC7JoyySD5AoRA",
+    "justdial": "https://www.justdial.com/Bagalkot/P-K-Guled-Sarees-Near-ShaleshwarTemple-Ilkal/9999P8354-8354-181127205043-Y5I7_BZDET"
+  },
+  "announcement": [
+    "Handwoven in Ilkal since 1875",
+    "Shipping across India and worldwide",
+    "Prices and orders on WhatsApp: {phone}"
+  ],
+  "pages": {
+    "collections": {
+      "title": "All Ilkal Saree Collections | P K Guled",
+      "description": "Browse all 14 Ilkal saree collections from P K Guled: pure silk, silk cotton, cotton and viscose cotton handloom sarees, plus Khun blouse fabric.",
+      "eyebrow": "OUR COLLECTIONS",
+      "heading": "All collections",
+      "lead": "14 handloom collections, woven in Ilkal. Tap any collection to see every design, then ask for photos and the price on WhatsApp.",
+      "fabricLabel": "Fabric",
+      "loomLabel": "Loom",
+      "fabrics": [
+        { "value": "all", "label": "All" },
+        { "value": "silk", "label": "Silk" },
+        { "value": "silk-cotton", "label": "Silk Cotton" },
+        { "value": "cotton", "label": "Cotton" },
+        { "value": "viscose-cotton", "label": "Viscose Cotton" },
+        { "value": "khun", "label": "Khun" }
+      ],
+      "looms": [
+        { "value": "all", "label": "All" },
+        { "value": "handloom", "label": "Handloom" },
+        { "value": "powerloom", "label": "Powerloom" },
+        { "value": "fabric", "label": "Blouse fabric" }
+      ],
+      "empty": "No collection matches these filters."
+    },
+    "visit": {
+      "title": "Visit P K Guled in Ilkal | Address, Map and Contact",
+      "description": "Visit the P K Guled saree store at New Kothwal Peth, Ilkal, Karnataka. Get directions, call or message us on WhatsApp.",
+      "hoursLabel": "Opening hours",
+      "hoursFallback": "Call ahead and we will plan your visit."
+    },
+    "notFound": {
+      "title": "Page not found | P K Guled Ilkal Sarees",
+      "eyebrow": "404",
+      "heading": "This page is not on our looms",
+      "text": "The page you are looking for has moved or does not exist. Our collections are just a tap away.",
+      "button": "Browse collections"
+    },
+    "category": {
+      "breadcrumbHome": "Home",
+      "breadcrumbCollections": "Collections",
+      "askCollection": "Ask about this collection",
+      "askPrice": "Ask price",
+      "lightboxAsk": "Ask price on WhatsApp",
+      "share": "Share",
+      "copied": "Link copied",
+      "endText": "Showing all {count} designs",
+      "endCta": "Didn't find your colour? Ask us on WhatsApp"
+    }
+  },
+  "footer": {
+    "about": "Ilkal saree manufacturers, wholesalers and exporters since 1875.",
+    "floatingLabel": "Ask for price"
+  },
+  "whatsappTemplates": {
+    "general": "Hello P K Guled, I would like to know more about your Ilkal sarees.",
+    "category": "Hello P K Guled, please share price and available colours for {category}.",
+    "item": "Hello P K Guled, I am interested in saree {code} ({category}). Please share price and availability."
+  },
+  "seo": {
+    "siteUrl": "https://pkguledilkalsarees.com",
+    "defaultTitle": "P K Guled | Authentic Ilkal Sarees from the Looms since 1875",
+    "defaultDescription": "Handwoven Ilkal sarees direct from the weavers in Ilkal, Karnataka. Pure silk, silk cotton and cotton handloom sarees. Enquire on WhatsApp.",
+    "ogImage": "/img/site/og-1200.jpg"
+  }
+}

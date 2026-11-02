@@ -1,0 +1,60 @@
+// Design tokens. Values follow the Figma landing page (Landing / Desktop 1440).
+:root {
+  --c-maroon: #7a1f2b;
+  --c-deep: #4a1018;
+  --c-gold: #b8893b; // decorative only (dots, lines, quote marks)
+  --c-gold-text: #856020; // gold for text: 4.6:1 or better on ivory, sand and white
+  --c-gold-light: #e2b86a;
+  --c-ivory: #fbf6ee;
+  --c-cream: #f3e3c3;
+  --c-sand: #f1e6d3;
+  --c-map: #e7dcc8;
+  --c-ink: #2a1a17;
+  --c-muted: #6b5b55;
+  --c-night: #24090e;
+  --c-night-line: #3e2026;
+  --c-night-text: #d9c6bd;
+  --c-night-muted: #9c857d;
+  --c-wa: #157f3d; // Figma #178a43 darkened slightly for 5:1 contrast with white text
+  --c-wa-dark: #116a33;
+  --c-white: #fff;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-card: 20px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
+
+  --shadow-card: 0 1px 2px rgb(42 26 23 / 6%), 0 8px 24px rgb(42 26 23 / 8%);
+  --shadow-wa: 0 8px 10px rgb(23 138 67 / 28%);
+  --shadow-badge: 0 12px 16px rgb(51 13 13 / 18%);
+
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 24px;
+  --s-6: 32px;
+  --s-7: 48px;
+  --s-8: 64px;
+  --s-9: 96px;
+  --s-10: 128px;
+
+  --container: 1200px;
+  --gutter: 20px;
+  --section-y: 64px;
+  --header-h: 64px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+
+  @media (min-width: 768px) {
+    --gutter: 32px;
+    --section-y: 80px;
+  }
+  @media (min-width: 1024px) {
+    --header-h: 85px;
+    --section-y: 96px;
+  }
+}

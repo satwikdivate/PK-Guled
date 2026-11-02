@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "eyebrow": "HANDWOVEN IN ILKAL, KARNATAKA  •  SINCE 1875",
+    "heading": "Authentic Ilkal sarees, woven by one family for 150 years",
+    "subheading": "Buy direct from the looms. Pure silk, silk-cotton and cotton handloom sarees with the signature Tope Teni pallu, shipped to your door in India and abroad.",
+    "primaryCta": "Get prices on WhatsApp",
+    "secondaryCta": { "label": "Explore collections", "route": "/collections" },
+    "trust": ["150 years at the loom", "Ships worldwide", "Loved on Google reviews"],
+    "badge": { "value": "150+", "label": "years of weaving" },
+    "collage": {
+      "main": { "id": "hero-main", "alt": "Ilkal silk saree with Tope Teni pallu", "width": 800, "height": 800 },
+      "top": { "id": "hero-pallu", "alt": "Tope Teni pallu close-up", "width": 831, "height": 557 },
+      "bottom": { "id": "hero-weaver", "alt": "Weaver at the handloom", "width": 960, "height": 640 }
+    }
+  },
+  "press": {
+    "label": "AS FEATURED IN",
+    "items": [
+      { "name": "The Hindu", "image": "press-the-hindu", "width": 120, "height": 120 },
+      { "name": "Deccan Herald", "image": "press-deccan-herald", "width": 120, "height": 120 },
+      { "name": "The Indian Express", "image": "press-indian-express", "width": 120, "height": 120 },
+      { "name": "Deccan Chronicle", "image": "press-deccan-chronicle", "width": 213, "height": 120 }
+    ]
+  },
+  "howToOrder": {
+    "eyebrow": "HOW TO ORDER",
+    "heading": "Ordering is as easy as sending a message",
+    "lead": "Prices, real photos and colour options are shared personally on WhatsApp. No forms, no checkout, a real person from our family replies.",
+    "cta": "Start a WhatsApp chat",
+    "steps": [
+      { "title": "Pick a design", "text": "Browse our collections below or ask us for the latest catalogue on WhatsApp." },
+      { "title": "Get the price on WhatsApp", "text": "We reply with real photos, colour options and the price for your chosen design." },
+      { "title": "Delivered to your door", "text": "Packed with care at our Ilkal store and shipped across India and worldwide." }
+    ]
+  },
+  "collections": {
+    "eyebrow": "OUR COLLECTIONS",
+    "heading": "Shop by fabric",
+    "lead": "14 handloom collections, woven in Ilkal. Tap any saree to get photos and the price on WhatsApp.",
+    "viewAll": "View all 14 collections",
+    "filterLabel": "Shop by fabric:",
+    "filters": [
+      { "value": "all", "label": "All" },
+      { "value": "silk", "label": "Silk" },
+      { "value": "silk-cotton", "label": "Silk Cotton" },
+      { "value": "cotton", "label": "Cotton" },
+      { "value": "viscose-cotton", "label": "Viscose Cotton" },
+      { "value": "khun", "label": "Khun" }
+    ]
+  },
+  "story": {
+    "eyebrow": "OUR STORY",
+    "heading": "Since 1875. Still at the same looms.",
+    "paragraphs": [
+      "P K Guled began weaving Ilkal sarees in 1875. Today we are the oldest saree house in Ilkal, working with local weaver families to keep the Tope Teni pallu and Kasuti traditions alive.",
+      "Every saree you order is woven, checked and packed at our own store in New Kothwal Peth, Ilkal."
+    ],
+    "image": { "id": "founder", "alt": "Konnappaji Guled, founder of P K Guled", "width": 358, "height": 406, "caption": "Konnappaji Guled" },
+    "stats": [
+      { "value": "1875", "label": "Year we started" },
+      { "value": "14", "label": "Handloom collections" },
+      { "value": "Global", "label": "India and abroad" }
+    ],
+    "primaryCta": { "label": "Read our story", "route": "/about" },
+    "secondaryCta": { "label": "Book a loom tour", "route": "/visit" }
+  },
+  "why": {
+    "eyebrow": "WHY P K GULED",
+    "heading": "Buy from the makers, not a middleman",
+    "features": [
+      { "icon": "motif", "title": "Truly handwoven", "text": "Small slubs and yarn variations are the fingerprint of a handloom. No two sarees are identical." },
+      { "icon": "motif", "title": "Signature Tope Teni pallu", "text": "The classic temple-pattern pallu, joined to the body with the traditional Kondi technique." },
+      { "icon": "motif", "title": "Direct from manufacturer", "text": "We weave, wholesale and retail ourselves, so you get the fair price with no reseller margin." },
+      { "icon": "motif", "title": "Care guide with every order", "text": "Dry clean for silk. Hand wash cotton with reetha powder to keep colours rich for years." }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "CUSTOMER REVIEWS",
+    "heading": "Loved from Ilkal to New Jersey",
+    "lead": "Real words from customers on Google and Facebook.",
+    "cta": { "label": "Read all Google reviews", "href": "TODO" },
+    "items": [
+      { "name": "Shruti Ayade", "place": "Ordered from the USA", "source": "Google", "text": "Beautiful collection and very prompt. I ordered from New Jersey and received them quickly. The sarees are beautiful, very good quality." },
+      { "name": "Namratha Rao", "place": "Visited the Ilkal store", "source": "Google", "text": "We travelled from Bengaluru to Ilkal to buy one or two sarees and ended up buying 15. Worth the long travel, and the quality is simply excellent." },
+      { "name": "Vani D K", "place": "Ordered on WhatsApp", "source": "Google", "text": "I sent a message, they shared the catalogue on WhatsApp, I picked and ordered, and the parcel reached me in 3 days. Awesome quality." }
+    ]
+  },
+  "visit": {
+    "eyebrow": "VISIT US IN ILKAL",
+    "heading": "See your saree being woven",
+    "text": "Walk through our store and watch the handlooms at work. Visitors tell us the loom tour is the highlight of their trip. Call ahead and we will plan it for you.",
+    "cardTitle": "P K Guled Sarees",
+    "directions": "Get directions",
+    "showMap": "Show map"
+  },
+  "finalCta": {
+    "eyebrow": "NEW DESIGNS EVERY WEEK",
+    "heading": "Find your Ilkal saree today",
+    "text": "Send us a message and get real photos, colour options and prices on WhatsApp.",
+    "button": "Chat with us on WhatsApp"
+  }
+}

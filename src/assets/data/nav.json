@@ -1,0 +1,25 @@
+{
+  "header": [
+    { "label": "Collections", "route": "/collections" },
+    { "label": "How to Order", "route": "/", "fragment": "how-to-order" },
+    { "label": "Our Story", "route": "/about" },
+    { "label": "Reviews", "route": "/", "fragment": "reviews" },
+    { "label": "Visit Ilkal", "route": "/visit" }
+  ],
+  "footer": {
+    "collections": [
+      { "label": "Pure Silk Handloom", "route": "/collections/pure-silk-handloom" },
+      { "label": "Silk Cotton Handloom", "route": "/collections/silk-cotton-handloom-plain" },
+      { "label": "Pure Cotton Handloom", "route": "/collections/pure-cotton-queen" },
+      { "label": "Khun Blouse Fabric", "route": "/collections/khun-materials" },
+      { "label": "All collections", "route": "/collections" }
+    ],
+    "help": [
+      { "label": "How to order", "route": "/", "fragment": "how-to-order" },
+      { "label": "Shipping in India and abroad", "route": "/visit" },
+      { "label": "Saree care guide", "route": "/about" },
+      { "label": "Returns and exchanges", "route": "/visit" },
+      { "label": "FAQs", "route": "/visit" }
+    ]
+  }
+}

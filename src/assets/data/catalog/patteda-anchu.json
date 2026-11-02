@@ -1,0 +1,276 @@
+{
+  "slug": "patteda-anchu",
+  "count": 30,
+  "items": [
+    {
+      "code": "PAA-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-001-400.webp",
+      "full": "/img/patteda-anchu/PAA-001-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAQCdASoQABAAA4BaJZgAAhVtF+gA/m0yYqU+PUMx1LQBxehsXPU114l328B8Ez4cTHR4Ep81lIpmcAWn7GpyhKtv53WgUTAi/wqd87dtBvpa1UAAAA=="
+    },
+    {
+      "code": "PAA-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-002-400.webp",
+      "full": "/img/patteda-anchu/PAA-002-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQABAAA4BaJbACdADpKr/YQAD+nCH1sbYsmGev2OuxENAwaozjDGU3Pn4gSHHJLo+gQypf2jb26x7YCPrGoXKHGGwB52aysr9/Ob2Nbrmde8tpNRwAAA=="
+    },
+    {
+      "code": "PAA-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-003-400.webp",
+      "full": "/img/patteda-anchu/PAA-003-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQABAAA4BaJYgAAusTxjY2gAD+bTmISvMSLhFo73NCO8ja44od2LDukbnTa+MwsCaTWktdx0I0HU/Cy8k6yr/toLigAA=="
+    },
+    {
+      "code": "PAA-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-004-400.webp",
+      "full": "/img/patteda-anchu/PAA-004-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQABAAA4BaJbACdAEVTBlpkUAA/pwx/y4382veisuiIyIdKyYrnWPYGSl4Xm4y39qP/181eTefL2sG81PySuJf/q+3lL9IwoAAAA=="
+    },
+    {
+      "code": "PAA-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-005-400.webp",
+      "full": "/img/patteda-anchu/PAA-005-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQABAAA4BaJZACdAEN1vea7AD+C/OLn9Zp8hg5v8s6R+lBkUgxiUV1VrLYFMaN9fHj2lpEuoCAgocqdy4AAA=="
+    },
+    {
+      "code": "PAA-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-006-400.webp",
+      "full": "/img/patteda-anchu/PAA-006-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJbACdAD1e+EM/XQAAP64QV2l6+itpB8/gOtMgTowtV964OsG0e7+EcQLwQi8O/LAahofmEGVEgVMIz5yRjeFZFDe8eK8Y+X1apJ1+avcu50AAAA="
+    },
+    {
+      "code": "PAA-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-007-400.webp",
+      "full": "/img/patteda-anchu/PAA-007-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJbACdADRGkvUgDwAAP7ik+kpebIwdaD081vnPJciIl6z+vebjLw1EXqL9R/+QvGKa9o4VDLxucJfnSpSXVdjpBRVAWafrl+d2fXT/IwVHi5AAAA="
+    },
+    {
+      "code": "PAA-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-008-400.webp",
+      "full": "/img/patteda-anchu/PAA-008-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQABAAA4BaJbACdADC6mjzAAD+4psx+ga/Bc/g70DWSaxvqLtWPYTHCAvDvIVbp/0lo7QlhV4Low3t2Xh10Fd+wIRY/M2E1RrbZ69P7HnY6rDEMrAAAA=="
+    },
+    {
+      "code": "PAA-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-009-400.webp",
+      "full": "/img/patteda-anchu/PAA-009-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJbACdAC8+imBp0xAAP7Ksn9hh5UtzJiF4P8NymQHbdBv8Tyyr17JUAxDyo1i6W+W/8eSx9q/xLn4CwUcojx4f6rNwUsKViethznO0Z5WaweQ675VmtHUBPxNoAAA"
+    },
+    {
+      "code": "PAA-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-010-400.webp",
+      "full": "/img/patteda-anchu/PAA-010-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJbACdAC3c/RTMNoQAP7oq0E07MPUzOprYk9Ru3EwQzftUsNyV2Jsa4C/QIbf8dPIR2G/DAsiTIB+1+BE1fnYnVFezlHfzj6h4ivm10FjaOb67fLVWKjUKle+JmfCCxTDW6AA"
+    },
+    {
+      "code": "PAA-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-011-400.webp",
+      "full": "/img/patteda-anchu/PAA-011-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJZgCdAEU2+5X5KTAAP7Kugfd8ri7bFJ9yVKOOOBW/qxAVgKO0lssq3EJ3AQsLC5GLfTeWA3VhB16GW1dpY0DA8bCBwLLySHY9n/MADI1Xa1WKSWNXwAA"
+    },
+    {
+      "code": "PAA-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-012-400.webp",
+      "full": "/img/patteda-anchu/PAA-012-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQABAAA4BaJbACdADp7/4R1AAA/uKdDTk0+2zae6z/AMyGKNwL+kKA+OrGnh4NakIJpEqF6fCCkjmvfbWvowlL2wMetCObjrpt1l1mOowAAA=="
+    },
+    {
+      "code": "PAA-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-013-400.webp",
+      "full": "/img/patteda-anchu/PAA-013-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQABAAA4BaJbACdADD2AW3CAAA/rhU22A1IuECTIlBhQFzjhdl31Qmpg5QTDNSiBygoOb2ExK5Oo4ou3rVq3uvTBD9e3r7EJqg3+TUE1dRtdJf4Zi1WgAA"
+    },
+    {
+      "code": "PAA-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-014-400.webp",
+      "full": "/img/patteda-anchu/PAA-014-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQABAAA4BaJbACdADjbOAraDgA/uiuEom9xdvqXK6THt/KrBkxfHyyCpdh+YAVytESKMLafHC4sUZb/9UuHD5zbLZb2Oau5M2tfsUNXyAAAA=="
+    },
+    {
+      "code": "PAA-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-015-400.webp",
+      "full": "/img/patteda-anchu/PAA-015-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdADiaEaTuxKKAAD+2G8IJnq/6F0qxvsIeSJfc4TdYLG/GS+vMSzO7pZoGboSZ3lKEdxu5JyUuPR5mnUA+us5eOHp6N3u7A0EnU8+bXHLI2mIzmSHvV5Cqp6/CcoXAAAA"
+    },
+    {
+      "code": "PAA-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-016-400.webp",
+      "full": "/img/patteda-anchu/PAA-016-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQABAAA4BaJbACdADQ7l250QAA/vZ1e4IoCZ77I11hUzp+zige5rwWWRMOKjcmSvjaT0VhAdTthEdYjDBEJh4A3dHjfNvLbQviTwxKwRPAb9ZGtdGVaByI/+oWAAAA"
+    },
+    {
+      "code": "PAA-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-017-400.webp",
+      "full": "/img/patteda-anchu/PAA-017-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQABAAA4BaJZACdDBAAVnwGEZz+AAA/vVXNvuoaa2xomVriS3AUHwdyxhL8OKZnAllppKf3m3WqxgncLq1V7BnEDGd6ScyvK+YFu87l8Ia0NkPsjV2qsfWC8c8i24gAAA="
+    },
+    {
+      "code": "PAA-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-018-400.webp",
+      "full": "/img/patteda-anchu/PAA-018-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJagCdADHZnW4D+VAAP7oocp8sI0mOXRf8MXVpgYfRpXD0wPb9QDpERaqsrNEv60tjxIFI2GLlJRQ9/037eOdHDwhBGRRW8yFvap16Kk06XhXNIQUzwyX4T44t76QAAA="
+    },
+    {
+      "code": "PAA-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-019-400.webp",
+      "full": "/img/patteda-anchu/PAA-019-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJbACdAEYFOWgB09qAAD+9Vc3J1deuOgv41tG7duVzeTGF9+scedR+L+C2V59qf0OD4XjtcZrFDhjC2u6qu7enXDW2T3Qoap9pJ/4KL+wJ4x0/Um9tAY5jGPGAAAA"
+    },
+    {
+      "code": "PAA-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-020-400.webp",
+      "full": "/img/patteda-anchu/PAA-020-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJbACdFQAAutlzOzMGAD+9nWFZKs50FH4LSeb7rw/vaxtXkexKfeXmFd5wmTRHLCSlmIXzjA6/7znTWhHo9ekMBUEpO6ra6S+XXz/CV57KuM7O6x6TuKuzUWwAA=="
+    },
+    {
+      "code": "PAA-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-021-400.webp",
+      "full": "/img/patteda-anchu/PAA-021-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQABAAA4BaJaQAAv2coI3fXigAAP71Vzdarr272StKwZANku3if2GwXXft2TOVXu1lty0Deeg6sPIlD9FdSkZrAxxa5G8QY69kL11u5hWGvGJ3AAA="
+    },
+    {
+      "code": "PAA-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-022-400.webp",
+      "full": "/img/patteda-anchu/PAA-022-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJbACdADRqXMDb9Vg4AD+9BEVT2HSQsSPFv32q7G2OM5pIYoSg04S/CbA3GvCV9/aQRe9NqIPdmSuPu/oNnzFZE6crueS9g0i8bs710M1aWirYXeG5zxwwwQAAA=="
+    },
+    {
+      "code": "PAA-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-023-400.webp",
+      "full": "/img/patteda-anchu/PAA-023-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQABAAA4BaJagCdACAy4cmUAAA/vVXypgsrfiUg5DC727/e7hps+soVKe/10xVZptrWBd1n37AAALzvWzJNwWJtcpETQ7zyDlVXngv1QXuQ48X8nDfQhcy8HQ+5WT2VT5FAAAA"
+    },
+    {
+      "code": "PAA-024",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-024-400.webp",
+      "full": "/img/patteda-anchu/PAA-024-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-024-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwAgCdASoQABAAA4BaJZAC7DBHf/+CtZdlgTGafgAA/vC1M8ZapJMf0uPUAzOU4DpSjtitTzMxO7/M6CABR8NN3U8i4aYdq2bD/BEPuMB4rbRX8z7oDtO8dIAKFgg+qndU5pJ3q1sG+PuBoAA="
+    },
+    {
+      "code": "PAA-025",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-025-400.webp",
+      "full": "/img/patteda-anchu/PAA-025-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-025-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJYgC7AEPOdjO1zYQAP7GB82Y4uzy0x78xxqibjyFH8XwzRb8Sv5xkZuHmsRUqbpFDcVCw0KfLXxmMmj/77fkDniKPoUNwoq822MrzWp/TFlPkaAAAA=="
+    },
+    {
+      "code": "PAA-026",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-026-400.webp",
+      "full": "/img/patteda-anchu/PAA-026-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-026-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQABAAA4BaJbACdH8AFchjELwAAP7imGafI0r8M/dDDxWm5YkWsmftpwg4431iVmCd4VwG0ZvV7kliuf6fBTbkOb+Uv0fZrwUz5lftiiYwwZneSwcBnf6Xmoduib401pyAAA=="
+    },
+    {
+      "code": "PAA-027",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-027-400.webp",
+      "full": "/img/patteda-anchu/PAA-027-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-027-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJZgC7AEPCveQbvfoAAD+W//A0umlauJhUy63z32+tEpchbdoMNsyvC2vzUZbJ0ZR442BjGnkCgRyf6rhjIVQQMuPC4dYZPKeUSAM/PyV85C0c1YTkuw2vVz7XDa8AAA="
+    },
+    {
+      "code": "PAA-028",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-028-400.webp",
+      "full": "/img/patteda-anchu/PAA-028-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-028-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQABAAA4BaJbACdAD7Za75RgAA/uKczBzk7b8CNbeOrxlAlORDTEH122eonvcCoh/FplqasZS67gAFDa1apTGqPc4pl4zpr1LC3VmakM1wepn+xVOF4WyXawAAAA=="
+    },
+    {
+      "code": "PAA-029",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-029-400.webp",
+      "full": "/img/patteda-anchu/PAA-029-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-029-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJQBdgCB/olMSW4lgAP64Wy7fYCWGJF7LLfXhnXYjdVt7X0EIJB8JmgxfGXm1LnS/W3//EjLEqjrabN5MhPNOqaqO5P4Trr/x0wvD5GtYfhiqPFQAAA=="
+    },
+    {
+      "code": "PAA-030",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/patteda-anchu/PAA-030-400.webp",
+      "full": "/img/patteda-anchu/PAA-030-800.webp",
+      "fallback": "/img/patteda-anchu/PAA-030-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQAgCdASoQABAAA4BaJaACdH8AGZZNe3fNnW3cAAD+68WaTXWJUitQfBNQiaA7aOEwAJiuPevZLaQlXbQveunwWv+REFc8lpGHJ6Mi6ilzYMQ1oh1KG3cMtxfPf5a3zztcm244TEWrJdcYAAA="
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "pure-silk-handloom",
+    "count": 64,
+    "cover": "/img/site/cover-pure-silk-handloom-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJbACdAD6GiPSzQg3gAD3SRjI/ehwYdpsiHQUPXeQzmlX1LMyD2VVJdaiAbST0VBpRwtHbVNeMu1tQvXTstZ278PMqk0SqHYV/zYyU7tz+6jZBiyMoCLWivQaCkUgAAA="
+  },
+  {
+    "slug": "pure-silk-powerloom",
+    "count": 56,
+    "cover": "/img/site/cover-pure-silk-powerloom-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQABAAA4BaJZACdAEWzO2e32D8XgAA/i6O2SMFxiFLX+D7j3PZXxenAoF5JzzBOaYNaJCoXcFSiCDMfpVCLIrflwWiOYSnnoZSH50jkW9qtkPGZUdroM7vQUd0HRscDPW6+cnMwAA="
+  },
+  {
+    "slug": "silk-cotton-handloom-plain",
+    "count": 8,
+    "cover": "/img/site/cover-silk-cotton-handloom-plain-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQABAAA4BaJbACdAE07Ym/vo7uAAD+l9wTX4fMftYQr9qGOFWm1s184Sd8nnj6tNbCBCwUr747yAaPkI7fhK3SuOzKBiFfUCIKsyDD47kVhouNAAA="
+  },
+  {
+    "slug": "silk-cotton-kasuti-work",
+    "count": 33,
+    "cover": "/img/site/cover-silk-cotton-kasuti-work-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQABAAA4BaJbACdADibt19nXIAAP5bG4c1KJjZ39UNMGxPzY6OF9PzINju6kI+G62lLfaL0uDlXdNlR7F5stx3/ciqfWt20eeaVZK6PXI+ndbgEAA="
+  },
+  {
+    "slug": "silk-cotton-non-sattin-border",
+    "count": 77,
+    "cover": "/img/site/cover-silk-cotton-non-sattin-border-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAA4BaJZACdAdwLf/rFMI+rXmAAP7uPVeDGnaTVvLl0vfwpAuy9L+pPSDOme05YtTVieF2Nl+FDBwu/qced33bK1USYmDECmPPpgdY1EvSm5265opVaAftkEeioEMIfhXmnizFK7h3gISGXkYZ9m9p/jYZFxgAAA=="
+  },
+  {
+    "slug": "silk-cotton-handloom-chex",
+    "count": 23,
+    "cover": "/img/site/cover-silk-cotton-handloom-chex-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQABAAA4BaJYgCdADRcRHCgADifvbx0SJgTHV/++mpbMIcCbj0tnWz1hP3g074T59ePW4t4EqR3bLM1ijq6S4a/cXnHhlYHQHqP0AzAAA="
+  },
+  {
+    "slug": "pure-cotton-queen",
+    "count": 95,
+    "cover": "/img/site/cover-pure-cotton-queen-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQABAAA4BaJbACw7DRjpLjuAD+2FHI3zvSYt0izlF3CI0iyZNxYc9kPYaKXjnAVXCwWW3wNiyhPDLA1oQ71XkMEOvN/BfMlHhlTWI0X/3Zu7f+GbXEzG1J3DqGZW2bsAA="
+  },
+  {
+    "slug": "cotton-handloom-silk-pallu",
+    "count": 40,
+    "cover": "/img/site/cover-cotton-handloom-silk-pallu-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoQABAAA4BaJYgAAzdYr6D/wAD8PLIKsaMkaUsG6vfTuGOPEPhGap8M+QvHiuoR7xMWWE90p5/W+TgPM7DJZOpSYnVQ0b2XHiz9AP8xJA/DyOiL4Ye23dP9AAA="
+  },
+  {
+    "slug": "gayatri-border-silk-pallu",
+    "count": 49,
+    "cover": "/img/site/cover-gayatri-border-silk-pallu-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQABAAA4BaJbACdAYvr25o/3FlCsAA/vCEyDfwl8w3kowhKwzCAO3Sbqq5NQHQgXmLjU+kmh6BsR/s8Fy/sgFU0MWXDCEBmHnAaM7nMKFJ2nhTSRyzWsLThun58BWVLx1nMfDvUS0YAAAA"
+  },
+  {
+    "slug": "viscose-cotton-chex-silk-pallu",
+    "count": 28,
+    "cover": "/img/site/cover-viscose-cotton-chex-silk-pallu-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJagCdADRFV2b0AAA/uHPsIi0BrjghP/kU72mLNXzwVn02UhGUsDgD81dARbYS3VS7kfLQcuRm8IcyULNDn78aJUhApps5q+ObgySsnZjjOyAAAA="
+  },
+  {
+    "slug": "patteda-anchu",
+    "count": 30,
+    "cover": "/img/site/cover-patteda-anchu-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQABAAA4BaJbACdAERH7i4t6+GAAD+5obO//ePLjjrsJ0NDvZuAilgCEvnET+GsIp2dsVcAD9BzTlXeZ0kxjfD4wnJbbVS2ECiC/bQAAA="
+  },
+  {
+    "slug": "viscose-cotton-plain-silk-pallu",
+    "count": 22,
+    "cover": "/img/site/cover-viscose-cotton-plain-silk-pallu-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQAwCdASoQABAAA4BaJbACdG1/dB5/2CKmLcIhf/NCWfp4AADODHG9AF0+J67LKVaCa/GEUO9M4t/qmyZVe0gn/NiG9/8Fh86E8YoHHK4HMoIegVFS+pMRvMk2prFQcyaqGutDsrR6gUFyYZNzUgX6U7lfbhEOdaj5/uKUQW7BSg0qJWMVJytm6C5mTIAA"
+  },
+  {
+    "slug": "viscose-cotton-powerloom-plain",
+    "count": 10,
+    "cover": "/img/site/cover-viscose-cotton-powerloom-plain-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAAA4BaJbACdADOP3e422AA/fiFu2wJO8+gSaFfUB5ELnPyQOElIW6FV4+6bNhykTzkh0HV2AHA7aor7BvJuY6WI877q5FK/MXPU8iGa4AA"
+  },
+  {
+    "slug": "khun-materials",
+    "count": 35,
+    "cover": "/img/site/cover-khun-materials-600.webp",
+    "coverBlur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJagCdAD7Ed2k2FH8EAD+6hR7738tb07Z4vh0R8Kz5vmlpNkb+nWeLTL4mLBEUtrcSIbYzSUlvOEMvoKslBXVeXB0c+m2eGBjhKbtn039oFP6ysjuylRgAAA="
+  }
+]

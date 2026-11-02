@@ -1,0 +1,582 @@
+{
+  "slug": "pure-silk-handloom",
+  "count": 64,
+  "items": [
+    {
+      "code": "PSH-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-001-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-001-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQABAAA4BaJbACdBHMBgSxv+Wv4AD+6vOWA1fbloSVnjgYOHWa/2nQpfxrc4D1CYbUBbp1shW5syHuS4kP2gV3HigJkMMOxMjear7fUBwKGtTqVg7V4F/LW7sk6jtKzhd7e6TfySc6ukhR/Exsd/QA"
+    },
+    {
+      "code": "PSH-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-002-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-002-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJbACdH8AGZxEAdPggAD+6K4o1zTjwsTjhe9wXtUUqnuxkiK8YhvCqSeAz6E5x3wncQNT2JmKTSZ/G/nu+I8F6eCA6JKomPIJiJ+sRLi0nCTZOOf5GKiHmCbJCEFcgAA="
+    },
+    {
+      "code": "PSH-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-003-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-003-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJbACdAEfvcyos4vBMAD+uF2+1bb+1CRWAulPwK67nWv5d4nTVumaSzL5wJb9B+QbP/LtkfjXCBSwTx70CHyscqI1hkhBXbl2VH0Gk8BW5G+45GHzzG29k1AAAA=="
+    },
+    {
+      "code": "PSH-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-004-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-004-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoQABAAA4BaJZAC7AYt9y+xKnxbgIAAAP7uap71BqSuR7deU7DtymE3u164iFkaunWfMQ0foZvK0YChPDBN/4J7dQDec+bB2pguIPTDR3UeLRiZNLQij59VH0ylr7OZI+G4MrYikw577xSiGke4+jIA+vDFV2RJjAA="
+    },
+    {
+      "code": "PSH-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-005-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-005-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoQABAAA4BaJbACdAYr7LzXUT3EAAD+6K0rjW9yvakwi5B7sHT8wrg3nE2L7N+n31aS/sb2XDi+RmgkNDiAkARUuv3cd0LkLu8jnyGUnfho/LUhuqIKovqVfh+2g4PcEvizFAfZ96m/9ncnsLVKmIXKJaN8WM7RztZ3z4zXGoobVtqKePRAAA=="
+    },
+    {
+      "code": "PSH-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-006-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-006-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQABAAA4BaJYgAD4xvOd9TfcxU0AD+6K4SeIRM5YZd+83Mn9484VLSTR5VPNrUh60Hv1N10NjpS2nJyRB7zPslvMr9zPf9RuJHQl2n937/o/mIjRl1sZutJvJEQxBJJOTENwntbm3k4D4H8k4bc0rgAAA="
+    },
+    {
+      "code": "PSH-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-007-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-007-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoQABAAA4BaJbACdAYtfdW0lUVA5LAA/sq55E/thgnT/AuTJPp0Zywf6BFlIu+etfh/GL8iMsp6IcJRUODrgosNOdWGD/pwXQSafQtP3Iud/JaYg9bE4r9ZrhvVcZGWMkPsqa7CiE71IwA3+dpb3j2jtqZHu7qy6tbJxVncqKjUFINZSlgAAA=="
+    },
+    {
+      "code": "PSH-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-008-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-008-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoQABAAA4BaJZgCdAYqXLzXpu9LcAD+6K4nfvbUvvKxbvyq+fi+fceOubt98Zw+H2Rb2+AN1RqwUKApkl+VKt7F9zx4/ihTf/HPPAq23NKYAuOq6WElUzO162sryflAKuyEJjbwOBUIgl7tO2RGV90l/7JxI1wA"
+    },
+    {
+      "code": "PSH-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-009-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-009-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQAgCdASoQABAAA4BaJbACdDBQASZG6aq9BcAA/th8RFZx4f+GtDL18jc+3mvtRsH8gGWnI81qwXeAZyHCxU+QMdQe3hjSzyCslO/MnXUcG6zyahfu+Uz/X+IOT8N2riVZ6yDfuAp5Fst/xeSm37rUn3gB/UR0sdnE6UBL80nepcAAAAA="
+    },
+    {
+      "code": "PSH-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-010-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-010-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoQABAAA4BaJbACdGaA2wAFQMSIhojgAP7im1pZn85rH77Iyv/mBEcUWZOA18/Rgc/egbKpyKDp3QKLCJwui0IsaguRfHHU29Rw8/IFQ8mu+Et8UB6q7OcxyuDPNtWPPiXD+3xZHKy48qNQXI5v7RnXtz/XAHbemRxovOAAAAA="
+    },
+    {
+      "code": "PSH-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-011-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-011-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAgCdASoQABAAA4BaJbACdDiK94dIiYsgTg28fUdcgAD+68Wl/9bClPnNstyffZoVOTOdN69gd++32ppwKN2WSJImDsoyT1tezBqhCemm+mcfqDnWWbWI60/qU6+67jgllLfmG02vfmJo4IEl+bZ/LoaEv75eZQpZ7N+b3+Jw22/e+HGz9EZL6Np/YtHZu7voKmdm60NjAAAA"
+    },
+    {
+      "code": "PSH-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-012-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-012-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAA4BaJaACdAYuvnfHQAGh+w+gAP7im2SJ/ZVL7+PtDcameYrnMGb2TlnXJ/RavmoWcHLWIpT2zvLKlg7L7JEieejpELUjkpd62PkXSVBr5FGqj210j9UQUFiQXNVDL4prvG3YfcDFgWgPpOqoJK+hcQSHM1fcAA=="
+    },
+    {
+      "code": "PSH-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-013-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-013-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoQABAAA4BaJbACdDBEwU7eReImtFAA/uvFlhJzoXPQMSDa04/tbjP3RLt5t19jrZDSp+g0KPvo/C/pUlSTObVJCNUsed8D038AYODBeMXPXFgR3eCc0ACNTOdEYZ9MZfbi+4ABTxdY/t8dOGnnDD/bZ3MeINP7OS8/tvj9DPxM22AMAAA="
+    },
+    {
+      "code": "PSH-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-014-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-014-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABwAgCdASoQABAAA4BaJbACdC/MyNaIJLqkuktgAP7YfdFBClq8NkHp3a2vDRcWWqD4WIq+Yq5HHnGf9JdT8imylZm4Wrncxsf92zWl+lPBZP0P+rEpZuuwhPWEYXod4QR0HJkGrExttgqAn+liVpyd876iCw9C1N/mmli2LbtyyzsgkkeVndeTf/GrTi6fajTDx1RPof541yvgAEk7+B14qHAb12AA"
+    },
+    {
+      "code": "PSH-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-015-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-015-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQAgCdASoQABAAA4BaJbACdFQAmkT//grfe29PfkSQAP7rxFuTLRN8wKiYPPOBfQdwUaz+gBj61B4nzPChZWk0hguBl7cg6stirJVuVLxS9q/168jsk246GsJsOOAYWd/r4i56ga36/7aEee1pyJvAJjgOeq0BLp9DpXc5RzcTVytuUlAAAA=="
+    },
+    {
+      "code": "PSH-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-016-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-016-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQAgCdASoQABAAA4BaJbACdAYuHbGuK1yuxsAA/ug0PK3A/yyf2VROdYYhIzaqxN0md3F6nPy81uH+h/LMogUyAuEt35uvMZ4Yu6ncxcDXvgha2sKv9Cu0Pzz1GGM8/bfCRE6EsnW8rsUtPDtNYhBHUNGoYroarB0ee/8LE1QQZTHguagYp9LjQAA="
+    },
+    {
+      "code": "PSH-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-017-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-017-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQAgCdASoQABAAA4BaJbACdDBNivAIYwl6steAAAD+bTrKmV5/ElyRJd8yBFEB40GJ3b733n9kBm58mJ7xFE+MzGUvL1RaYDIxYyiyZ0qAgFwhn1yT0E4Zvk4asfeEX8FnR4iTK/Ngd7BFX5PHyhfrtCtn8fETbLhyiPP5hgXx01wuFIXY6i+YPwE2UQ/r/VwYS9v2zwPvcFgA"
+    },
+    {
+      "code": "PSH-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-018-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-018-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABwAgCdASoQABAAA4BaJbACdAYv1ng8ZVDJNxMAAP7inO68t52ClAm+ZCziGhr5okJ6/2UUYv45T2SRgXojoO8iBzCsJ7V9KU6DPQP9bZlvcv960i7LPeXwyZFCEyj7wucFrmVmg7iH8MMv89kbF0U2OAll7GqIQCP8g+LxFtOWnQAA"
+    },
+    {
+      "code": "PSH-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-019-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-019-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADQAgCdASoQABAAA4BaJbAC7C/MzDA/mYyZevepQfAAAP7wsqCnfoQgbvJJrjYKjBX5OZjDAoLhZuDdp0KNKePmO04NpVDK/p1N6YYcimu6avvzqxFq01f5IzZr1i7IQefcxdUN9eFgLQxVM2o1tDi8Lkv2e/f/4a0m34/7e/+9Y9rb3r/9oJzHJvHDnW9Gkae/8Wzh/76wABQiwM3CsAAA"
+    },
+    {
+      "code": "PSH-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-020-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-020-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAgCdASoQABAAA4BaJbACdH8D2NyI5I5ugk3jWpAA/th8RE4XgbxnBVRmkFmCw8ZXb+eRsfy+1G+2AfzBLo1pbflszezaHzjwrR58i69gudn6/HRBWYfwbO89ix6Ztuf8QF4WeAeH5uJt7M8SrPZJKMYp/7yMvn/YHmFHpixngAAA"
+    },
+    {
+      "code": "PSH-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-021-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-021-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAYulgKmSw5oG/QA/vCy3F+c5ldvAk37BK1dhgglmNTZ/NYZ/I08nJupQo7yqOY/hPuY8/xq76P/QWHbdl1j3fOwCaIOsWZRPEnnjjDZtwmZVafkWqiEn/PU7eVW3bmb+OfyvClOvVaAAA=="
+    },
+    {
+      "code": "PSH-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-022-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-022-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwAgCdASoQABAAA4BaJbACdDXAB6E3nO+pmyeqKwAA/th7zaXWzFrYz3zzPQJ0HoLjsDUGXTw/tvsUiee/BPtlnZPRXgrl7E5qtahjcPGcvO+Qt38wnPfcn1zij8Dtemq92U1SBUtqWAwNGaU/R/2+R1RtX/MjSJfv4Qi6o/MSR8J7wca/nN9Pu4Bf9jPnXueMT3+MAAA="
+    },
+    {
+      "code": "PSH-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-023-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-023-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoQABAAA4BaJYgCdADiYAtbgAAA/gv3HZ/f3H3vgPZgXlzMVL4D5Cb33jk4+VTCnr+W7l5KXNKvuTE81BWp/MHor1wPa88g2vbQVUBnc5gS0SNL/jtS4bJFy2tbc2rgfHD9YV4ALOkqZtAqSg4b4zeAAAA="
+    },
+    {
+      "code": "PSH-024",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-024-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-024-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-024-800.jpg",
+      "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAgCdASoQABAAA4BaJbACdH8D2JSvAL1BeIn1k44AAP7rxcGGVCbEzz8VnuA2NbrYWC5EzesKdyNEEHIBWNj1+DMSFjZ5UHotXDcvLMs1+OB/1+T7K5pw++WTlXOpeQX42cpNR7YxWd/mzMpxH05x85V1cBHu9uF1vPamnlSMtTSxvRBWUHJhe0A832943LxtIAAA"
+    },
+    {
+      "code": "PSH-025",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-025-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-025-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-025-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQAgCdASoQABAAA4BaJbACdDBUASYcxX4UVSAA/m06yok/v59AAq16nW57PHX7BAu6J/q8O0pRPD/U2f1O6KYwQDTFtMhj1Gp8FHlQx62VCr2tYwmHUEKw/Jn/nvEe/ln6XQHft/3Fx9qP5f/J5vcJz5/rzB3PIXN6/hYYrxvsL9d/14JwCjQ1fotQ4YpxgAA="
+    },
+    {
+      "code": "PSH-026",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-026-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-026-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-026-800.jpg",
+      "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABwAgCdASoQABAAA4BaJbACdAae/m5zDim6Q5yAAP63r6Lghpe9mTO/wt8UDHPVxX/X1ltzTNZaKfbEB5P1pLjv97Mj8OIwk5GFve1YD/nBaqPK3wNEacHCSANklCh32NoXH1wFY3/lOPP87hdybUBpFgdGPu9Q1rYDGei+kM0CzCFJ9E051ArNwoFeghAWt9DpgAAA"
+    },
+    {
+      "code": "PSH-027",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-027-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-027-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-027-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQAgCdASoQABAAA4BaJYwAD46rLjRSClQAAP7inNPx7pYArMP246/pKLXjv50noC/xcWuvilf75+HVcoCne0Nsa+Tel5yBGmEu6iygfrudMnJvtNjOU9mDz+ktsv3muK+RqfXims+wcmscb90TtXnC1pl+HwaAA+tHPnBoAAA="
+    },
+    {
+      "code": "PSH-028",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-028-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-028-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-028-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoQABAAA4BaJbACdDXAAX0PhaFJnU7QAAD+4psq28e+gQqdlCUY62uXUXl7Je/Y0sJN3GpFhjOES8hIJWEG+ED+7X4VIcYwBp0V+IjG7NV5WsY0QGffYHTi3rgmpvR0qd9zkmRxWCEhxF/5rP709dD+r2DJyU+JhjsAEWOfeu07iY3ACyXwAA=="
+    },
+    {
+      "code": "PSH-029",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-029-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-029-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-029-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJQBOj+AC4kj2JFw2wAD+8LMNm7oqbwrekUyHUvOftfYifBUGpSk2liHcIrOBzbD0bZEeQCPE8L3KX9zq7DJ6RQj6KiRbf59A+uhnUkUbT0he08zbnzCgI5yUP+M80aQ7DM4JJ60AAA=="
+    },
+    {
+      "code": "PSH-030",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-030-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-030-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-030-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAA4BaJbACdAEO6/O8fAXsqIAA/mq21SOMXk0+01BXgew1AvbWfJf+r8rX/q0wN+ZF3spJdGpXEsJMdaKfQk/UYdg4lSoiJLTaKrsd6gZ88G5q1Nj6rY9Vw0C2zixcWXT0GU4SKCl6vEAAAA=="
+    },
+    {
+      "code": "PSH-031",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-031-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-031-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-031-800.jpg",
+      "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAQCdASoQABAAA4BaJbACdADwurIDNAAA/vKP+ANQ5juyv7GnaLtqhdos3YealkxWczOAObJyzcJqH+iccKlFVPTrGqVVgaHRFDR8Fw9TKVUzJYsy00pUkq/13OTYbLjeMfqmEh31sHrZH9H3G67p9zDgj6DbnkleMI6u8Pg4AA=="
+    },
+    {
+      "code": "PSH-032",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-032-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-032-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-032-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQAgCdASoQABAAA4BaJbACdDBVQXLKR2W01QAA/vZ1hpoO7J2Fcf2ToQzfo4lz6BJUsbOfu0126Nnh9I7eXqZ4etu/vaZCBJQQ2wtxbQ9VTJWZGkasWJnQs93OczTVPtWmQa/m0chXpN7kNnObfosiaZh2U81MGTZj5F1cOSWAQtOTZmZCwBeXR0wAAA=="
+    },
+    {
+      "code": "PSH-033",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-033-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-033-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-033-800.jpg",
+      "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQAgCdASoQABAAA4BaJbACdH8Agui3yjWvYRgT8AD+8oxNru3HT6ecQUj1NG6T5C2+iFVXUX+nLlIwqG3dUmyQdQtLCaf4jba8sjS7ZMuauQw+4t/Gt+5Fk6hNHc87i0fWBR76/hXzPE/cJQOr3HRCvDX9gyiSNdkAriYSIAeTW4AA"
+    },
+    {
+      "code": "PSH-034",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-034-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-034-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-034-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQAgCdASoQABAAA4BaJZwAD45RARH/ATiPaAAA/vi6S7fR1qpqFVbJtsThLpuaUm2QIx/phqMVctAqPjF7jJSfGZ7B3EvWJbw4NaF7A6Ghw+hAAAA="
+    },
+    {
+      "code": "PSH-035",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-035-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-035-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-035-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoQABAAA4BaJbACdDiAAPs5G7XYa1kAAP71Vw+ndhwvEbqFttHxxdEbeG15H6h2S/P+j7cFR6+uBhiiv4uXMV109M5fgEWDi5BSu2nygg3Vse5ZwUBErDuBtli07RyPNOthr1ls/xUqVZ0/xFIZBTf+AQEAAA=="
+    },
+    {
+      "code": "PSH-036",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-036-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-036-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-036-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQAgCdASoQABAAA4BaJbACdADFbrfMloAAAP72aWiDCmuiobp+scx2/5J5eeJPJqKNJJoeCMRQXNUbVuqyWT6z0pYjn5Vi56CV+FYCKc0hNQ/Nd+IeonBruoW1gkYYOZgshAsWWtupCXUrIAVFE4itc5QAAA=="
+    },
+    {
+      "code": "PSH-037",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-037-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-037-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-037-800.jpg",
+      "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwAgCdASoQABAAA4BaJbACdAD8tklXFbcYAAD+9mR1adIPuCzKNDQSKx3Xh6KC2Bu74cluwAwKcDWd0TEdKYGPAfISBE66PCXKDly+89fNED7G3+eM92DghUye5HueLN7XakJppT6FFo+JbZUtxzcVktuby8wHe+UZDvruZ4AAAA=="
+    },
+    {
+      "code": "PSH-038",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-038-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-038-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-038-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoQABAAA4BaJbACdADw1Cn3lOeW2AD+9BILm8cF6w7RATI0FSyQv63+x51MbUoLvcr60amIm9W3CfYOLz4I5Qhz8zF+mh6I+C/Xb4CBUA3rVRiYC1kDXoemdoVNu8PmYqyFJZCEuGgQspj2VmSPLj7bxAAAAA=="
+    },
+    {
+      "code": "PSH-039",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-039-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-039-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-039-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoQABAAA4BaJbACdADFLfljQAAA/vZlByvasjcg/F68j5RJuaboibdCoBoPyHS9G5X2x8hGhHNvYv6lHVyjsc351NSuiwOQoiFJ7OJb42rSiP1lj9r1RusfZ6XjGsbz6WinWRwR50QWQjc3n0AAAA=="
+    },
+    {
+      "code": "PSH-040",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-040-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-040-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-040-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJZAC7AECmYEl+8abgAD+8ouiN8dzuGDudswKX0lQyp/Nmqqm08cJ4JrQxwvcZjBifIB612i3pbkHCxOmaYDyHVrepnUm5Ws+n/5rzwlqQsp1U/XVZP4p0Azc2Oo/4A1lF2AA"
+    },
+    {
+      "code": "PSH-041",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-041-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-041-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-041-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoQABAAA4BaJbACdH8AFlnL9DDTtbIgAP73OI0x3OgFZ6TVs5O8DUOzl7PSMhT8s8eIvKmRpPqwefYyPg01ZNILtkbEiThysPu3ZB5C28KTQMZKWnG5sOFjWsfvqO7VvPgfuTixNs3VfTz+tvNwAB5O4zdVq3ddO2ax6BpQAAA="
+    },
+    {
+      "code": "PSH-042",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-042-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-042-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-042-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAQCdASoQABAAA4BaJbACdADi6axKAAD+8ozC2nMiEG1T/KZB3tvjAFvE61OyUr/rQx++rqlFmm8MZRQ/OzmeI9DGdLVG7oclBLOfWbOVCqBVIQXMdQxEK6ZbR8o1u990iBdCuMzvC8nmnfGLY0XEl8QT0e3IAAA="
+    },
+    {
+      "code": "PSH-043",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-043-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-043-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-043-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoQABAAA4BaJbACdADp8ISnJYMjAAD+68WsInq1qfPoKeVIjR4fE/3v+CmwOmMkKoQUCxpGent65qM1YhmXDGxA9FKTwHXS//8S6epFLlNXJrU7QkLkJUxXrJ3OjAt5yVSElyuJWs6C/FzvR/B3gVAQwrcgGKAA"
+    },
+    {
+      "code": "PSH-044",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-044-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-044-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-044-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQAgCdASoQABAAA4BaJbACdDiKyPAIZgaL9FWzkAD+4psjt0UMlj93ui7QPfV/h+/U5WSjjq+H3OyG+6VNh1qvANHGQyqgyALxByEiQJ2+YHLnMznTx0sf+N5pTEeWqn94kLewDgXCaPwE8SoWIYp5XXe5tbiVQxkkbvOGnLvC3oAJuAAAAA=="
+    },
+    {
+      "code": "PSH-045",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-045-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-045-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-045-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJbACdADp8vykRRAAAP72dYVZI+LGG2tU2aonQAcee2NHuvnQAmvtQyqhmPlmsXymSmR1LCyqw6rrWW8Kt/KWrt33ysEvrBm+sI+fztlnwooGuF/26csBo1Wzp/Na5ge8NAAA"
+    },
+    {
+      "code": "PSH-046",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-046-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-046-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-046-800.jpg",
+      "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAA4BaJbACdH8AGXybBsSVUvgAAP7orT2z+9nHukG9GdoUtEAwq7+VOzlu8Q3NdfcQm1KgOc5gAI+KATJRLFPGBHxXoOyexhkXIIAoxGQZUoX5JJidfRIGZla6LIEJgtMtSGdbc5qyuaptRDBRWwbK0S0mg4YAAA=="
+    },
+    {
+      "code": "PSH-047",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-047-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-047-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-047-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQABAAA4BaJQBYdsW05edpChMIAAD++LZq/a9CnZ5GXomrXQjJxX8Qedl1vgSjzxIRQitXMiYKxlvSc0tlu44gBtufTiZKv4bUrK43QbNgAA=="
+    },
+    {
+      "code": "PSH-048",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-048-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-048-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-048-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAA4BaJaACdH8AFN77M1MnEwAA/uis/s3pFB18/wonzG9FZ5OsfilrEM7/ICrComANm9oYovDOCpsV6PKFvJPlWVEgr27Kem0FZS1NgI4h3gZy0yS0hcilQOfsd0jsSRSyKQAAAA=="
+    },
+    {
+      "code": "PSH-049",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-049-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-049-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-049-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQABAAA4BaJaACdH8AFMxUSFS1iAD+6K09s9VbJXc8PUso7AcJF0EqKoc+e/jcvnA+H2hheTmxNo2pvrGVJ/3lVXtW3htBun/K+z0g9u0pw+Zp+n366UeZ3aryFWk4JWIpFmTB/EiuJWtQZDqZA/WjoAA="
+    },
+    {
+      "code": "PSH-050",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-050-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-050-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-050-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABwAgCdASoQABAAA4BaJbACdAYwx25r2sSjoYRgAP71WcGIbOu3KLdfr542DT/93AZTXsXyaK6rIwtpeTJkItTjw/mlQfnNy8UKfqYY49+Ihi9vsuCq6HXNJWkNPe7ATslf8EgPeOi9Q9otqu/QiuWAIUbGN05JHdKPLZAZqijT1etbX76mgAAA"
+    },
+    {
+      "code": "PSH-051",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-051-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-051-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-051-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwAgCdASoQABAAA4BaJbACdDBMwR/EtAiSAAD+8ouhvTdmGtheDPZIr9/Neep3HpcZjiwqy0jYLdsVYTz7XHX96aEq6bNeIL87zgScu3Ed+7Li117Tc1LfdcDc8EAeFtJILGIAEP+WiE35aaNOtuGd/AVbNTNwy7KfRereX+GKr59rNgEhgbu5dgAAAA=="
+    },
+    {
+      "code": "PSH-052",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-052-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-052-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-052-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQABAAA4BaJbACdADHz+RyvBD6AAD+9BEFLfjBxiZHVwrnAZCqH7B5vTRmIJj/cPrQ5rb16lXjzx8gWONp40PkY6E/kh7oGySi81TFcRHhN3bl8KL7X74GK4Q9kr8dehfdfP2uIj2bvP1G17mYqvYAAAA="
+    },
+    {
+      "code": "PSH-053",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-053-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-053-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-053-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJbACdAEDFmNlVxYsAAD+7mxJfPKSGS2iGbAUDAdFIu8Ve9jeRx1M+4ouWKq0UdS3m+Pg+FYYXlXBVWHYAg4RqNdSKoeT8y1FAT4psWM/2ftdqvivCNdrxA2fBmGEAAA="
+    },
+    {
+      "code": "PSH-054",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-054-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-054-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-054-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoQABAAA4BaJYgCdH8GJ/gZg+9+7cBQMAD+4prVXGoXJ72ytuMFG2bmDlqxoAleeRgI4GYBlBnFzFCEDCSJlT//etHmK3BvOgFBN85Fm6bkUXEyvT9pxGkc8oPQANGg1kahQoV3cqccIW7jsAA="
+    },
+    {
+      "code": "PSH-055",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-055-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-055-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-055-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACwAgCdASoQABAAA4BaJbACdH8D2RCI1KExabPtHwAA/uiMxYWk/qv0D5tueKLFiCmtnluJAcpi3CuEIEO3w476C5bhYFBvV3RN1Fr/td4x9gyq+wNAIHLHWhvD8OhezVJ4cc2RAbJg5cw4aS5fatgUq/nXkYGx89bDEtU3zSCaXPt4G4+/haf2QFEAAAAA"
+    },
+    {
+      "code": "PSH-056",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-056-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-056-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-056-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoQABAAA4BaJaACdADGhczIhCAA/rhb6lzvF4fxgBdxxV20+inGqIY/TuWH6rXLcw8b3Gu63LLCNq0znu/xfW/ClkyqnOktXu7mBIJP4erBO/+Gq0R0dJn4l8/7kioLbU9oVLnJSSTvjuZEpAAAAA=="
+    },
+    {
+      "code": "PSH-057",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-057-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-057-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-057-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQABAAA4BaJbACdH8AGY/wI8/EAAD+C/OLn+PoOQkytAeFEp9/Na8oJ7agRh+fVN+WaEmecwMP+tokhraYErvTnAjnrGAa0yURB/utOGSXBM98k4FAlwL11rxzaAAA"
+    },
+    {
+      "code": "PSH-058",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-058-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-058-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-058-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQAgCdASoQABAAA4BaJbACdAdwB9wWFSK+syAA/sq51xLG58WcLQJXmWCI75ZHJP3aJi6YICQZHNe+fRD5RVOtxjpywKUaO9M53gTtaA2zSSYegGiTNfYl94R2T/Mb5CkxXB0oUsXmM7TlvaFOaLDg809ZU+f63TInZuAA"
+    },
+    {
+      "code": "PSH-059",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-059-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-059-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-059-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQABAAA4BaJQBWAB+DsEIHfXJlAAD+9ma6eRJF3Qsls6RqQox2+p9TU7kcP2M6OSS6IiIK2AFh8yPO+eK8BBJUKiRrxyAEbDRLNry+52EK7mkrI3lacu3rhPFixN8ll/AQJeNFCONxIRCAXBmVZyDgAAA="
+    },
+    {
+      "code": "PSH-060",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-060-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-060-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-060-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQAgCdASoQABAAA4BaJbACdLoAfiMCaa806oAA/vc6cHi89V27rHUNm9gucaQ53Tk4y7aHFb4dvnQ7F6d/860bv4JiDO/IPUvUFBW++0z9YzMxwwOvdB1FlEHiF2/ewnnPTEaq7zb7MVtTeYY2kqnMs5KtNyR0bx6gn5Bt/kg368NKmAAAAA=="
+    },
+    {
+      "code": "PSH-061",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-061-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-061-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-061-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQABAAA4BaJbACdAEXySPULZxOFAD+9BGiP+e7/qHmClkGg/Y0upV6ELANI3DdndPcxkJrUWW8Dr4ERDEJWk+asUJZP2Z20mdzpoINiS7ECbN8bMhpbIu1Wo9+6XaJ8gBRfkoA72AMDPHc4AA="
+    },
+    {
+      "code": "PSH-062",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-062-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-062-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-062-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoQABAAA4BaJbACdDiAN5VBdEVM058zgAD+9BILk1WmE3uWvZhTUk2/umV+Do3bZpV2p5p5mS+xeW51ksE+sJ5PvTkX4Jk4+72MatjPmCDg0hcekl/EeeCMECb9v2+ssfJGurtelt7rj9DwOVqAezH5bAAAAA=="
+    },
+    {
+      "code": "PSH-063",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-silk-handloom/PSH-063-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-063-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-063-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQAgCdASoQABAAA4BaJbACdADHpND4YYoAAP7ubMs8u9ZaDyZbmRLoeScmRQU+V5thJu/07KPZuaPwnP/T5dRxqBvZ89gFfjKGFFvDgd2rz00IB6H8DuOAWrN413hKH9kot4v2rcPKyYGRPfFsEpzn3C3j3AIYUnZVYAAA"
+    },
+    {
+      "code": "PSH-064",
+      "w": 480,
+      "h": 480,
+      "thumb": "/img/pure-silk-handloom/PSH-064-400.webp",
+      "full": "/img/pure-silk-handloom/PSH-064-800.webp",
+      "fallback": "/img/pure-silk-handloom/PSH-064-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJbACdAD6GiPSzQg3gAD3SRjI/ehwYdpsiHQUPXeQzmlX1LMyD2VVJdaiAbST0VBpRwtHbVNeMu1tQvXTstZ278PMqk0SqHYV/zYyU7tz+6jZBiyMoCLWivQaCkUgAAA="
+    }
+  ]
+}

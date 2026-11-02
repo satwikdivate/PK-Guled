@@ -1,0 +1,214 @@
+@let h = home();
+@let site = this.site();
+
+<!--
+  Hydration plan: only the hero hydrates with the page. Sections below the fold are
+  server-rendered and either never hydrate (pure links and text) or hydrate on first
+  interaction, which keeps main-thread work on a low-end phone small.
+-->
+
+<!-- Hero -->
+<section class="hero" aria-labelledby="hero-title">
+  <div class="container hero__inner">
+    <div class="hero__copy">
+      <span class="hero__eyebrow">{{ h.hero.eyebrow }}</span>
+      <h1 id="hero-title">{{ h.hero.heading }}</h1>
+      <p class="hero__sub">{{ h.hero.subheading }}</p>
+      <div class="hero__ctas">
+        <app-whatsapp-button [label]="h.hero.primaryCta" size="lg" />
+        <a class="btn btn--lg btn--outline" [routerLink]="h.hero.secondaryCta.route">{{
+          h.hero.secondaryCta.label
+        }}</a>
+      </div>
+      <ul role="list" class="hero__trust">
+        @for (t of h.hero.trust; track t) {
+          <li><img src="/icons/dot.svg" width="8" height="8" alt="" />{{ t }}</li>
+        }
+      </ul>
+    </div>
+
+    <div class="hero__collage">
+      <div class="tile tile--main">
+        <img [ngSrc]="img(h.hero.collage.main.id, 800)" fill priority [alt]="h.hero.collage.main.alt" />
+      </div>
+      <div class="tile tile--top">
+        <img [ngSrc]="img(h.hero.collage.top.id, 480)" fill [alt]="h.hero.collage.top.alt" />
+      </div>
+      <div class="tile tile--bottom">
+        <img [ngSrc]="img(h.hero.collage.bottom.id, 480)" fill [alt]="h.hero.collage.bottom.alt" />
+      </div>
+      <div class="hero__badge">
+        <span class="hero__badge-value">{{ h.hero.badge.value }}</span>
+        <span class="hero__badge-label">{{ h.hero.badge.label }}</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+@defer (on immediate; hydrate never) {
+  <!-- As featured in -->
+  <section class="press" aria-labelledby="press-title">
+    <div class="container press__inner">
+      <h2 id="press-title" class="press__label">{{ h.press.label }}</h2>
+      <ul role="list" class="press__list">
+        @for (p of h.press.items; track p.name) {
+          <li>
+            <img
+              [src]="logo(p.image, p.height)"
+              [alt]="p.name"
+              [width]="p.width"
+              [height]="p.height"
+              loading="lazy"
+              decoding="async"
+            />
+          </li>
+        }
+      </ul>
+    </div>
+  </section>
+
+  <!-- How to order -->
+  <section id="how-to-order" class="section how" aria-labelledby="how-title">
+    <div class="container how__inner">
+      <app-section-heading
+        align="center"
+        [eyebrow]="h.howToOrder.eyebrow"
+        [heading]="h.howToOrder.heading"
+        [lead]="h.howToOrder.lead"
+        headingId="how-title"
+      />
+      <ol role="list" class="steps">
+        @for (step of h.howToOrder.steps; track step.title) {
+          <li class="step">
+            <span class="step__num" aria-hidden="true">{{ $index + 1 }}</span>
+            <h3>{{ step.title }}</h3>
+            <p>{{ step.text }}</p>
+          </li>
+        }
+      </ol>
+      <app-whatsapp-button [label]="h.howToOrder.cta" size="lg" />
+    </div>
+  </section>
+}
+
+<!-- Shop by fabric (filter chips hydrate on first tap; the tap is replayed) -->
+<section id="collections" class="section collections" aria-labelledby="collections-title">
+  <div class="container">
+    @defer (on viewport; prefetch on idle; hydrate on interaction) {
+      <app-home-collections [config]="h.collections" />
+    } @placeholder {
+      <div class="skeleton skeleton--collections" aria-hidden="true">
+        <div class="skeleton__head"></div>
+        <div class="skeleton__grid">
+          @for (i of [1, 2, 3, 4, 5, 6]; track i) {
+            <div class="skeleton__card"></div>
+          }
+        </div>
+      </div>
+    }
+  </div>
+</section>
+
+<!-- Our story -->
+<section id="story" aria-labelledby="story-title">
+  @defer (on viewport; hydrate never) {
+    <app-home-story [story]="h.story" />
+  } @placeholder {
+    <div class="skeleton skeleton--story" aria-hidden="true"></div>
+  }
+</section>
+
+@defer (on viewport; hydrate never) {
+  <!-- Why buy from the makers -->
+  <section class="section why" aria-labelledby="why-title">
+    <div class="container why__inner">
+      <app-section-heading align="center" [eyebrow]="h.why.eyebrow" [heading]="h.why.heading" headingId="why-title" />
+      <ul role="list" class="features" appReveal>
+        @for (f of h.why.features; track f.title) {
+          <li class="feature">
+            <img src="/icons/motif.svg" width="44" height="44" alt="" />
+            <h3>{{ f.title }}</h3>
+            <p>{{ f.text }}</p>
+          </li>
+        }
+      </ul>
+    </div>
+  </section>
+
+  <!-- Reviews -->
+  <section id="reviews" class="section reviews" aria-labelledby="reviews-title">
+    <div class="container reviews__inner">
+      <app-section-heading
+        [eyebrow]="h.reviews.eyebrow"
+        [heading]="h.reviews.heading"
+        [lead]="h.reviews.lead"
+        headingId="reviews-title"
+      >
+        @if (reviewsHref(); as href) {
+          <a class="btn btn--outline" [href]="href" target="_blank" rel="noopener">{{ h.reviews.cta.label }}</a>
+        }
+      </app-section-heading>
+      <ul role="list" class="review-list" appReveal>
+        @for (r of h.reviews.items; track r.name) {
+          <li class="review">
+            <figure>
+              <span class="review__quote" aria-hidden="true">“</span>
+              <blockquote>{{ r.text }}</blockquote>
+              <figcaption>
+                <span class="review__avatar" aria-hidden="true">{{ r.name.charAt(0) }}</span>
+                <span>
+                  <span class="review__name">{{ r.name }}</span>
+                  <span class="review__place">{{ r.place }}</span>
+                </span>
+              </figcaption>
+            </figure>
+          </li>
+        }
+      </ul>
+    </div>
+  </section>
+} @placeholder {
+  <div class="skeleton skeleton--why" aria-hidden="true"></div>
+}
+
+<!-- Visit Ilkal (the map button hydrates on first tap) -->
+<section id="visit" class="section visit" aria-labelledby="visit-title">
+  @defer (on viewport; hydrate on interaction) {
+    <div class="container visit__inner">
+      <div class="visit__copy">
+        <span class="eyebrow">{{ h.visit.eyebrow }}</span>
+        <h2 id="visit-title">{{ h.visit.heading }}</h2>
+        <p class="lead">{{ h.visit.text }}</p>
+        <address class="visit__card">
+          <strong>{{ h.visit.cardTitle }}</strong>
+          <span>{{ site.contact.address.join(', ') }}</span>
+          <a [href]="wa.tel()">Phone and WhatsApp: {{ site.contact.phoneDisplay }}</a>
+        </address>
+        <div class="visit__ctas">
+          <a class="btn btn--primary" [href]="site.contact.mapsUrl" target="_blank" rel="noopener">{{
+            h.visit.directions
+          }}</a>
+          <a class="btn btn--outline" [href]="wa.tel()">Call {{ site.contact.phoneDisplay }}</a>
+        </div>
+      </div>
+      <app-map-embed [label]="h.visit.showMap" />
+    </div>
+  } @placeholder {
+    <div class="skeleton skeleton--visit" aria-hidden="true"></div>
+  }
+</section>
+
+<!-- Final CTA -->
+@defer (on viewport; hydrate never) {
+  <section class="final" aria-labelledby="final-title">
+    <div class="container final__inner">
+      <span class="eyebrow">{{ h.finalCta.eyebrow }}</span>
+      <h2 id="final-title">{{ h.finalCta.heading }}</h2>
+      <p>{{ h.finalCta.text }}</p>
+      <app-whatsapp-button [label]="h.finalCta.button" size="xl" />
+      <a class="final__call" [href]="wa.tel()">or call {{ site.contact.phoneDisplay }}</a>
+    </div>
+  </section>
+} @placeholder {
+  <div class="skeleton skeleton--final" aria-hidden="true"></div>
+}

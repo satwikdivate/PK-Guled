@@ -1,0 +1,55 @@
+{
+  "seo": {
+    "title": "Our Story | P K Guled Ilkal Sarees since 1875",
+    "description": "The P K Guled story: a family of Ilkal saree makers since 1875. Learn about Ilkal handloom weaving, the Tope Teni pallu and the Kondi technique."
+  },
+  "hero": {
+    "eyebrow": "OUR STORY",
+    "heading": "Since 1875. Still at the same looms.",
+    "lead": "P K Guled began weaving Ilkal sarees in 1875. Today we are the oldest saree house in Ilkal, working with local weaver families to keep the Tope Teni pallu and Kasuti traditions alive."
+  },
+  "founder": {
+    "eyebrow": "THE FOUNDER",
+    "heading": "Konnappaji Guled",
+    "image": { "id": "founder", "alt": "Portrait of Konnappaji Guled, founder of P K Guled", "width": 358, "height": 406 },
+    "paragraphs": [
+      "Every saree you order is woven, checked and packed at our own store in New Kothwal Peth, Ilkal.",
+      "TODO: a few lines about Konnappaji Guled and how the family business has passed from one generation to the next."
+    ]
+  },
+  "sections": [
+    {
+      "id": "ilkal-weaving",
+      "eyebrow": "ILKAL WEAVING",
+      "heading": "A saree named after its town",
+      "paragraphs": [
+        "Ilkal is a weaving town in Bagalkote district, Karnataka, and the sarees woven here carry its name. Silk, silk-cotton and cotton sarees are woven on handlooms by local weaver families.",
+        "Small slubs and yarn variations are the fingerprint of a handloom. No two sarees are identical."
+      ],
+      "image": { "id": "hero-weaver", "alt": "Weaver at the handloom in Ilkal", "width": 960, "height": 640 }
+    },
+    {
+      "id": "tope-teni",
+      "eyebrow": "THE TOPE TENI PALLU",
+      "heading": "The signature of an Ilkal saree",
+      "paragraphs": [
+        "The classic temple-pattern pallu, joined to the body with the traditional Kondi technique.",
+        "In the Kondi technique the pallu is woven separately and then joined to the body of the saree with interlocking loops of yarn, so the join is part of the weave itself."
+      ],
+      "image": { "id": "hero-pallu", "alt": "Close-up of a Tope Teni pallu", "width": 831, "height": 557 }
+    },
+    {
+      "id": "care",
+      "eyebrow": "SAREE CARE",
+      "heading": "Care guide with every order",
+      "paragraphs": [
+        "Dry clean for silk. Hand wash cotton with reetha powder to keep colours rich for years."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Find your Ilkal saree today",
+    "text": "Send us a message and get real photos, colour options and prices on WhatsApp.",
+    "button": "Chat with us on WhatsApp"
+  }
+}

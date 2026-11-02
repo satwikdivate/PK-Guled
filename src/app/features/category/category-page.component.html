@@ -1,0 +1,58 @@
+@if (category(); as cat) {
+  @if (catalog()) {
+    <nav class="crumbs container" aria-label="Breadcrumb">
+      <ol role="list">
+        <li><a routerLink="/">{{ labels().breadcrumbHome }}</a></li>
+        <li><a routerLink="/collections">{{ labels().breadcrumbCollections }}</a></li>
+        <li><span aria-current="page">{{ cat.title }}</span></li>
+      </ol>
+    </nav>
+
+    <header class="head container">
+      <span class="eyebrow">{{ cat.badge }}</span>
+      <h1>{{ cat.title }}</h1>
+      @if (description(); as d) {
+        <p class="lead">{{ d }}</p>
+      }
+      <div class="head__row">
+        <p class="count"><strong>{{ items().length }}</strong> designs · Price on request</p>
+        <app-whatsapp-button kind="category" [category]="cat.title" [label]="labels().askCollection" />
+      </div>
+    </header>
+
+    <nav class="subnav" aria-label="All collections">
+      <ul role="list" class="subnav__list container" #chips>
+        @for (c of content.categories(); track c.slug) {
+          <li>
+            <a
+              class="chip"
+              [class.is-active]="c.slug === cat.slug"
+              [routerLink]="['/collections', c.slug]"
+              [attr.aria-current]="c.slug === cat.slug ? 'page' : null"
+              >{{ c.shortTitle }}</a
+            >
+          </li>
+        }
+      </ul>
+    </nav>
+
+    <section class="container grid-wrap" [attr.aria-label]="cat.title + ' designs'">
+      <app-saree-grid
+        [items]="items()"
+        [category]="cat"
+        [askLabel]="labels().askPrice"
+        (open)="onOpen($event)"
+        (ready)="onGridReady()"
+      />
+    </section>
+
+    <section class="end container">
+      <p class="end__text">{{ endText() }}</p>
+      <app-whatsapp-button kind="category" [category]="cat.title" [label]="labels().endCta" size="lg" />
+    </section>
+  } @else {
+    <app-not-found />
+  }
+} @else {
+  <app-not-found />
+}

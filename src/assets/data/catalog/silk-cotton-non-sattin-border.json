@@ -1,0 +1,699 @@
+{
+  "slug": "silk-cotton-non-sattin-border",
+  "count": 77,
+  "items": [
+    {
+      "code": "SCN-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-001-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-001-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwAgCdASoQABAAA4BaJZgC7H8AFjJzqSfItXEAAP73WQSgI2CP7BQbEHrSWcZCK+WvXP33ruoOZaEGxJDlWbSEDjGaqYTe8dqaHNWYtDmAx1+JOm+NK73Si1EsvaDH62a0FDCfspjv2gAA"
+    },
+    {
+      "code": "SCN-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-002-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-002-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJbAC7ADPl3ENeIkAAP73WWlCvSgRoLYZv+d+vMnZqgnHb+NS7AQQbXYzF6yS6OgJWUvcvVD0mdrXiAqHZcxRt4D1gHiRtNE045cyWhdEZajcqYak+0rf/FSQSSxA5Q1gAA=="
+    },
+    {
+      "code": "SCN-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-003-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-003-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJZACdH8AE6tHK884AP70EaNDWu1lnUEv6xxiD2RwPpxMZIbEKIdsUcuKngswxDcVOTumULUYgUHyCi49M2euhOTr0zeY7hZI0DM9SvSEtEkOYePP6fgA"
+    },
+    {
+      "code": "SCN-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-004-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-004-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoQABAAA4BaJYgCdH8AGCGvnOP8KRLAAP70CUIyvF1uwwxBnY56lL6RakdYrf0RC1i0fCuqGPTi/b7RJlE9BkH9nqBIvTi42W93hNvd9gQE7FnO4LS51ArtQgAAAA=="
+    },
+    {
+      "code": "SCN-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-005-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-005-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJZACdAD5PAUfBhKcAAD+9mTOq3mqrhp0Jnd8teIed26g521kT+xNIW6dZiKMwsRZmkdFuFScz20LFkvfKXGnQI28e1AAqhwHXGfUK/cOj1MWgV9KlgoAkCDoAAAA"
+    },
+    {
+      "code": "SCN-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-006-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-006-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJbACdADw2yvAhnEUAAD+9mUICoYkVKSj88z8nkvmPKUNJKWWsv7pOvUniCQNJ7MWQjFdrkqlacAMK3/sGDwIExCVhORgB+OCNqsqTIKRwxg3wV5LOnzDYHQr4PqgUiMAAA=="
+    },
+    {
+      "code": "SCN-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-007-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-007-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoQABAAA4BaJaACdH8AFxK1vnNM6IAAAP73OEEwNjx/l3Pl0QI54ZJFi2+mXuVOwrHmyhTaejmnuFDEXKCbs2hWmlo5kTeWP+p7W06MaW355CptmV6mmbVdbYAAAA=="
+    },
+    {
+      "code": "SCN-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-008-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-008-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJZACdAECpud9iCD8GAD+91lpO16DwNk2siGizDJjiGquXTcqbN9kRflfampyRm/E69Of3Vex8cegb4J5xyy/9gOEx8QszCleBb0Zgr4CUr+kQXAplRFNbDCpQAAA"
+    },
+    {
+      "code": "SCN-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-009-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-009-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJagCdAD8HvxMY87VAAD+9mUHfPBqdt36R3SbkSL3TRmbFjqC/f/wOur61xIoUlMIZIxRfJk3UI12DxjvnZacqUYrJa48jIRlb7aDrXZUKF7hE13qArPdbMdBSIwAAAA="
+    },
+    {
+      "code": "SCN-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-010-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-010-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwAgCdASoQABAAA4BaJYgC7H8AGAJXqyzwWXkAAP71Vw+Qg6sOBShVHohmJK/sJzCGOGCyiSFr0J6aFdk7qTaR9XEuJMuO++++T9GurbArhAcWux3JHttrJ04K5AAA"
+    },
+    {
+      "code": "SCN-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-011-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-011-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJYgCdADRt0kpVf/AAAD+9zhuqi1/BsSnDUs8f3XX/OfJU2Ugw1vCoCh7GJzi/7kWu465hOONjz4Bbp7T7ArgIKv5+0Z1BEDJAol+F3ZRfpixEj6F/AB8jGcAAA=="
+    },
+    {
+      "code": "SCN-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-012-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-012-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJZACdADxNK4Jh6+AAP73N7neI7SSYSC0YPNw77u6vjID4weH69VMANEW1ROB1DDIPN2kFo6bbZN1L6amMAcqDpnloArt9IkmU49TmGuEY3UnihKvYAAA"
+    },
+    {
+      "code": "SCN-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-013-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-013-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJZgC7H8AFYDB9YKxyAD+9mUH/AmUtGH0o+/jVbuYyOFEKla5YiBpjt+ugekzE9sqkbe7ITSLDUrj50YAn0MsFDSDzh5jak+LeNQqQk84JZez95zCGD6AAAA="
+    },
+    {
+      "code": "SCN-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-014-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-014-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQABAAA4BaJaAC7ADw2pFe4FFFyAD+9VcPrcfrKV49VCPa6H7D1EtG2Kg4qctNI7d6+J/vyJ9Rv12qC4YP6xqmqm1tac4FJwvN9ru7m0uja2cLHigAAA=="
+    },
+    {
+      "code": "SCN-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-015-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-015-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQABAAA4BaJQBOj+ACsB2PHPIAAAD+9zXTq7+I+Zk2I15Z1y1drqxCPPkAkz4Y2qpFl5ka37nZjSNiIjx1ByWw2md/u+uv8BW3oZXN+2xsn652zQQ3jPcTk/QAAA=="
+    },
+    {
+      "code": "SCN-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-016-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-016-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJbACdAEDZn2KsF+8AAD+9mUH4SRcLLaRh/SO8au7qVJFGIpnw3t9mPpYFkCXvIyQmMbL5nMVRQlWu7NTU7/LjU0fzUS5V9JbUzvIEOrRoLXDI6VG+oCx13tk6uf26lgAAA=="
+    },
+    {
+      "code": "SCN-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-017-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-017-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoQABAAA4BaJbACdEf/gbKnI24G6EAA/vZlB/wJlHuyRu4qxfu1WrwQBY+7GOWZJ0V8RaPqiHuGbO6JueJ+GR72QGe8tGpKHUZrK7FsMUE67YIKxUlA7IMIFBrh6jHhduS9RW+S8Yn0nl4AAAA="
+    },
+    {
+      "code": "SCN-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-018-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-018-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJZACdADdHnCRQsWoAP73NEX6TQ06JcFkI5mSFwyw104rCdTVWTSCde2J9y5EtIriANH5Fy9QGdKHcHz2gGCgsuo6CymOgA5R+kuGn+pjDG8EpI8tPbzEnAA="
+    },
+    {
+      "code": "SCN-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-019-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-019-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQABAAA4BaJbAC7ADib5SK2AIAAP73WTca5y4Uvo6K8rDFlf9IV/anClk4XfaSz+g7hKzjFHf/2bibdhHZ3nCjwwOEuP++K70iz8EgT/dRldzk6vEUkt6NLA+M/jkc2QAAAA=="
+    },
+    {
+      "code": "SCN-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-020-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-020-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQAgCdASoQABAAA4BaJagC7H8AgpzGFVyj5iN9fa6AAP7z0LiTtB75YLrdovH5969mJqCeWARAhWuaB2wh3yTkK7riEPRPBlmfFMGZbyq/5xX+ONqDuTiGJhGMP0WOP2VgpbynekpLXcoPkoNGz4AA"
+    },
+    {
+      "code": "SCN-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-021-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-021-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwAgCdASoQABAAA4BaJQBdj+ADCNfHKWmkqDMAAP72ZQftIerzNCo7WUlE1bo1gRcHEQZbo1TC6IF65lHtDjsVkbEf6mfWxcOKln9vcJRWLhDVN7sRwLdSTiFTQh9kbq3+dwsoAAA="
+    },
+    {
+      "code": "SCN-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-022-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-022-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoQABAAA4BaJbACdAD6mlkV2/I5iwUAAP71Q0Wb0C/UnWOrMsSGgvxlkybivpzzWYZ599zVZ80SflT6PY2zMegfFSaGYMIMEKNXYn/leDQtzg0x1p8FSPsGw/ZZHpLhsAAAAA=="
+    },
+    {
+      "code": "SCN-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-023-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-023-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoQABAAA4BaJZgCdIDZGN1flInsttWAAP72ZQgMpAEfbHKln+A5CQRhLgD92vbv47BQ7WU40FyPoXGdD9jewT3ldgFq8s506yeUTa4NmRoBMJKJ5ET4sRC8CBsR3tiAaSgTvSaCFOol6Xr2d1DnGeRcgAA="
+    },
+    {
+      "code": "SCN-024",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-024-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-024-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-024-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoQABAAA4BaJYgC7H8AFjJOrhMpLRgAAP72ZQf0p49aF+L9Guug3BaZ9Yqn24+dxY+19l6v3PXhOgloS4DxvfGV5Vp8CMBcSBb1u9Yh+/fMI2gzJfX5ur8trTVC0XAA"
+    },
+    {
+      "code": "SCN-025",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-025-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-025-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-025-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQAgCdASoQABAAA4BaJbACw7DRY6iTzWQAAP72ZQfhj3ueEqndGcbcTujRxt9B62O3dKjujadcZUfeVen1fBN2JGce//KWcHAX9ni1KHIp7AZ53i++bCjVzQSNQpqKELgAePuJ7cYDf2MAIM9HVW3sAAA="
+    },
+    {
+      "code": "SCN-026",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-026-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-026-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-026-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAA4BaJbACdH8AEpPWPcNaAIAA/vVXD6qFrEjvKRxkkpjrTW+S72fLtF9bxk2QngTIO05rNJzh1L1zUMbEopbSizD4ItCJ4+h6nCrJY2C/EcsBSrPXLyDp1wXdhylfi9H/6DKAAA=="
+    },
+    {
+      "code": "SCN-027",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-027-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-027-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-027-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJQAB8fmRM9HuXsSAAP73OIdEXSweqKFw5xkvk80el6Lx/t9f3M+9GOZ2wSJajnyr5U4q0BTSt4/73zx/iUq/DxWws1ZbaVWCKRJ4O73HotwAAAA="
+    },
+    {
+      "code": "SCN-028",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-028-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-028-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-028-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoQABAAA4BaJbACdAYubwJW/Vi2nrjgAP73WWgMxoDjw7L2OnkQt2wG8epPw7zkv8GRsYSlf6I5aA7S2Irt+ngCqab0DTIHKCmW+bt9LONq9uKLMprpaY/371EnzRPzqCrSyyPVIxLXRoEKS2lXWF3SHYZ+2AAA"
+    },
+    {
+      "code": "SCN-029",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-029-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-029-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-029-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAA4BaJbACdAYuvnzqzgO7xVAA/vc3X6+ReYDgcrzOuiSafQsraZMX+1t29km3rkbnZyCyZVLS9fqodKcziOHQH+qAxaf1Hubw/GYm/uBNn4875DtwzPjZEmmYnfmUMs1QcF+d2ar35mqwAA=="
+    },
+    {
+      "code": "SCN-030",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-030-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-030-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-030-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoQABAAA4BaJZgCdH8AFXQ97XhFjQAA/vc1063Xv42dmKuyp8BiV+E8vKzUsLA6YxHAyPUZqL/Vd6RtssL+SB58G+Y2oSkdeKNM34ChTgTLugjVyDIKxvgt+9EA0j1S9fZIBuDC0tZHMV/DiFlf4S14MUICXgYAAAA="
+    },
+    {
+      "code": "SCN-031",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-031-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-031-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-031-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQABAAA4BaJZQAAjxikaJS0VIA/vZlCAvuHSQrCjHo9ifEFGl4SR+f/XYhyBNQdWBbx16HFOFnlvDykfQE0ec0QsUnah+QpCa+QTosyTieeAl9u7BiwAr4KUf3pvB3SACHAAAA"
+    },
+    {
+      "code": "SCN-032",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-032-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-032-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-032-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJQAB8Y3mrHn3YJqKLgD+9ziNNxGH4Qk0xeD7a0fbMOR9JPe3XM5qU+7enTcQafv3F6DFwmVVJ8HHhQjL3RReAzo5vPZz1QrpjozUGl0LpEs6fwAA/8htpBqCYkVRbwAUwAAA"
+    },
+    {
+      "code": "SCN-033",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-033-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-033-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-033-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoQABAAA4BaJYgC7AYwTnThjvHxMmAA/vVYb6BZUYZykOay1E/89DwhWhpLsX3chf9Ha/fY+BrLc7AN10h4HQJ9yl+CjKoiRoE3S1ZTB0mXeOISkn2aCZPdUHLoKyL8KeD6xaYF04uy9fkzkIIi400AAAA="
+    },
+    {
+      "code": "SCN-034",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-034-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-034-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-034-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJbACdADxMfudxmLIAP71Q0WIlvLLceKnG3IX/HpGE9Y3XE1Bqe8HgxMsFwRoHTlDW+hgZUltoHDLvfIQmZQg8mjCmeM+yEo7WdqQtcwAZR219HvOvsYAAAA="
+    },
+    {
+      "code": "SCN-035",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-035-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-035-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-035-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoQABAAA4BaJYgCdH8AgvCF4upubCgA/vQR3gfpKTt8waJKQdOcT3SMfs/kVTF/dHnVz1dNa9efLZ/LdUVV3FxtIHPZEZILCMyTHvCJR+6TN/pDGNVsXKmWzSkWQj2p74D8ziCh3efrQEZIK1iPwZwAAAA="
+    },
+    {
+      "code": "SCN-036",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-036-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-036-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-036-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJZgCdADw3HkqKIAA/vKMEkhqPUEdrWQZ9AHN63nwa23Be/pDuVqgzFavZpzAWn1Z1ne1tzshtFYJLL6Tfi3Qnpb970lR0CE4RLfQXZJP5RyAAAA="
+    },
+    {
+      "code": "SCN-037",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-037-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-037-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-037-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQABAAA4BaJaACdIDZEWIscv0CmAAA/vQLVritWN4tJfq37BPp+RgStqzuCCkdX6h92PEE4MHyYrHMYmSBe+RR0Y1+tJdVjgYP2r90DKeI22CaZ5084kmbWbMOEbJTCVWxuIxi4AA="
+    },
+    {
+      "code": "SCN-038",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-038-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-038-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-038-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJZgCdAEDsnrupnp9gAD+9VcPq0/FGQmMH8Z8EuZS/qw0LiJfJ31KIW8HM2gP4I2VZLSKYeqrU0Lzzl4l+NCflrSpEP4H1bBu5sQDgeLXDb/hbJ+pERI/p2Jk1qJMjkAAAA=="
+    },
+    {
+      "code": "SCN-039",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-039-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-039-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-039-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQAgCdASoQABAAA4BaJaACdIExgvCc9NTmCtadAAD+9BEFGl/g6DhvDO/nDYnzfFnVwD6b3P/9wStfjyb7BY/Ah4ntzreessSnx+RLYRODe/1NobwKHrwEysieQvAQ6MxDVK7xLR/ZSJdW9dtF1rS382DDgAAA"
+    },
+    {
+      "code": "SCN-040",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-040-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-040-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-040-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAgCdASoQABAAA4BaJZACdIExqQPb8+qVY6vRX/wAAP7yjGW/3mmvfnyidjP+8Cqvx6onwoo3vHca/Aj7SJF95gMDesu/SKwswV+eYtDcdjcTXRzvUB5Ieg8c7Nb5ScIVdfZn7c/YCT3kTrRZjmGa+gAAAA=="
+    },
+    {
+      "code": "SCN-041",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-041-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-041-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-041-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAQCdASoQABAAA4BaJbACdADPwUoXCAD+9zoS8DvZWuLaFLF4/MhqHeKi9HC/jtOMLazLsJaAD8m/YERTP52wELzZ+Ja83kU83J9lHIl8SYOBV+tYTrwmd7YXZVYWqCB2a58Fma41viw5g750EWnOkQtgAA=="
+    },
+    {
+      "code": "SCN-042",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-042-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-042-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-042-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoQABAAA4BaJagC7ADR0BSWdvAA/vZkdWd7uCWb2QwZ9q9KbYtT61sJilNSpPwjbzFAR05K+HspGtw+83ocVSU4awJepk+RBA4ODjrOvv6gxiHXFXXuRRKHXHRwYp7L0oMG35xHTfVaN0sReJL4n7RYAAA="
+    },
+    {
+      "code": "SCN-043",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-043-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-043-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-043-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJZACdAD8HZILaDkwAAD+9mlddziUzFsYEIueLbHTsM/4FB0G704rms/1rfYSDpEwnyKr2/plbA7g6LZObsVEGWqvXnLoM4OcswVsJjPGX1O3RAV12KN3sxBBxSKlF5AAAA=="
+    },
+    {
+      "code": "SCN-044",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-044-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-044-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-044-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJQAB8vXET74MTckvwAD+9BEFISHIf1f5MHeJahX/h79ZOrT4LT5aM8N52IiIjkbp8rPau1mPsLqkFDeSVkYLhvbm0KnXUk2gMO5fgU5nuXTV/8LEyICCEWM2qQT7kUibAIMSmMAAAA=="
+    },
+    {
+      "code": "SCN-045",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-045-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-045-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-045-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoQABAAA4BaJbACdH8D2QAPKaHiIKAA/vVHS/nHkIt8dt7t34OHHlKUXbI/X3vFe9XM6iHrGBg3BaqnF5ojZ1R+UfG6eGflU9xHjwOoXBowi9AGs+l5fKACceCtn/b8/Jlo8DyzBZeKXHRVUa51xRJkqJrsqFVAAAA="
+    },
+    {
+      "code": "SCN-046",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-046-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-046-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-046-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQAwCdASoQABAAA4BaJbACdH8D2SyItMv/ivNOVFk1nAAA/vKNLx2uih71Nkr8h7P5izjPUFjf10SKxr/CHPNtfure1mcLz1U9FjMamLz7/I/idBfW3cvTqe1RSGOoKtzzzCkUW6FwGtNsjznJw8Ne7f1CmcMJZPGLhwAA"
+    },
+    {
+      "code": "SCN-047",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-047-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-047-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-047-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoQABAAA4BaJbACdDBJQal64og2G8EQAP7yjOJCaf/VQxiN03w7mUflqB+YdalVmAeZSHq4FDW8Dg64GC6xd5I5mCbU09kHnvRaZ+VJz/V/pee8wGO65hLKi9+JTfapOhiBNYfXy+MRWMHhteAAAA=="
+    },
+    {
+      "code": "SCN-048",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-048-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-048-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-048-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoQABAAA4BaJbACdAYvN27lDMT4LJ1wAP7ws39UPApyo1As4vNQxu7FMefpeosz+2LMfCO6qPD5rPArnvzqT4lVtLxoW7zwwa65t9Kt2gdtq5Jjratz1y24qat9+q1ogGzgAA=="
+    },
+    {
+      "code": "SCN-049",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-049-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-049-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-049-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoQABAAA4BaJYgCw7Ywx2zDbMfak1YAAP7rweOIhbvNfb7qgFt6fQV6cy0Wcv+vEdR/UnVse+lDRDYOGQPzCyxbzuWVvca3l4hdpAvS3/3vWIqQrmQJF2+SVWuNYdTYnjYLSogOI4lJ0WAAAAA="
+    },
+    {
+      "code": "SCN-050",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-050-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-050-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-050-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQABAAA4BaJQBOj+ADMAz+bQGNhgAA/uitU4C/0tvehOjsLNaHT+CUs67xv1fXSN5t0EAGAZqLwFqG9qxEjrY7vG/zFUYbfY46un7HsaDdj0vSLuG4Hc7Qecx5g52wuPoKaBxXjyjl84AA"
+    },
+    {
+      "code": "SCN-051",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-051-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-051-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-051-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJZgC7ADpLyx9Y4rgVAD+68Re6yzh53/+NoXDGiOku2xE0y6uRBEEZkpkUuOAE0ylWvfkYmyGMtrTZJeNXsyWhOFoz6+rTuKNB4M79LDTty4pj+Uq4R3Gt4uVKKZaae4mAAAA"
+    },
+    {
+      "code": "SCN-052",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-052-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-052-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-052-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJaACdAEfSlv4KsQAAP7oqzqlfEKitVl4cYkK/0v2iiyIWflld7+5p3xcF8L0Miv9ALRmi9/e9qcc3D3fAv0k6qnL3EBOujV6X7ncAe/yGTYUIAA="
+    },
+    {
+      "code": "SCN-053",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-053-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-053-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-053-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQABAAA4BaJbACdADpLz+v/z/kRAD+4pt6/7YOogCsYJtgoHzJ7ho9p4ZMMZhLknwbbAgCIrcUyb9S6PWjwM3Dkjm2OZa27HKb15dHYW9Ij4xtfUnS3wOx5j251tt7qriABpqeR6lib5acAAA="
+    },
+    {
+      "code": "SCN-054",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-054-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-054-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-054-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQABAAA4BaJbACdAEe/Q2CVnxnlMAA/uKdJa18mnKrpR55h4gRzol/TdYTpIQrJt3uL/T5xIza5utPe/NfwFeZnqYZgJUVJx8N1/jCUYTge7q8plOo1gpNeQrhyT2RKHYk5oO9sliY+DgA"
+    },
+    {
+      "code": "SCN-055",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-055-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-055-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-055-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQABAAA4BaJbACdADDtMBQTYAA/th8JfkcxH1E/v7K8wF0ngt6OH2lWopW8qMlnOiE1xxVsl7d50BIVCLQC+SZL34y9hAZ03AdV1G/E843wNG3qYT3flb1E2U+yzq3NmL7MAAA"
+    },
+    {
+      "code": "SCN-056",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-056-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-056-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-056-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJbAC7ADG2ob6/W7AAP7rxc/rJEFZmvLU/SK8x7U7DVfqFgu9a4zZ8Duaokee4mfL6H2n3Byj9sljRjFqhr9vKdHzOZMqMjw8BjGO8Nje7o+ZQcNQY8e27FXDJin9IiQswAAA"
+    },
+    {
+      "code": "SCN-057",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-057-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-057-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-057-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJYgCdAEDsoV/282gAP7rxc/rJO6xF+7bAZuJMpGUjteu4I79bQ8l8px2i0pRvAkOUDe3R+A66HahU7vQO3ahQuhDAJiQObbW037E8lLezWbdvh01XatTTU3uzq2VNQXgAA=="
+    },
+    {
+      "code": "SCN-058",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-058-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-058-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-058-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoQABAAA4BaJYgCdADJI+aRghAA/vCzDFjx4XZIZ8DofrEfDb0hdEs0DrLXeo41rCr0jES5GY/Ib9Te5hjoa8Y3PBtiwSFtvskweQjNU2CzJdbLeiIjPnKKlD39QqlaJlHamWMruPpPnp0QAAA="
+    },
+    {
+      "code": "SCN-059",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-059-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-059-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-059-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJbACw7ED/aPTPxDVAAD+7mzmXItyBZhXjK7yPh2A8FVZMiypjpaeo7iGhhYLzjBcmVYL2EnMkuM9ja/Y5nH5DIQwYttNdEJihV241r3dOVI+Bhato0+1GnWjHV/v1OAAAA=="
+    },
+    {
+      "code": "SCN-060",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-060-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-060-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-060-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwAgCdASoQABAAA4BaJbACdH8BrgBkxzfXQZAAAP7woK4zH44QcM3rMzaQnaHT2eVdUCtMN9jzhoujdTGwwOAJWuTpcuZP3AGBbZHO6vcyohU3G8oCQSpEAfQgbON7tj9SBspEcyE/tkoIjjetvSpx88wAAA=="
+    },
+    {
+      "code": "SCN-061",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-061-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-061-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-061-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoQABAAA4BaJaACdIExGN1TzCAscUgAAP7ws2lQeUQ66vThJXUkvZj5XLA+xvKRu2eR7cQ49cysBGaUv5CF5fOGoYhfOdgXFLTQ3ywhRsL6e1jI2CRa5VGjAP3/hp2MZ8my2olvh8wAAA=="
+    },
+    {
+      "code": "SCN-062",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-062-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-062-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-062-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdAEfmrKwkgJ3YAD+8LM54OfBkIGgFY052czIdgeevXvlczepmwlry6p1P+EFAJsTmaSHGdINF3tegJhE77GG0wQzgipcry+fJPH7SNouXSVBq813GbA6H5onhVMZaAAA"
+    },
+    {
+      "code": "SCN-063",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-063-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-063-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-063-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQABAAA4BaJQBOj+ADM3ACEJmXAAD+8LNpUHe4KYJvQVmzlbzYDINH7j53GXJHMc0+Io3PyPHasnNjEmj4K2skUzLijt8+UdYA1z82sRRiiheytTPw7qb5DPJyo3OYfvpDly6d2QKCBTQwo8AugAAA"
+    },
+    {
+      "code": "SCN-064",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-064-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-064-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-064-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoQABAAA4BaJYgCdH8AgqyM+gqjYBVAAP71WTAmTBYilAytj3TqtsAcWjeOVoVPoDgWJ2tj7nQmQzKzh55/XY4qJD6Gz5Nb2XFR2ws/DaY4USMIJSPjLvZ5hHAUTUQFSbKzeciwkZUj4McsHNH/iew0IAA="
+    },
+    {
+      "code": "SCN-065",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-065-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-065-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-065-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJZgCdAENO+r3S0cAAP7yi+waDH9ayd9kW9DH/Uqv60byzAroSpfkvp5lNsoEcjp4xBdp/17vA5fRsFrOyM1sLQsGPEuPadN+YCWA+yKQl1cxogPDMGbNfCmsKbehwIAAAA=="
+    },
+    {
+      "code": "SCN-066",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-066-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-066-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-066-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAA4BaJZgC7AYtfjYr7La9txgA/vcbk9VURE0pDnwQT3qvrbaM/6BYnS1cVFrJvPu170TFrmSkCMjcnbyvyG9L+A6u4eY/ViImXY6rKVeHCZRtcksYzoe4zExnlE9lEaFVwHb9nIo5y/8AAA=="
+    },
+    {
+      "code": "SCN-067",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-067-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-067-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-067-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJZgAD4wPrKfzJfJQAAD+9jEBK5K7UxPZ3hVqjHaJ3efVr++aEqpG4EWfGO/nRK82/dsmB5tbSluXAuHFemAFOrN3TO4unpx45xPAqp8AgNEf4j606BId4zuRRQYygAA="
+    },
+    {
+      "code": "SCN-068",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-068-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-068-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-068-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQAgCdASoQABAAA4BaJbACdIExgoS/2WJdLymx4AD+9x0dwKG1lj+m3L1XZLpZ8Q9cWC9Aj8OYy/Yzm9yaFzYUsAUxyt9P4uBuSDajyxkRSCJ7eIOYjZ9WxtQDuiH11jNpEe9pwWPuH4VxwAA="
+    },
+    {
+      "code": "SCN-069",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-069-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-069-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-069-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJZgCdAERCD7FqPAKUwAA/vcrX7Zfl1yzchQ8LEI+kadSCmD3D4aovPQ3EWoAA2JYnA6o/sGMmW/s+yw6PG1Jh+otvPCaCpjNUmlZv5k9Uxv5voGWXObcvT6lOgAA"
+    },
+    {
+      "code": "SCN-070",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-070-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-070-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-070-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJagCdAD1hkRnn6IAAP73HSEpUK4qjaK5mfH9mb5nxNTlO5rvXuDaeUyRnyxAD0OEGPcFTrHNCLOsFk2yMfc8gRQe+pKUHt5u2DrjZoe+51cw9v4vbGi7eOjwt+7UkMNQAA=="
+    },
+    {
+      "code": "SCN-071",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-071-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-071-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-071-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJbACdIExGA8FWKwabYAA/vcrYXv+/uWMuggavGADjJH6+9bgKUahGCGzD2ZUXjYTPYczwvbXusJZWizM7vcnEV7RhLunsA3wpTIyZFHL+WQPqsQodGUFLH56HoAA"
+    },
+    {
+      "code": "SCN-072",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-072-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-072-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-072-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJbACdAYu5ycr5jTCAAD+8oYzzG6zU7Yd/fPGmbvFYBt94HBHtqEM/gQ/vDSWXaKY77nLLu/pHATp5rJAg3TQMGR8Smn6xiGz/XdghD5tjUnr2NiP7vePEMNXGP+6mASgP77kRMAAAA=="
+    },
+    {
+      "code": "SCN-073",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-073-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-073-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-073-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQABAAA4BaJbACdAYwxvRcRTrnPeAA/vZKWoI1h6VhPjTV6vhBSpVu1zLmVrvLZHIoC2PGjzLqNzpIrxkem5HNF70BQMn35bssEtIj2ER1KuKdV8P3rM5AP2/ljD/701fLgqx/LaFmgu8g5CKTkGejmWgAAA=="
+    },
+    {
+      "code": "SCN-074",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-074-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-074-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-074-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoQABAAA4BaJbACdAYw7vtjIE1NhimAAP7yc1S83X/rdCetG/0+BTwIB45TKX+knmmGlM4qIrM4jq5Xg2EMbu2r7BsD5+YihQUXFz/Js6e6tfqNTKJ7w971S9djsRA80lYc8BHQaizxgWp9AX5MAAAA"
+    },
+    {
+      "code": "SCN-075",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-075-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-075-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-075-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJYgCdH8AGKh7OFz+1QAA/vUkWoq3ClTHvZ9bz1LMbZKSnIz/YWhfosDZWb4qxknN0XKUj8kYtpBs2SYfEsknw9qCST3doKjNN7PyDHc71L+b/+vgdwPR+Z6mgAAA"
+    },
+    {
+      "code": "SCN-076",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-076-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-076-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-076-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAAA4BaJZgCdAEOaEPbrDAA/uev8w4a5SWQSeCtMsXkYMlUXej5LZyjoQC/TNKwMUFtwB/fZu4tzS3Ybzdc04iwRbCCjNBkEchuPkFojyAA"
+    },
+    {
+      "code": "SCN-077",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-non-sattin-border/SCN-077-400.webp",
+      "full": "/img/silk-cotton-non-sattin-border/SCN-077-800.webp",
+      "fallback": "/img/silk-cotton-non-sattin-border/SCN-077-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoQABAAA4BaJbACdAEfj8j6vKLykAD+8hZ2q1zSgwHaH12X6V/gYOMCQ01r3hoDeJ5mIOwYJct3qeyWa7KAPNQgwHcsEjZ81Sb2QQzCjW8qwJjD0nw0UwmqEnHYhDtt50xc40dleC2/DlHW5AqkKFgIawAAAA=="
+    }
+  ]
+}

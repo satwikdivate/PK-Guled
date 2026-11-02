@@ -1,0 +1,9 @@
+node_modules
+dist
+.angular
+.git
+.vscode
+public/img
+# Original download folder (the build uses raw-images/)
+PK Guled Images
+*.log

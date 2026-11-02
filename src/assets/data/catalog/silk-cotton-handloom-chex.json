@@ -1,0 +1,213 @@
+{
+  "slug": "silk-cotton-handloom-chex",
+  "count": 23,
+  "items": [
+    {
+      "code": "SCC-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-001-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-001-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoQABAAA4BaJZgCdH8AEDOddgrzAADif2553rP1MWTyj05QAvUTG5ciEfgsbrOMSN/ppOZEeuRJidRKPodnJ39mbWDhSbPnzMor2pp8k4NZ6VnTVHfWffAW3FeRCyI+tE7uZeTsPzgD4Zanka1c0uUaa0xEDQAA"
+    },
+    {
+      "code": "SCC-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-002-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-002-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJYgCdADHfH32KJoIAP7XYPXeeNRQ7R7NsNTVmJ5xBHxhpJh3iC0cf1TC6432yN+33gyFqsbwr8/wBd1NRevOntLYj3Ddbf06n3KOLan1yipRZZEMLl2+NC2Qi56jG94gAA=="
+    },
+    {
+      "code": "SCC-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-003-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-003-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAQCdASoQABAAA4BaJbACdADHb/b9ChwA/rgFFdTI5SD3vn/vz2+C96lwa+08Nx0jiwB09qohRfkIy/F/JsLhBPZYkRWH4PnaGdy3KGO4ZWW0F2GVR797n5Hh8vbomEKNC9b8gc6fN5PcjokHZagEnjgAAA=="
+    },
+    {
+      "code": "SCC-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-004-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-004-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQAgCdASoQABAAA4BaJZAC7B3gBIZSVJBT3Ly2xAD+uC9ZGB9yR09Rft1thgSNcTG8oynUmdxbx35kuuiqTwMYiBfy+bP4eTv2IxSq/j5e13Zc8FyZa0T7EzmV0kUBcUZrnZ8eJRRN3KCOUAA="
+    },
+    {
+      "code": "SCC-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-005-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-005-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJZgCdADHmKX339GP4AD+2GX4C9dsYrBcZNETJ1QK538l+Ig0GUiZ9P9jdiN7ssMwsBX0rii25S4YEmFTRe4oYy6K353TzgAi/jpSBK7vSoc1aHP0OfNeynZ1wAAA"
+    },
+    {
+      "code": "SCC-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-006-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-006-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQAgCdASoQABAAA4BaJaACdAEREdaji7v/scAA/uigAC1P6rEMdd0T56WAvm07jFozB0K9utqPFWsAJdCagHeF50T5pEOG9nQK2t8FPfuciX3d0RRWub6wLzs3gj64yM28x1vJyCkSgnAO7IRQHgAA"
+    },
+    {
+      "code": "SCC-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-007-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-007-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQABAAA4BaJQBOkCYiNFR/1cAA/vi4rmyz86olvS0g8NmLWOr3SQ1A2EI+tKM3lI1dbs0YGXzeipdxb4C0jTMxV9JWWgpzvLpYGI4AAAA="
+    },
+    {
+      "code": "SCC-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-008-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-008-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQABAAA4BaJQBOj+ACNYmohb7WAP74ujZSNWxdc2yZDvOX1pB8TOMNLL/rYS6X+gVF6rFlHgikunL60d1rsd4EftksiwUy63rywM4ZVov4QAAA"
+    },
+    {
+      "code": "SCC-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-009-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-009-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQABAAA4BaJQBOj+ACrvFlceAA/vi0NWislY5PhL4b82y3C03mxKYXmmieBDXUKUrvUmDz90oBOa9NxbNs3OfWCrajP1ZLI3dlHDZZpgaX/JyB4gA="
+    },
+    {
+      "code": "SCC-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-010-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-010-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAgCdASoQABAAA4BaJQBOj+DE/7JABffRDDXLJEAA/vi5u1jD50DlZMUdb5dpNn+7LrG42EdpezTb3zriezyBZXMArZ6BQDRKBIAp++qYrC8X5kA15GwIjagUdAAA"
+    },
+    {
+      "code": "SCC-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-011-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-011-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJbACdAD7AyiGvBnPQAD+7m4i7u7ZMuSZs4X9xeBqBUrN//sZxm8yGyZ0ghxNAm8oP26wPP6CyFgVXN17HtqkDudBdOLi8lau2hiFktwtcecEVo75s1HyG5GYWU0OJBgAAA=="
+    },
+    {
+      "code": "SCC-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-012-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-012-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQABAAA4BaJQBOiP/wLIOBW7AA/vi6J8lSS0bAM/1mt/oFV+B0ygzvlNSKP23Atcj+rMY9SKpAHdbJskwPuBS3971jImYcsrGJ3NTvuVhZgAAYIEjGRAAA"
+    },
+    {
+      "code": "SCC-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-013-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-013-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQABAAA4BaJYwAArCuAoZ5mQAA/vi6IyBIktc8hIh8jEfp43gJw8rm/ERJhi9GoCVDrS0/QV13aqhU0p8fj6CqnolBgw5abAA="
+    },
+    {
+      "code": "SCC-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-014-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-014-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQABAAA4BaJYgCdH8AGL/E0NiZVAAA/vi4b/13CMOBP3ExcHOXWQddxnT9Eu/wdlW4Ef4NK/QkWkfSD7KdpdN92fnIxEo+9HmtsOc3dErn4uAA"
+    },
+    {
+      "code": "SCC-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-015-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-015-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAA4BaJbACdAEfZZukieSUAAD+8pHUDu3wem16yBxrzP/kHhTRJw1LgADuGLed3nKzRNfFCeVcpEkDTDWipWx9DjfO2GQITGGVIUW/PIuHmBhNUYgAAAA="
+    },
+    {
+      "code": "SCC-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-016-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-016-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAgCdASoQABAAA4BaJbACdEf/i166YlolosExmAD+9BGkMVY82b2J49VQZl9d8VZLxC8KX4DucpDF8TilUUK18xenXtqw5fVHLXOO7iRPj878FjcZTAiX+Ot7ZAxTx1BUJI1jlhA1FdOBfaJT2wAA"
+    },
+    {
+      "code": "SCC-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-017-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-017-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAgCdASoQABAAA4BaJagCdEf/gbsd0t91c4gAAP7YfeW33BigZbnqtbhTbFaWKragGu9eyMzPxt5r8hIMI649Kdkg4+iN0xFTiYu7etDRUXCBBZ1GmC6Jk7TpEkFj1XnZmMlft3TrmR1Gfhd+w5/brlT5PRfDAAA="
+    },
+    {
+      "code": "SCC-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-018-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-018-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoQABAAA4BaJbACdAYvXS/FVN04AP6cO+nlw+85YPI0bLN5gnhU+pjVKrmItLn1+YNnXqfAuALOIvUqH2r2oF+v2XH/qITF0OqDwHraV37gEqBXpUZMHsYaXt1tDxmeK/BMZapBLKjTU/Vz7q6QOkAKcmZAAA=="
+    },
+    {
+      "code": "SCC-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-019-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-019-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQABAAA4BaJZgCw7Efn05y7Chb1gAA/vVe3i3rDQxc5afjr+D97EV4fLqVtMuBtMRt/Qtj+EnNe/jBfXy/bOE+BqDiZVTHI+DMZ38fg9ecJj1ZLLE1cg8uxZWSM8LSM/pgAA=="
+    },
+    {
+      "code": "SCC-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-020-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-020-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJZACdAEfSQ/tLb+4AAD+9BTO7QJ71mN5H8Ajg3WgTzS8soI6A0bEFgZdnGEZ4e3JMYxrPE87oxbPoI7OSYXwsQw0uj9tgPIFJ9gAQmMjLz4YYdYk7sbxN5TgU0AA"
+    },
+    {
+      "code": "SCC-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-021-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-021-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoQABAAA4BaJZACdH8AGN3/qYf1lzgAAP73Wch3twXNl8AAPto/pp79WlrysZtVeIzCeXziAb0M2s3ncFqFfYuaqM8GoXzXJTOt+MJCqM2IQychIEeiQR/nfsdKe7+hpEnAAA=="
+    },
+    {
+      "code": "SCC-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-022-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-022-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQAgCdASoQABAAA4BaJZACdH8AGZoDjKNQ+KEuQAD+7m4RTt2g2R2ZeqpzkGb7STbbhOpIV+aW4SU2ZVZRdsPwNM0s0/4S/O2ofQ77W+x9r8A57xkWjnyTuWBkZtAA"
+    },
+    {
+      "code": "SCC-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/silk-cotton-handloom-chex/SCC-023-400.webp",
+      "full": "/img/silk-cotton-handloom-chex/SCC-023-800.webp",
+      "fallback": "/img/silk-cotton-handloom-chex/SCC-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoQABAAA4BaJZACdH8AGZoDvVeFUYHAAP7wtl4815lWGkx10Gb7NLD0Cy7vKnlYKwLDDKZ0l4NSFlde9Cpm1RhiZFf8MB3t6x/iS1oX7GucqkdA+UQgY2tfRY2FKOFmAOc2xLRddjAAAA=="
+    }
+  ]
+}

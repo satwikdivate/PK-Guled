@@ -1,0 +1,96 @@
+{
+  "slug": "viscose-cotton-powerloom-plain",
+  "count": 10,
+  "items": [
+    {
+      "code": "VPP-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-001-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-001-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJbACdDiAATKwogTOqAD+7myTecQ767mXcz3GEdUpK7+Zkv4u0cnBEhG3f2VlO7cMDDuV7M+SYRlElQJP2QcuxTpoklAHA8vaaprm/HleKNOkB3vJWoMdq4PAAA=="
+    },
+    {
+      "code": "VPP-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-002-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-002-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAQCdASoQABAAA4BaJbACdADDCGE2wAD+4psu0P5TgQzdqkFHnGeyGF8Rmn6U9HFF5ir4WC1TJlpqFmwt27UniB+NmyB+q7Q/H9OrHCXpbPwfQjyzJeVURtF3xeM00AAAAA=="
+    },
+    {
+      "code": "VPP-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-003-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-003-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQABAAA4BaJbACdADJExHShAAA/sq6O/5+utuH6knL/PFexWUB3IHcqa/hqmPsvzsI4o/ho2pco7hc4Y5kkMiYweOVnnC4NADEpo1o3Oc08aXFWJLgF2fftEAAAA=="
+    },
+    {
+      "code": "VPP-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-004-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-004-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQABAAA4BaJbACdDiKwPGHNn5EAAD+68QO3ZrauyuiB8/6j4xhE+Lc0s06Xeqxz7370nrOcMF5mfCRANfg9XhY+ASDWnhoaNc88W8fe0zlzRKB/P14WZBvKQmRplsLC4QzuWbnbFSGob6/f14IUUAA"
+    },
+    {
+      "code": "VPP-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-005-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-005-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJbACdHMAA8qzGanAAP7imN0ivvUBH+195z6p18veWdI/23opt+GTYgTFTfsA7RvL6aNkPmN9W+zC/d3SaHrC1fe2TE1NfWQfh8Aa+b2m6odkAmn69Mm2E7oFQAAA"
+    },
+    {
+      "code": "VPP-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-006-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-006-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQABAAA4BaJbACdAEUVCbxSyv4JQAA/uitLK7PoJE3LmhIccJxRtk3jzW6i92pyk6r2JdUIAjwMqlgY6gHvq2MW4lBQJglRftS8/wFyG3Avs/PzoiC6RGIvMgKx9e+Pv8weYeD54HJBUfL9c1rnSYA"
+    },
+    {
+      "code": "VPP-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-007-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-007-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwAgCdASoQABAAA4BaJbACdFQAFP0YpMm6TZ0TkNwA/rhbodn/bFz7dyMwikzhoGRcOUv8Ua2SYrLOw6uamAV8GknjqvwobbF1lGFIWQXely5YcvdkTdKpMgWM/U1NY4CdW+5s8xSMC4UzVmy4aI5WxLOUYAAA"
+    },
+    {
+      "code": "VPP-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-008-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-008-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJZgCdH8AFC1tyLVQgAD+6K0uMJrQcTiwu3YwXo34xylosD+llqjE/W2kL30kUjGj7FW/+c+rUMp0gjIas5GvOfL3XT9kBq2xA3rPIdG6ELnSjfTOxq0CgRBLQAAA"
+    },
+    {
+      "code": "VPP-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-009-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-009-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJbACdADHmRiqpAAA/uvEDt2fQWQO2xQVmN/l3WufR6ebEv4wM9I24Pvqg6ENL4OY5vuR88Wepzc2Z0vvo2AuYhXlQRJ7SZlEPxAkfxCd0BnI4AA="
+    },
+    {
+      "code": "VPP-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/viscose-cotton-powerloom-plain/VPP-010-400.webp",
+      "full": "/img/viscose-cotton-powerloom-plain/VPP-010-800.webp",
+      "fallback": "/img/viscose-cotton-powerloom-plain/VPP-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoQABAAA4BaJbACdAEXb/MwGmAA/th5a2f4Q5TfcjFYZecciWixlV/WUrsBXBvIdvlwheDhn/4rxTI+V0HLqbEHhNUt22A+8Js59MBO1HlCM/rWJ4/E3rgizSb1xN7RcFFh+8fbQAA="
+    }
+  ]
+}

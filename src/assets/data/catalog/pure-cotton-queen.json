@@ -1,0 +1,861 @@
+{
+  "slug": "pure-cotton-queen",
+  "count": 95,
+  "items": [
+    {
+      "code": "PCQ-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-001-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-001-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJZACdIExFMzMlXWSgAD+9UNEi3whjuh8d4RSByXSgBZrPXw4lCtCYdowDGwgxqghACQhpyxy/qDut/A6AwWyxOioLOHsP0wbMDYcjgal1RzBLLigRG697QAAAA=="
+    },
+    {
+      "code": "PCQ-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-002-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-002-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQABAAA4BaJaQAAjwiCUV6gAD+8LKj2q8CiJbrDXfcizPdrsnNp2GO6Sq0PE4qdeAq4FN+1GMJWuXtku8+lDmU9Dv3Xe6cqf/0EVOrWe3rU7GOgAA="
+    },
+    {
+      "code": "PCQ-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-003-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-003-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAA4BaJZgCdAD7gvQCoMrgiAD+8LKj2tfJ++fF9TsXptKRJlgocYX8KXseHCKLJduUHSZt5El0ILUYlNEcdYZSKyaX2RHUmEGkN9Xo+RYCWQSD2pqoAAA="
+    },
+    {
+      "code": "PCQ-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-004-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-004-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQABAAA4BaJaQAD5COI24al4RsAAD+9mUGkuyMfbTkibrGn35qOAg+XamLYab9OSCuMvMlWweYbCKa+xBCOqWECvzvRi9emY20uC3pJhhDNTHVhUeVAFFyGTaj+kAA"
+    },
+    {
+      "code": "PCQ-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-005-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-005-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQABAAA4BaJZwAAiFrwha1IAAA/vVXD5QIX6TlUjn1NBCfnzZ5vFButc2LKuhiRGwxFlSXWkrqhXaifHcXqyXal1zANACBPg6tyXke0hgr7/1mCmXJdXdivAJ0AAAA"
+    },
+    {
+      "code": "PCQ-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-006-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-006-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQABAAA4BaJZgCdH8AFeEs7MZUMNIAAP70EQVXRY8zMUlujzJJxbZ6sEr47Gjsm93l82NDtrFMpeJLSV3ptg9Pfhu/zicv57AO8NklQ1RVkUTXu8LBKrh5IZq8KLGbnGvbJmxIkAA="
+    },
+    {
+      "code": "PCQ-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-007-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-007-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoQABAAA4BaJQAAXIZTptSx4AD+9AlCZ4I0uNm2AepKihm75QNcGL/ebLrXg/DmrkBIUowGbjeP6cYPV2HhfSooNRA1uD/ldH0OXsP/aY/uhIEG1fb3O/CEmAA="
+    },
+    {
+      "code": "PCQ-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-008-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-008-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQABAAA4BaJQAAVASxok9TUWAA/vVXD3KK3kO79PSbb5RMr8G/GuWPlvI/NG1zr56LEOUXee5v5mv2H+sHpBcTdA/a6ZU3m6aWv1MHm2+R3YR/0L9K8c7AGUGGF4AA"
+    },
+    {
+      "code": "PCQ-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-009-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-009-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwAgCdASoQABAAA4BaJbAC7AECwhEq2/+vAAD+9mUHK96T2HI4U2NivcMVkR//TerevxxlXK/iY7jquaveoIouxAS0Ki2PacyErC5Eh+4Y/Bo8fYJxHA5dULyPINFnSRbUVL5h2KTFvTQjEUqfA3CePbkAAA=="
+    },
+    {
+      "code": "PCQ-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-010-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-010-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQABAAA4BaJbAC7ADRkb370qAA/vVDRZz5lpuDf8QOZnH0ewhzirK++KOD8vwc3u+wdjgQKv1uLR2K4ywZvzGJ4aoVIx9mpGVG5L8zc3+wBKieF4AAAA=="
+    },
+    {
+      "code": "PCQ-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-011-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-011-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQABAAA4BaJZwAAiFr8LDpUAD+8ovmxuK8NbzG8dWQAUk5lvlkyVTdqJ4v/YDr/ukqeYwT4E6EXD/xP75KCsO4yhe9leDRKS/mSb3OUAA="
+    },
+    {
+      "code": "PCQ-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-012-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-012-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJZQAArPkCE+KJgAA/vVXD6v/+4M7yo+sQB15Koo1vLoVG89MFhX7Ej3DvbJmRxNgyo6V8eU2sfBl6pqa+nwskElRoVeKhyYeTntzLidHAk6QAAA="
+    },
+    {
+      "code": "PCQ-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-013-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-013-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAgCdASoQABAAA4BaJYgCdB3gBE+7zn8GsSgA/vCzDFjUdIABFp7LmcTk41Rv8RDiOYihseR4bwmJcJScM8dMbbGBafBDYzbw+4WGxABbtAAA"
+    },
+    {
+      "code": "PCQ-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-014-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-014-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAA4BaJYwCxC8AEp9XbQwAAP71Q0V/mFStYfSrLnPnPmqCFW2CibI1vGmukMVoNEV1SUxPHtyoYbIGg8Q0TpguKh59t6jFb4+fjxaEp1jNAvPnkuymAAA="
+    },
+    {
+      "code": "PCQ-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-015-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-015-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJYgC/ODRkp+7pnIAAP71Vw9Q8l6e80u2Mg7vsJfDRnOJphm/ulhIUbBz89R/dIOoVlHPDce27WV8ODTEn4LVaBt272BmG5NJ1ZJVvnDoJoWKSIMeX1cWYYBToAAA"
+    },
+    {
+      "code": "PCQ-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-016-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-016-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoQABAAA4BaJaQAAhvEl8SAAP70CUKLWwjaB882aPGpwcqXtxEneBou81Ou7Y1SkMcWK6QwsW1AQWeWP3pmUOVkGEv1WdvlFhhwD88AAAA="
+    },
+    {
+      "code": "PCQ-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-017-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-017-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAA4BaJZgCsADw2wNwHZToAP7yjF05d+Ah+M1+MFHFrnbxsbGRy/JYAX8XZK2XD+x1dkQNAU9NnVTy5HvLoLyPQTIu+hdTfa0EtWo4e/ljMAAAAA=="
+    },
+    {
+      "code": "PCQ-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-018-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-018-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoQABAAA4BaJQBWD+ADBF4wN4AwkgAA/vQKtPzkNE7KvAs61tv5XzC1T4gaK6o7X7yin/CAKs39EuKqgDirINBAYn0wwjwPHMDanDrtffd/L0uiXK1myyZm7ZQBHDkYmnENSCgn2yFn4gN1hgA="
+    },
+    {
+      "code": "PCQ-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-019-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-019-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJagCdAYwTv1XRcTMRcAA/urz70jyQXGxK33ARUmHQ39Q3B5qsPbWxugEMGacYxvUTLXF8jS8czLorCVvMEWGL5F7WHWO8kXYjEZUwkk3iXul4BXZ+oVTzB0HLYoA"
+    },
+    {
+      "code": "PCQ-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-020-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-020-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwAgCdASoQABAAA4BaJYgCdAYsjv1qpvtmk0oAAP7olMhN7Efa3qnS3w38sT5sutcuHIDxFBpCr3O0BwWbOTscHNKX+j9yfTGUeDiK4/81PrTA7zBwN0bD+IWccoNcQHkQgMhs+Bxba19GFUkxl4A60svJOTTZ9FgoAA=="
+    },
+    {
+      "code": "PCQ-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-021-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-021-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQAgCdASoQABAAA4BaJbACdAYvXwPCiL2+OxfZAAD+4llENGMu+10x/e8R7LkbRPOSLCqpjOsQLQkSAIGWs90CP/Cv7nf1dGzglHWBVzf9W/MlW07CK0c3AsqLJN1+t3LdXI2iGWEidKmwiVhyGqGKIkIgD5VTaoAAAA=="
+    },
+    {
+      "code": "PCQ-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-022-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-022-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAA4BaJQAF8AF/oIudJ08AAP7GB1B/Zg0SZ7TQt7V+xStv3VOT5VC0291ziqcuHO/43TsnCNC8Vy6MReN1Vx/tVBZCnA+pJXHzDngbn4piT1AAAA=="
+    },
+    {
+      "code": "PCQ-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-023-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-023-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAA4BaJagCdH8AGCGxfwH9QAD+65EmtJ/la/GH8XsSaTnC/zWubVcbf8FWMPmruTpCwLWQ+p883bkVo28gNKhGGfuBBVnKA6o6R1F+k6tNxKEuUbkAAAA="
+    },
+    {
+      "code": "PCQ-024",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-024-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-024-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-024-800.jpg",
+      "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQABAAA4BaJZQCdAEPPPEsibAA/uAL3q8gcgobnsWYy234X//0ptOGVAlJns2hF0wm4Qkzu1rivsc4Hlv8hYjBXMvsDLEwySAAAA=="
+    },
+    {
+      "code": "PCQ-025",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-025-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-025-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-025-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJZwAD5XQjlbDYbxOngAA/vCyo9qMbvKmfUe16Bbi9+MFcHuIzLS+gxNOmC3YfZaKpsHvcKhZHz4rVGxxZv3UryB4x82YMhUJMOdJEgvOhqBwimmnEvn+IIq0AAAA"
+    },
+    {
+      "code": "PCQ-026",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-026-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-026-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-026-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQABAAA4BaJYwCw7DRnIXKgQAA/vKLoZsTHS78FvVVN5CYLOyZgfLwgnUjApzQNQcTjirEH+wUY/BKTJIzzY5iE2RYWzsag6Jtjx6MbYcfclEWME986zWemx9YwLVbb5yAAA=="
+    },
+    {
+      "code": "PCQ-027",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-027-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-027-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-027-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQABAAA4BaJQBadBoyN8CFsAD+9VcPpFmH/GxaBwtepoIEsc2CnfztQGOOZvB7vJVaKOsWmsbUSzoUneznZW1fgExFGx7qq95V4Kn/woOD+drYQ4rEcoAA"
+    },
+    {
+      "code": "PCQ-028",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-028-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-028-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-028-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQABAAA4BaJQAAT7eBpBMe9MAA/vKLoZrffmFOqeg8lfmul6WZo9+v2JOR2HrheFz1MmedAkA8ViSLq2ZQPpNqT59DgTTBM45834X6z13F54HahMZWakljAAA="
+    },
+    {
+      "code": "PCQ-029",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-029-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-029-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-029-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAQCdASoQABAAA4BaJaQAAmsg7o8F0AD+9AlCfE7JKev6lrk0mhq1a2+rebZ9WT7xkA12ePfQUcNULyyUT8egVmQl2r9UbsvDywqzKlm8/xI48ZefhlyctaPvAThFn7zioedZ+rOAAA=="
+    },
+    {
+      "code": "PCQ-030",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-030-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-030-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-030-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwAgCdASoQABAAA4BaJbACdAEDGGPziFa/gAD+9AnJqns7qSYs0OHZpn4YzY5lK+CNG42YHyk1emGsvgsdj9A6Ps/pCvB3gdbi5Xz/3Xmyt5vLawjgN5jfdd6PeWFBc7ktpzQM+G+5ntWZICR7DQ/ZxUKBQe6+oy8QAA=="
+    },
+    {
+      "code": "PCQ-031",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-031-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-031-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-031-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQABAAA4BaJQBOj+AQXBJ/YDN2VAAA/vVDRBU7SWPMssFng4VVGiA4tc7fWz/LfYkJKz/MtIuP95MgDc43eDkHwvdMMj5IXtGBilEx7oxxx6kLUhYxJc/YDhRGRiplChlEDfaLlPpeEXK64TJ8AAAA"
+    },
+    {
+      "code": "PCQ-032",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-032-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-032-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-032-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAQCdASoQABAAA4BaJaAAAiFrleHrkAD+6Kz+zdwtu5gAWdidRDhPW8ZR/Xeb1BQ0YZ++jzOCRxbZFlL0F4IK6h2woBGzLPiEYn5fjvbdS6z6bNLM8e/DDhZ3pk7do1SAAA=="
+    },
+    {
+      "code": "PCQ-033",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-033-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-033-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-033-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQABAAA4BaJZgAApQCiiCNzEAA/vQJQoU3o17UwdNJ2rOeW8Nqn5tWpPaeWEzEbwFDmDoRNvlNVa1H07g7k8W4qQg6ibWNIlL/DBrtggfKsEPelZ00Xo8DAREkfKggAAA="
+    },
+    {
+      "code": "PCQ-034",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-034-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-034-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-034-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoQABAAA4BaJbACdDiMwS63KhmVDW4AAP71Vw+bbnx58gmdCjKuLd0NV7EBk8HS9GtBZ/FfhiZz5lNf7i+4Rz6bH0mmaQovIdYu877UY7YtI6bpnOBnyqmAC70Z/ZIUG+4dn/Va86bAAA=="
+    },
+    {
+      "code": "PCQ-035",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-035-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-035-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-035-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoQABAAA4BaJbACdADw20azpMgA/vCyo9qMxVFNHgIOcOl3cSD0S17qI9b0DQAnQD48ykQM9KfWhb+7FUQDnh5IeYvEy60zrSsKSTPU7CKSScPX8yPE7QXB7i7qvNuWACHMEqwbiSAAAA=="
+    },
+    {
+      "code": "PCQ-036",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-036-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-036-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-036-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQABAAA4BaJaQAAjpa08kNAAD+9AlCiMOxs+zQPw7fzlSLAZMpl9uz2KgI109DcFN7Qgf85HjOPEhrneafpywlINFX/6ptms2qt1eTNoXPMAyTI87QAA=="
+    },
+    {
+      "code": "PCQ-037",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-037-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-037-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-037-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoQABAAA4BaJZQAAsbZ23UTWgAA/vZoDFOd5rkf7JGrJ6gvGjHwd6wOk7J/Pnfx2Duf1jGs2QqSI23aZ2KOcjnCtfewUkXko2IzBo1oCgIa8+QV54YpZFA8o7JYqMj3YUEMKXAogAA="
+    },
+    {
+      "code": "PCQ-038",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-038-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-038-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-038-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwAgCdASoQABAAA4BaJbACdAYvN2+D/3xm4CLsAP72alOG+KpUws6kQY5p6vZ3n8ssH9JJ0wMshR5mvnhu/CbTcNJ7D+vgMsrsq3uAek1dOgT2BeMD4qYUwWwZhr/OoEx9+Pf/01/roqurXjt1IkQAAAA="
+    },
+    {
+      "code": "PCQ-039",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-039-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-039-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-039-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJZwAD5Gr2DyqLt9kAAD+9BGvVQOxQWJqj0xzK/FpPJXTpLBPz36WAD2/2af7daL/EamoAlc/ZtaXI9q5pbVb7bG9l7qC6jD6F101OtoPrRr5TNNDfSOcX34MAAAA"
+    },
+    {
+      "code": "PCQ-040",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-040-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-040-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-040-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQABAAA4BaJZAAAiFrid3kAAD+8o/xH4H+CHKuzGPe2e9O0vakb+VRE6wMVNaA+TmHncHQAgZ79aza+UWIy6jcxrx+qDZIAz2B5/w1QAA="
+    },
+    {
+      "code": "PCQ-041",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-041-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-041-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-041-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQABAAA4BaJZwAAtri7G+bugAA/vVXD6GJ1i2eWtU5mWU3OLrIdiz8vnh+Th2kN9PqfzTEdFO2JFChq/4FxFLPiyZFi2ykomQoJRWYjHXlSiVlBRnuYPpuvsgss/KeAAA="
+    },
+    {
+      "code": "PCQ-042",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-042-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-042-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-042-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAA4BaJagCdAYvhWWnm91RVMgA/vVDQ/aTzrbdVgM7uZgfanzeWn8j7+wkrcRf2E6ym89ProjKN36GBsMNbuBQiEtya98YvroS/BeVGrey1IhAtlywTvLonru1BjtzPDv0ZaOCaZWzyGIAAA=="
+    },
+    {
+      "code": "PCQ-043",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-043-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-043-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-043-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoQABAAA4BaJYgCsIExFes8WFrM/gAAAP71Vw+rtTfMoAUMqGgCSSrQsLrlZMrrHSQ511EsTQSMRXm3ADMAfI018T62jvHjvhQ+n/dj/i3p4ZPAQaEk88ogYXNvH6Uv3MQAAA=="
+    },
+    {
+      "code": "PCQ-044",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-044-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-044-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-044-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQABAAA4BaJZQAAiFrjZ+OgAD+8LKjm3jFEvM7kq2BSFX6ON9+lmCbW5cZs8lF5a+tjiF/ezovcW4anbHY8HHS0mOuBNdNhjyMmHMAAAA="
+    },
+    {
+      "code": "PCQ-045",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-045-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-045-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-045-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQABAAA4BaJagCsADjcIwIskUwAP7ubEl88a5vp6sy6Zr7NYjqfhWmbRUlF9bazxBJ9qxmAHVjUAp29JkhJQO08G+TgxpGXvTt5E8XFeN9LWAA"
+    },
+    {
+      "code": "PCQ-046",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-046-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-046-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-046-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQABAAA4BaJZgC7AYt9wlejv/8U2AA/vVXDwyW3IjBRCaBNT9/E91IrclBMwOU4C5aZD3v6uKpucx2zu/5MwSM94+aNSKwahvVSUiPoBnSGHkik/OZH8NjC7IbBmMTX1sCq/QFpa2xY9vukMiUgAAA"
+    },
+    {
+      "code": "PCQ-047",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-047-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-047-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-047-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJbACdAELjhTwdxGAAP7wsqPahH71G9CvDegh+R73dun4nVXk//sERA3wqYkpHGhUBPUrYKJEmV7DGNDDcrc8CI0+URDIMfH3WZuqHL8+OuCixV2ooAAA"
+    },
+    {
+      "code": "PCQ-048",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-048-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-048-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-048-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQABAAA4BaJZwAArA/sC+9SDkIAP7yjG0UCO6jc27G0Cdbpy7z0txnD9o4z0Rt74RQmSfUYndary37ZqbXNZxaNSMF3OYtqmRmjMoc2jX1LKAgAAA="
+    },
+    {
+      "code": "PCQ-049",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-049-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-049-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-049-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJYwC/OYvXTUTsHp4AAD+9BIX7rwVmDDPml3xnlKkCNVz8+SX3SpzznXNZTBXdCr92KnerJxwrpn5hjnrw8xcGTtZuYMzOKtmm+aC8AeOfzpn6Sa4ywfsqV6+zTs0ybAAAA=="
+    },
+    {
+      "code": "PCQ-050",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-050-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-050-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-050-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQABAAA4BaJYwAAsTdLVUNSEAA/vVXhrUbpUVn78vkNH6jU2gCVg2NSZOrFZt19xqPtA80r53ZrNcuUMTfH+Fn7VsFPY2/eVHQmRTbkGCKTUCZwycQAAAA"
+    },
+    {
+      "code": "PCQ-051",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-051-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-051-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-051-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAQCdASoQABAAA4BaJbAC7AEC2xSy8AD+9AlCga9xrrUTf9jw0+6it/59cV36koJPaikWG6iMK2AMYdHaeAdWbzjWzffcqiyrtFax6qXQkqHIgdZudtVUlh8Idwbwvw/GhaAA"
+    },
+    {
+      "code": "PCQ-052",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-052-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-052-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-052-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAA4BaJbACsH8AFkbLfVetAAD+8LKj2sb5D2yltqQ2itJDECRL5znqjl0vI1vY3JAH9SEL4BhL34mMf2P78eJyiABFMr1M1qhfrfaCMMIFSIyI9BFWAAA="
+    },
+    {
+      "code": "PCQ-053",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-053-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-053-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-053-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQABAAA4BaJbAC7ADiZoi1z4AA/uvFhL50uxpYKwoDSXbrnbx2WCOPkLInM4KX1iH96xwfzaSbt8/m4Hgncj0yF6wabyx/MUQfpGYLl7h2IAAA"
+    },
+    {
+      "code": "PCQ-054",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-054-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-054-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-054-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAgCdASoQABAAA4BaJbACdH8GGAZIAVYAlULholgAAP7wsqO+k2AEvCfCOjbsbDnEOSgU1VX3WDJ1r8ZW7pSShqFS3+jJRfW7rZMQcQqMX2EhUXtSCoVsaAcCAAAA"
+    },
+    {
+      "code": "PCQ-055",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-055-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-055-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-055-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwAgCdASoQABAAA4BaJYwC06Ywn1EyMIJ9wR0QCAAA/vVYVChvzZuPeH7HLPcIHBO0U+5jxT26RbObL5yPM/31zS/RzWCbiOlr2fP0MVPU76cKInQ/PbtskASJ+xjj7Zp7XS3eDA3IvAOerD9N0ACvMMQobIAA"
+    },
+    {
+      "code": "PCQ-056",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-056-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-056-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-056-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQAgCdASoQABAAA4BaJbAC7ADpNvVcum3zQAAA/vKMbRMDcvbGR3tzmLfLlj4PFwRp3HoTI/dJzeW6btvxj2bBG/Ldoe5CwSHPcNK3ojgHruoaxrmZSRAMAWAGQG4IoaPL5Sq7yPHq7kK0/ZS1hkWqPsAmbA9osAA="
+    },
+    {
+      "code": "PCQ-057",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-057-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-057-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-057-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQABAAA4BaJbACw7EXXvdtqyehAAD+8o/4A1EzSQizcQ9eGyh3fs/GyaweXQyO/vfje7oo9b4Dpj3aFgOC4Bn1Q+Nk0EBBBvqIp48ufA2KXQhFQSIjOml2TvRjc2aZ5YADXlvofMgNatVlfyafAAAA"
+    },
+    {
+      "code": "PCQ-058",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-058-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-058-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-058-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwAQCdASoQABAAA4BaJQBdgBhhIAmQAP70Ea8pfKrn2N3i3T+mC7q3y9jlECts+lGia/0ufTct7AFuxyBcrud7FI87PgzmTMkkn/nBceG193HYgDAw349KJQyNfP2iEKjHnYwrCa9HaUTM/G7U0LCQAAA="
+    },
+    {
+      "code": "PCQ-059",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-059-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-059-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-059-800.jpg",
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoQABAAA4BaJZQAAhUmWngAAP7ykClt2mSUxHUI+N3cTAzdr7AX1KCaeW6+i/iys0n3OG3mCQSWsASBYJ4tk31h8fd3DwkQAAA="
+    },
+    {
+      "code": "PCQ-060",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-060-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-060-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-060-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQABAAA4BaJZwAAid2TozyHh0AAP7YfrqP6nZXdNTbv82vQsR/1d/ca6P952dnKdHlQSa9vom8NZdyx1c9HBYJ4ojVAhqFWwujjBKQMQbOBmCNAAA="
+    },
+    {
+      "code": "PCQ-061",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-061-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-061-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-061-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAQCdASoQABAAA4BaJQAAUmsyodtgAP7yj/Iqlia24r0BgdeOZ8ws2UrPYIEbr1nySPEk5QCNP6+zx54jQCPZUKyHUWdejauoGtuGMw0vhTLEDyehcAAA"
+    },
+    {
+      "code": "PCQ-062",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-062-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-062-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-062-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAA4BaJYwC7H8AFEXeGqgAAP7yj6pFHDCDNPWd82HwVNIS0E2+Svg/IjYv07nbHc0D9w+Pa0nt5eKL0nGozWvxU1esvo83PJk9bBzd5Go8DxYAAA=="
+    },
+    {
+      "code": "PCQ-063",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-063-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-063-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-063-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQABAAA4BaJZwAAvgoPwAhMGKAAP7orhKLPnUFeCq/FaHa7HTG1dROrBCJepeYAzqfraaPRwiL3jEYBgz1+2IzYs4KZI1sbDCCMh2E0AAAAA=="
+    },
+    {
+      "code": "PCQ-064",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-064-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-064-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-064-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQABAAA4BaJYgC7AEfS+fDDMn0AP7inTCSbxqIz74PqP39rTYTjc+yokWFcAIGCk47e1rznPiAVS7H6M18tCdplgBAPRkJygcneX7Sah3f4mrSnbQ0AAAA"
+    },
+    {
+      "code": "PCQ-065",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-065-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-065-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-065-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJQApgAWtIYOeATQAAP7ubhAOSIKr7VIqrZPoANDT9l6v7Qj7dKVL/7wNwbNwbJml5O8VAtI35h7EtufLb4qQJVqcZVfTLHisldcaFcgbzyPinn0URgAA"
+    },
+    {
+      "code": "PCQ-066",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-066-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-066-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-066-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJZQAAxYBU90CmC+HAAD+6K1nPfsBnpx7lP+MTPtTezHL9FUNyfoztN5NHGPyZwTo4wbZZImmwAteM+tiaSL8bHrFe0/idu1wdm3WLDp0esNc578DmQF7aktEBYLAAAA="
+    },
+    {
+      "code": "PCQ-067",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-067-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-067-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-067-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQABAAA4BaJQAAXXakRWMOYgAA/rhcKhqL90AqxTEmiYrqkk9K+e0SV+zOd399bMpT79PNC5aJ1IWGlCCXDRXKR8Otv7d/Q2mUsescSIOglNEflApWvH0By+GyzS2a3oAAAA=="
+    },
+    {
+      "code": "PCQ-068",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-068-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-068-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-068-800.jpg",
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoQABAAA4BaJaQAAurbm9p5HkwAAP7rxBH6W9WgT9vgycUHFCuQrzx+4ckltT/bUR5Ui66Ha3vPuF//apdYc5osjS2L8cA4wAA="
+    },
+    {
+      "code": "PCQ-069",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-069-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-069-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-069-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJZAC7ADwMyEBmvUAAP72aA2J4yFCc11kvFAYtXy+J3gMpayqWRpfaboFOJYjOvgNQIB+uNGF+3Jun/GDHx+hStdas5zuZWQSd+BzRJRLnVOpsGozS+PBT8fLAAAA"
+    },
+    {
+      "code": "PCQ-070",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-070-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-070-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-070-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJZACdAD6I+NLdZHJAAD+8LN+x46rM6igUeE4LAG/H+rr4lTIw5CUR8heAhpUJ908mqSGGw+7pmWdNBnQNE/gFUXpBhVJy2EoivioIKbUBWex3M91pPKpRAA="
+    },
+    {
+      "code": "PCQ-071",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-071-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-071-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-071-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJQBfnB8nhxPRY/oQAP7wtV1flDurhgIxSYy4EnxGaI/l5ayyKwkY73/rDiinumY8qtbltXB1lkHeO3lJ6hm6arxBs4UUifN8U/hGRt6IE8GDUTGfm3hsUAA="
+    },
+    {
+      "code": "PCQ-072",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-072-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-072-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-072-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQAgCdASoQABAAA4BaJbACdIExgsjGVkqEnBhwIAD+nDvPcz+3o+Fog4aWdZqWGr6eEUzmlva6dbu/dRredA9yRxiZ1bM8pvHw45+rYNXZLsEIBftdlK4/O8nJ6+d5z7HFSOCTKVJCWPSy0QQAAA=="
+    },
+    {
+      "code": "PCQ-073",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-073-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-073-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-073-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAQCdASoQABAAA4BaJYgAD5MrynyBAAD+4psJKb8nB79y+j9h0yeA+d3yVa4XEa92RaiCreUUk08v1c68e3Mr4wMzh+8LHpvNYKe5OUcDo/hK+8uXw/o/bOpeqW3dU4Bpfr9AZ4LuAAAA"
+    },
+    {
+      "code": "PCQ-074",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-074-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-074-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-074-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQABAAA4BaJbACdAD8pcH6Gg1AAP7Yea9Bvll0Ka/N4QwVNbueimTZO9T0L4WbzbI/UciIC4t6++kVI5fb6CzsU+LK6NuD7bG1s2Oze/z7cStr96FcQpjtl9Wv5L3d89n2SECWpzNmDAAA"
+    },
+    {
+      "code": "PCQ-075",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-075-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-075-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-075-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdAEfZaAlnSjAAAD+4puKG4/ku6ZvTcc7K6prLYJcnYSuqpcKRELv0d4tQJSWo2ymMdhevvIApZ50EzfbSdOvQT/66daJlJP6gHtypCPl/M3k3sbXoXNviX7d83wCEMAA"
+    },
+    {
+      "code": "PCQ-076",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-076-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-076-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-076-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAQCdASoQABAAA4BaJZwAAhUoMCYAAP7Ye/P0l8zYbIe94MvFGuGurltyrm0XcsQF/VU986J6T1V7EXHtHNfgrDCabJgnUKqxLFd+/SubRwleJgFwAA=="
+    },
+    {
+      "code": "PCQ-077",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-077-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-077-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-077-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQABAAA4BaJZwAA1NGxHrQY4OQAP7orUfcv4Ztd93nXLZ3vRfddVK3R3uHsOT41mE8syA5ufCdfcyMAlfjh2OhQa6tin20zOsagLqgqCxEAAAA"
+    },
+    {
+      "code": "PCQ-078",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-078-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-078-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-078-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQABAAA4BaJbACdADDCjM6SQAA/uitFSS/ClxAoid45FDHGyFmf1bHRVAru7ZSBzWdCipXrX2E/SKAek9Rb0Ys1aWnt85J4uGe2h5X/mJdtlMRh4fvXN4YupNFekIboj7JEAAA"
+    },
+    {
+      "code": "PCQ-079",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-079-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-079-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-079-800.jpg",
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoQABAAA4BaJZwAAhUfoOwAAP7YeT5fcAtgulI2TorPWi/K0BvLDAQ5kQtVBMMBadbw5nuyBTlo47QfOpVjSx+iNCT5avFEAAA="
+    },
+    {
+      "code": "PCQ-080",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-080-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-080-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-080-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQABAAA4BaJZQCdAD8dJoaxM4IAAD+yrnO38BHOYbgrM/OarwXN2NH9JvD8SwX4a/ND/I3wx9HeguR1ga/L/zvFCJQ/97rcUGAYB157Lkr+gAA"
+    },
+    {
+      "code": "PCQ-081",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-081-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-081-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-081-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJZACdAfwL8zGJ3HYxAD+7mnz0IbRadL/2kZOwjy/yD3mfZ+1J1PwLVVKumMiis5ccCcP3he50ZHvYSPMsXqPvLTOZ2yE+YsaZMosvdI8j8tIxge3a0agAAA="
+    },
+    {
+      "code": "PCQ-082",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-082-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-082-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-082-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQABAAA4BaJaAAApNTDbKWiQAA/u5p8P3VcgZrmuC93ntZwDAvuqPxSICZk7UGNA+SHvp1+8/gZ8xNFNK8XC24XfPgDHxxrkvd15LvqyFNxhPofGL0Rf6PGJ/J2g6pRfr4AAAA"
+    },
+    {
+      "code": "PCQ-083",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-083-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-083-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-083-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJYgCdAEDYZOfSqcgAP7YeT5fZci7SLjp/Q2auUGDOxFZVMiGnaW5sF2/WLkdfeqAiO2U2a/ecGzCScpGoxs7SLvDCLxfH3g9sIhGWaTd+pfMTzGAAA=="
+    },
+    {
+      "code": "PCQ-084",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-084-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-084-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-084-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAQCdASoQABAAA4BaJbACdADpNjANI4AA/uvEMM/XPdQFCl0z0YQYgI5HsNf4/M1FU45N0E49kNfc2rLbBYBBTYF5VL+4cwPl1nos4v8Ti9YUQZTlHvTwZkFuQdRnk3ZYW0HP5m8FlWaWHinQLTqwXcl2j34AAAA="
+    },
+    {
+      "code": "PCQ-085",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-085-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-085-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-085-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQAQCdASoQABAAA4BaJZQAAhUfVaAA/uKYbt9a5TjRhTc3sdrt7GKBqQc/8syeXafF8cyhp4IdK9+/0vEl37qCFwBt8dRypcjlszHWQvy92fCGIcqKMXK4J8pEUAAA"
+    },
+    {
+      "code": "PCQ-086",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-086-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-086-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-086-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQABAAA4BaJYgCdH8AEpMoe9FnHAAA/vCzOeDQZD3dxuiPcvs9IkfVwc793U07nnLe325t7GDGrh+wx4sKbXE8bXw5sULm2n+tvjkju0JHOfY8YVEGut/Dmb5CUAQOAAA="
+    },
+    {
+      "code": "PCQ-087",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-087-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-087-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-087-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoQABAAA4BaJYgCdAYvrSRT7hd3EQAA/uKZCTvw1le7amw8PDPXn86yfDz75Mp78mtQryvQP+rRTQ5dbCw/U/O8GZ68Wcy9TZvgB/SP7XXOY2ff6RMWFDWTkWtGVedg85Ohul947JhZe2E/epKestyZkUTz75tIAAA="
+    },
+    {
+      "code": "PCQ-088",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-088-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-088-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-088-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQABAAA4BaJZQC7ADdSl4Dc5rwAP7uamOf+LJiT6nqzslBt9GOsgua28e3FEzBKKqCPhn1F21pb38L0gXhgFnzkvLWMiPve4FsxOwRHjKgBvKMsjfoL/GeGrt9PSwAAAA="
+    },
+    {
+      "code": "PCQ-089",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-089-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-089-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-089-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoQABAAA4BaJZQC7Af6tX+Z71z7yLAA/uKbVm32xVKpKT6jOjp25D+f7TR9tc1kdZzKKmWScNGzXlZXP+7HO3Zd28UcfOJvlwslK5UWfkiwZFe8kWEv1++15CUwAA=="
+    },
+    {
+      "code": "PCQ-090",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-090-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-090-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-090-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJZQC7AEWxkJcs9p4wAD+2HneLb71vBeRRbhwaO/aUYH9r3Furu6CqvSeyopoPAAWvsAezsiSI8nLv2iMKn66jzyr45vkRmgi0toRQtna2YDRityg9E4AAAA="
+    },
+    {
+      "code": "PCQ-091",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-091-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-091-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-091-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJbACdAEC3vaGgR/9IAD+8oy8C1lOYHhlXwdZhXhsaI15ttfQc2eOjX3fAyUp0RfDTboL3g9tG3fuRxDn3nOkOuIQMZ/mgonFewr20ozgFfvtz754Vo7PzR6JxMAA"
+    },
+    {
+      "code": "PCQ-092",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-092-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-092-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-092-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJQAAWISWvJ6Vkw4AAP7yjK8LRHYl6/+rwgj4hzViKOfkPwqwuoetzZScQSNlHPL/U9b3CxBNqMH+p0udSrbD7cP6c+FYi34Xjw7mTT5qP63bczs4AAAA"
+    },
+    {
+      "code": "PCQ-093",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-093-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-093-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-093-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJYgCdH8AFlzcJbCaAAD+8oyklI+PxwVIzTPCLgPO2WfdykyGjk+efKr04hx1Z7UwgF7FUq6/IvX7vHlXN4aWrOG/MBUjc8LEa4a4SL94NXQemk33UUqS36wAAA=="
+    },
+    {
+      "code": "PCQ-094",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-094-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-094-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-094-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQABAAA4BaJYwCdH8AFwEldk1eiAD+7myz6b3IuHBWge+ffOoJljt66xtcfRlE//SK+Z9S/RzjzQWhabcuzlFQDoU1iQCS6Vq0k9FzxQ57rO5IjXxEJ7hKAAA="
+    },
+    {
+      "code": "PCQ-095",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/pure-cotton-queen/PCQ-095-400.webp",
+      "full": "/img/pure-cotton-queen/PCQ-095-800.webp",
+      "fallback": "/img/pure-cotton-queen/PCQ-095-800.jpg",
+      "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQABAAA4BaJbACdADDmrUjNI4AAP7orP7N6RL2nFNxLgYMmKETpTHX9tlbQP3dwTHslgTJqYWI8KXE0PZfuyBSp9RFKRmVFMhzPFm+DbljO1uc3gEL3xuhMgOkAA=="
+    }
+  ]
+}

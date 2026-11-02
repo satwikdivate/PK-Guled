@@ -1,0 +1,447 @@
+{
+  "slug": "gayatri-border-silk-pallu",
+  "count": 49,
+  "items": [
+    {
+      "code": "GBS-001",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-001-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-001-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-001-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQAgCdASoQABAAA4BaJbACdADpNjEeA0iAAP71Vw+cLRi4xZsFFXAxEAOGe9UilD1MZXeyARHMfNFOzow+SkgDWBuLAmlOE+zOBhmYojdgC/sVy1wz99ePiLPzChlc25gl+ewNKdzYbKJ6vCJwAA=="
+    },
+    {
+      "code": "GBS-002",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-002-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-002-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-002-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJbACdADpLz/DkoIIAP70CUJ45SCU0w/dtfP2UTamLzQli3gQiX+VpK2UBqCpkPfK3HYr/uqv0VcDIh2cn70TUTUuofGoN3rI5Ork86WXDxfjJSr23ba7hpJgBVDgAAA="
+    },
+    {
+      "code": "GBS-003",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-003-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-003-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-003-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQABAAA4BaJZQAAqFkFUCUv7HYAP71Vw+n1jbhRdsh6BhU0WkPcYWCy8+qqTXL4JQOMQ5dWctqRs4vLjkkhG7rio1QM+Jgtlg5XJ1PvTxoI1b9I1fm4gAA"
+    },
+    {
+      "code": "GBS-004",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-004-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-004-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-004-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQAgCdASoQABAAA4BaJbACdAEWaHxasxyyWAAA/vZlB97DVF0H4/t/U0za9arhmQl9PV+qfPFecwcA4YAUPJ7sxmESlxibrKna5+Y6eZX8RV/NRTtgh4/R5HP530JP3R9T/+tdmfN/1/cHo5ZHRzzgAAA="
+    },
+    {
+      "code": "GBS-005",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-005-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-005-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-005-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQAgCdASoQABAAA4BaJbACdAD1kwdehSB7TqAA/vZkxXPWodI3nUET2T5fWr38mOir1cb8JMKp3QB/Ho7/shyGOcWODu39qJAeInKNyzfw6ByC63eLSCfAG1SR2AVncujmSAjb8RC6gWZF6XxoTAstb7aDq8KhLpNutn2AAAA="
+    },
+    {
+      "code": "GBS-006",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-006-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-006-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-006-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAA4BaJaACdADQ7mwFjOUAAP73OJQRLF3aYBOyepArZIatLkT8M/IiH6PewVRSGei2s45E2FhCfTrSKs+ySvQxhYBvx+tZFa3Y95nvgpLjbr1qzFPKfUbvufJQ+7PjyOvSAAA="
+    },
+    {
+      "code": "GBS-007",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-007-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-007-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-007-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAA4BaJbACdADQ5xKOclfAAAD+9VcPpE4bfzZZTPZP+H+t1L/PjqJkBnTTEIMu5uqp054eUp7nsEx5Ahess+NcZ11jECf50PHhrb5NQlOXtWNdLWOQW7965vDCTkj/INd3rznDy8AA"
+    },
+    {
+      "code": "GBS-008",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-008-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-008-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-008-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQABAAA4BaJbACsH8AEpDOereqAAAA/vZpYinmc8DnvAFOSbR/sGX5VVROFNskuAw8t7GAdHZfaUU+gFw51Mchp7xOcDE67nkxHC0lMIqe9QhAe2UAznUYA98JD3pjVljbXIKIiAAAAA=="
+    },
+    {
+      "code": "GBS-009",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-009-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-009-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-009-800.jpg",
+      "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAQCdASoQABAAA4BaJbACdADpNjEd+IAA/vQMHGPz4XAbkUN6od1Xzu/tG2YaJ/ag21qnME/rUsnF09PbHWkPFnSXvMREmvVyWtbwZqQvLg22oXUNW0MnbV0OptCrthWznJFZtc3XyZL7pVYf3rm8WFAzgrd6wNENhe4PXAhyVYAA"
+    },
+    {
+      "code": "GBS-010",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-010-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-010-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-010-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoQABAAA4BaJbACdAEYBCIR4vwqqiAA/vQR5uiua+TA11a3q4RDhs0stMNI8RQbYjbUGL1v0zVMK6fN0aOI+XOrwu2qawfk+sJdX6ysf9XqnQtQ5Cx8HpTiQ5UFvQBlSfhYdNnQm2DupfxAI5wAAA=="
+    },
+    {
+      "code": "GBS-011",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-011-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-011-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-011-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAQCdASoQABAAA4BaJbACdAD1dnnr5UAA/u5sSXzyu8G21v92Pa6xuvf3HjT13ofXB0cS+z/sk4ATrHTnBzwrSC9/tAxmFJK3b3Eg4pIwexr/j6CpbqZmB5fT98k3kAvBKbWs0rFY5GTlFXxLoV5oAAA="
+    },
+    {
+      "code": "GBS-012",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-012-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-012-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-012-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQABAAA4BaJbACsOUAByPMLe5qeuAA/vCyo9rPg5sGpu73iOkDAu6qKceFZB+9xJDUFCp8iPdBvxCCciOwPvg8GVT7VX3SDuy5PnsMoBgc9tdEjEQ6O2WmUDVxBKytD14AAA=="
+    },
+    {
+      "code": "GBS-013",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-013-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-013-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-013-800.jpg",
+      "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoQABAAA4BaJbACdFQAuysEkZVWAu7YoAD+8oyvE1vaAq81sKmUyNjJDSV2JO6kz5biYy8PESCWJ7XTECFkYPufanbZrsuSwL50f7RbOxfiLgNR5l1hUbXQBCCFuAVL4qhvMoTCOFySnjvasAA="
+    },
+    {
+      "code": "GBS-014",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-014-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-014-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-014-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJbACdADHmLmtrMq6AAD+9AtWvd6C1HfXtaSDXb2uXfYcKNWeX4lKWRUOVEN/U7juysXofD0k0LYCh6ocf2uaR9d7boUGELRz01VuiQFerpkhdbnSuNIt+8E7xzNgAAA="
+    },
+    {
+      "code": "GBS-015",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-015-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-015-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-015-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAgCdASoQABAAA4BaJbACsH8G6AAutZyvyNJVV/AA/vVY4/cguJAto0z/L5oklyZCZyUdUvSObE7/hF/fdIJWKut2tBf1GAF85B0rzlZU/ZwTkodR/zz9eSW8WPd430YrBTTIba8G69uCIswtgAAA"
+    },
+    {
+      "code": "GBS-016",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-016-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-016-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-016-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoQABAAA4BaJZgCxC8AF8gFLj8CrH2AAP7yi6I3qxCDfYrf5fNEL8waJ0tzjP9GXvc/u/j6nrgwdrQKhKg5THv+duSNKspLi0vl88U1yMAaTTolO0+hV3etfQrSItgA"
+    },
+    {
+      "code": "GBS-017",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-017-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-017-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-017-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoQABAAA4BaJYgCsH8AGZCic6/UxSzVAAD+9AtWu0qLcJnxjtrY1MS5g57hocMCCcC7Y6laKhU/9PGPjkGDrt/wggih0bXTZWmB9EIfhlXIn5XeWq+mcoOL0HpIxu7CzCgAAA=="
+    },
+    {
+      "code": "GBS-018",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-018-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-018-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-018-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQABAAA4BaJbACdADdH2J1QBtPQAD+9Vjj9x7bWhM+Mc4FfIrmgVUVuX+HCSLYZTzjm/n++rHMTeDr8+m5HvT/A6laRFTX45cJAZcPbbvftccEoXCfPbdrpNZtvc7Cax8hgAAA"
+    },
+    {
+      "code": "GBS-019",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-019-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-019-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-019-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoQABAAA4BaJagCsH8AF7c6F7ZPYAAA/vCyq2uBQI30HW37l2DAW1B2VDgV5DdnkcLfFVIZF+oJqsvjghnYbpn95S6xr2WQmRaTV440h0duj4tfMwIYAA=="
+    },
+    {
+      "code": "GBS-020",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-020-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-020-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-020-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwAgCdASoQABAAA4BaJaACdAEfS/Qyl/4igAD+8K8Blzh+AFXpou9sHwHGbcWVx+2+2B5upNk91KxS/ItDc9eOeqBk72oJM/1yO2apZqIRIpHPOAii7OtT4xQsuWs3gpd87/0lnxVE/UwWJAA="
+    },
+    {
+      "code": "GBS-021",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-021-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-021-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-021-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQAgCdASoQABAAA4BaJbACdDiMwOOvOXKAAP7yj/gGfbslX/QQnC6SR/wnR3d8rLk68U8KfP+xCfyBthIre/vfafDrEc+bFtStfB/HqPE9I4xO0hJAFIiovJnZ4WoDO2p/MiqUPj/TtIMEQ9u6kDTBA79LnWyRuAA="
+    },
+    {
+      "code": "GBS-022",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-022-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-022-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-022-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQABAAA4BaJaQAAZPCsYGAAP7yjRPhPzDv5aCHIU+J8MmXJ14q2XWjbcFQEiPmcDjb7JN+8TMZo3i2cEP/Eb3eK+lreL9RYHDeBmiPdVRtZ6xSVjAAAA=="
+    },
+    {
+      "code": "GBS-023",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-023-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-023-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-023-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAA4BaJQBOgBxOAJKap4gAAP70DBwm7RZariSdYNBuEbD8/Ss9WgKyWnaiEeWhYpXNZ6cm0IzEpyM1LQSg8L/YaWaptUP2OQdAEnuUh1to16u2QfMS1tAeI1BxcerPwAAA"
+    },
+    {
+      "code": "GBS-024",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-024-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-024-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-024-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJaACdAYwTWKOcq/oAP71WOPsS7ZD3HpJB0Rihl8RUeTSf1uTLYKECN/sADqZg8Ty/aXtu6MwSg1IE5kQaPFTjYnLCZdKVw3isGIyQEbReXDCXM+pQcAA"
+    },
+    {
+      "code": "GBS-025",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-025-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-025-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-025-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQABAAA4BaJQBdj+AChdt3hmVzoAD+9BHm6cdK9yxEvJrah5xRCUkfcD04rziIf4mnJaTjA9VxuSkOMtnTJimamEFqVtVFnX8mNSoVxravUr6YoW1eAAAA"
+    },
+    {
+      "code": "GBS-026",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-026-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-026-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-026-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoQABAAA4BaJbACdADRkdBqugAA/vVY4/cc0csrHxpPlxzPDXXGKhOF5ZvRFRFctkXiVZYbOWPsT0o7BM0e9NTSW93wmv5oGXpmC5DwQmCvHQqwAV4Uz6+yRibkKNdueSbniz6KABBwAA=="
+    },
+    {
+      "code": "GBS-027",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-027-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-027-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-027-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQABAAA4BaJYgCsH8AEqFf+88zHcAA/vVY4/UPyYypZuxHI9w42D5d5gH6i7iAj/ZYzC8xKkYzrXXTNgxT4dJCE0UFVE5MOu8ahAF/roHkVGUdFu8dJZe3IT1dx7J5KWwAAA=="
+    },
+    {
+      "code": "GBS-028",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-028-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-028-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-028-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoQABAAA4BaJaACdH8AFM1jwAbBBuAAAP72aWIpF6Le0WafWQmG9qZhOAwXMtky/IFD5mP+XzD0eLHTcYaT7QJyA7RAKGn5PFjnUC/RZmvqDIpKFAw24zOuz6xB8rv7WvPUNozUkNAAAA=="
+    },
+    {
+      "code": "GBS-029",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-029-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-029-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-029-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQABAAA4BaJZACdH8AEqA4MmeQXAD+9VjkAfsgC5nggWAQCwj2a+2/8b260UMzLMkTpqOtPwEHLzYDNUN2jDMYkhcAtLLKFQASFqGlmdRcVmQFPAr6Mepzvj50ygsAY6P5a3Kgc2WAAA=="
+    },
+    {
+      "code": "GBS-030",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-030-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-030-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-030-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQABAAA4BaJbACdAD6KuknMOmTqAD+9mliKRWms9OsAQrGP/KEtFDuJisprAFVCtmaeE7CKL/pN3t21gs5VVRjy1y9F++tg/zq2Nrm6MGkGsY93nT9uo9LUuCjsY5glYAAAA=="
+    },
+    {
+      "code": "GBS-031",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-031-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-031-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-031-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJYgCdADRlJV1h95AAAD+9Vjj9lbK3RNgdAHb/RmcKuWFcmI/6CHTBbhiejDxivt/ec2s6w87yckLGTakNRaSt2I30e/okrPP4MaQAl4PLPdzgmoJePCAAAA="
+    },
+    {
+      "code": "GBS-032",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-032-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-032-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-032-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQAgCdASoQABAAA4BaJZACdH8AGMTLAK4WGbF8AAD+9mliHspbe1XzCyDocPKePHDgQD3tv4LhyULe7KIcjJLUvllj4QqDp5wtmt9JbuMhQVi1fQ0guF77tOU4VRbROvJG7Ti3aAAAAA=="
+    },
+    {
+      "code": "GBS-033",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-033-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-033-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-033-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQABAAA4BaJZACdH8AGOsGsmqCNWQQAP71WQZXUP4oJ53E38WfXHPdTMiJ82omjw8swdRDVftePXbZAB+QA60IleYmKxEdqQ4yanFTfCK3yS21azHDTCoYj8u7Mslb3rpVpa9TpAA="
+    },
+    {
+      "code": "GBS-034",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-034-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-034-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-034-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQABAAA4BaJaACdH8AGMPzduQBRPQAAP71WOP1nLoa+iUVQGhJfZ4VolmhwXAWY+J1ppxRUVl/IWzH69RDE3aUuKKmDM8taMxarY/IWd7PUBQ784oopa9uc3O4HglVf+6zBKwAAAA="
+    },
+    {
+      "code": "GBS-035",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-035-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-035-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-035-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJbACdAEYGKjiohTeuQAA/vZlB3zGqcB0QfwZmYfzLngkaHs72cJUvvDjyus7JZXqVYm9x6wu9fljdBVOPVC4h0UfH4LGfRe4um+i6l/cWlK90KrI/BUh+4qDHkAA"
+    },
+    {
+      "code": "GBS-036",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-036-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-036-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-036-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoQABAAA4BaJaACsAEDZoosLeYD1gAA/vVXD6rMmVJWJvd9+XKU++GAYh+XE2FCw95sUJ2wwwNilpTPmwK8Y4kKX4+vhjI5IEgN9FxM6320CzeF0szPJL2gAAA="
+    },
+    {
+      "code": "GBS-037",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-037-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-037-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-037-800.jpg",
+      "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwAgCdASoQABAAA4BaJbACdAEWPZB2BgpeeAD+9VcPp3dCLjSy8Lud8cJBjXiZ/1bLrGgJrh2ky+BFECy6N0ZRxMaJzyxtZzkt5jp5iBMbj+7BePE5KcTupW4+uxlemh/+t5329NB0RQoFSuCijPnO4c9k/Mhh80DhUAAA"
+    },
+    {
+      "code": "GBS-038",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-038-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-038-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-038-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwAgCdASoQABAAA4BaJbACdH8AgrylMz5EliUAAP72ZqRDV7Dq3MqZPEvK406E+TofQmUj/1FWhmVt8mXu2QXa5W3sl2Gl+EG6/c4mdGPHIaAw1mEdxJiPd0NRYjVv73Zk5/Q9SPNCumqWUp3NwwCbtbcYxIAA"
+    },
+    {
+      "code": "GBS-039",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-039-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-039-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-039-800.jpg",
+      "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQABAAA4BaJYwAAuP6qyWF+BAA/uKbihHfywm8PBOqEt2pNtYf96o6ktaEQOZVyk3CgkS3t9sAJ2UMGCDhPI2w04CJ92VO31gzXRL07uUw8nwmS1xwAA=="
+    },
+    {
+      "code": "GBS-040",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-040-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-040-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-040-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJZgCdIDZFYDTRU4OwwAA/vgUKXaHw1KmqtHALZDO7pZmaWzKOzAwI2EBqbLfxhAHYK2PE8A5Vo0Ri00Pdm4yy1RrYNBwQ9sDwB2Fng3dlzfdSPMpNmGIP0dYGAAA"
+    },
+    {
+      "code": "GBS-041",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-041-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-041-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-041-800.jpg",
+      "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoQABAAA4BaJbACdAYv/gfCSKOrvoAA/uKbA1vz6eQowUIVZCpQpb4qXtVp6hgiDvAVWa9X52UyU7d7q7mpjaaOOIkh+j/e0rxqhOC2YSI0D62gZkkortH6L8DfemRQ/C/6toD6kBgjU7Ug4s/x/INrhHIZA/mA5NAAAA=="
+    },
+    {
+      "code": "GBS-042",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-042-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-042-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-042-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQAQCdASoQABAAA4BaJbACsADJFtwFgAD+uFwIiX+JfiHVlYekttnmKsnounSzgRE5/s7Po6yntYWfJj+duv9Sp7xxrYeewdH6QAIPOmHXDY1qiQHgE6jLju0230ptTuz6x+speNlLyb77ZnGUmsAA"
+    },
+    {
+      "code": "GBS-043",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-043-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-043-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-043-800.jpg",
+      "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACwAgCdASoQABAAA4BaJbACdDiAByk3nQ0qaHcR0QAA/sq6DJt+QTzr0tH7+opmuXQWhRuzRFaPgLawehvUpW3nKCnjIB3zukAW1rsh18h4djCtIaqM+AaVwXkw2PZr7oSvPnUcXV+bmRQMNMHAK33WPWpdp8j3sVl+FRLcDx/E1Wa8AAA="
+    },
+    {
+      "code": "GBS-044",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-044-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-044-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-044-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQABAAA4BaJZgC/ODHj544P2eAAP70CUKNhn4KznTEXAOi5vkWkzzZekiocFMh9W9y0XF/G5PfHw2+hhkHwLEqnnfWLIiZPlPPgnnhLnxqx6gEip8fBAEe2srMYkAA"
+    },
+    {
+      "code": "GBS-045",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-045-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-045-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-045-800.jpg",
+      "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQABAAA4BaJbACsIExFnHpfuDQ1AAA/vKLob0mvPjeNlvqU9HG+YtCoDblJfw/ITAShCCo9b7pWmbp0l+AoEj+7bTDRi8SoNchZTwD9VPT5tSZnAxVohCFxP3XaQau//PpL7uuwAA="
+    },
+    {
+      "code": "GBS-046",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-046-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-046-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-046-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQAgCdASoQABAAA4BaJbACsAECm6326ptYAP7yi6HGQBftcMapwqzlAu5rJMiaFsXcSpCZeeJ5xOC0CHcXogvWMnKK0sMAYy3q0s0BU0Lc5g/aMYcsgreYQZ2zPiBYr1+gNdjb1xmMTGrwbUH01x4l28IqvfoggAjAAA=="
+    },
+    {
+      "code": "GBS-047",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-047-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-047-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-047-800.jpg",
+      "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAQCdASoQABAAA4BaJbACdADiYGgakgAA/vKMDKedsCvl0Bxvl7ZHN1XbuF9rWrSfgc0jBwdm4o4rbL6oIr/Z5LGSU6NGhdUqp/4fgXC5sDlv12ldiu+E9mk8o6rur3XsIuKVfNl3P0IqnlRlcMkRF+/ZwSNZmrDsuB4AAAA="
+    },
+    {
+      "code": "GBS-048",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-048-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-048-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-048-800.jpg",
+      "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoQABAAA4BaJbACdAC8SiLZwHgA/vQKtQWgKluCKxeTdL7Ywrpn8iPB1Ptqfpv7Q+7LosuppiFKHUYEvxNVWySOqbT6o1SWBRFtskbyDL/ZJhjVJ4eZyPcFVs50gAEszvqrYDj7yCDf7hjNi+sYAAAA"
+    },
+    {
+      "code": "GBS-049",
+      "w": 800,
+      "h": 800,
+      "thumb": "/img/gayatri-border-silk-pallu/GBS-049-400.webp",
+      "full": "/img/gayatri-border-silk-pallu/GBS-049-800.webp",
+      "fallback": "/img/gayatri-border-silk-pallu/GBS-049-800.jpg",
+      "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQAgCdASoQABAAA4BaJZACsH8AFcrn9G0GiTAA/vVXD6v9I9/yGsJJ75xnLOSb6uJmjE0znRaib/8mg4q5Sxy/jUH4AWFlcfhEybPwPHgz7JTSirtpsNSbeMT6wlWz3RSPQcuMOFkk8RAA"
+    }
+  ]
+}
