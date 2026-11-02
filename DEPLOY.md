@@ -22,24 +22,13 @@ docker --version && docker compose version
 
 ## 2. Copy the project and the photos to the VM
 
-Either clone the repository:
+Clone the private repository (the photos in `raw-images/` are part of it, about 86 MB):
 
 ```bash
-git clone <your-repo-url> pkguled && cd pkguled
+git clone https://github.com/satwikdivate/PK-Guled.git pkguled && cd pkguled
 ```
 
-or copy the folder from your computer (run this on your computer, not the VM):
-
-```bash
-scp -r "PK Guled" ubuntu@<VM-IP>:~/pkguled
-```
-
-`raw-images/` is git-ignored, so copy it separately if you cloned:
-
-```bash
-# on your computer
-scp -r raw-images ubuntu@<VM-IP>:~/pkguled/
-```
+GitHub asks for a username and a personal access token (Settings → Developer settings → Personal access tokens, scope `repo`) because the repository is private.
 
 Check on the VM that `~/pkguled/raw-images/01 Pure Silk Ilkal Handloom Sarees/` exists.
 
@@ -74,13 +63,19 @@ Then open `http://<VM-IP>:8080` in a browser.
 
 ## 6. Updating the site
 
-Edit JSON in `src/assets/data/` or add photos to `raw-images/<category folder>/`, then:
+On your computer: edit JSON in `src/assets/data/` or add photos to `raw-images/<category folder>/`. If you added photos, run `npm run images` once so the new saree codes are written to `src/assets/data/codes.lock.json`. Then commit and push everything (photos, JSON and `codes.lock.json`):
 
 ```bash
-docker compose up -d --build
+git add -A && git commit -m "Add new sarees" && git push
 ```
 
-If you add photos on the VM, also copy `src/assets/data/codes.lock.json` back to your repository afterwards (it stores the saree codes). The simplest flow is to add photos on your computer, run `npm run images` once, commit `codes.lock.json`, then pull and rebuild on the VM.
+On the VM:
+
+```bash
+cd ~/pkguled && git pull && docker compose up -d --build
+```
+
+Always add photos on your computer, not directly on the VM, so `codes.lock.json` in GitHub stays the single record of every saree code.
 
 ## 7. Optional: your domain with HTTPS (needed for good SEO)
 
@@ -119,7 +114,7 @@ docker builder prune -f          # free build cache if the disk fills up
 
 | Problem | Check |
 |---|---|
-| Build fails with `raw-images/ not found` | The folder must be next to `Dockerfile` and not listed in `.dockerignore` |
+| Build fails with `raw-images/ not found` | Run `git pull`; the folder must be next to `Dockerfile` and not listed in `.dockerignore` |
 | Build fails with `Cover not found` or `Folder not found` | A `folder` or `cover` value in `categories.json` does not match the file name exactly (names are case sensitive on Linux) |
 | Site works on the VM but not from outside | Provider firewall still blocks the port |
 | Changes do not show | Run with `--build`; HTML and JSON are served with `no-cache`, so a normal reload is enough |

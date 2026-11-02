@@ -43,7 +43,8 @@ __screenshots__/
 .DS_Store
 Thumbs.db
 
-# Generated / large inputs
-raw-images/
+# Generated images (rebuilt from raw-images/ by `npm run images`).
+# raw-images/ itself IS committed: the Docker build on the server needs it.
 public/img/
+# Original download folder (duplicate of raw-images/)
 PK Guled Images/

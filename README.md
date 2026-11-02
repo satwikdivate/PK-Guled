@@ -42,9 +42,10 @@ Change the WhatsApp number in one place, `site.json` → `contact.whatsapp` (dig
 ## Adding new saree photos
 
 1. Drop the photos (jpg, png or webp, ideally square) into the right category folder in `raw-images/`, for example `raw-images/07 Pure Cotton Queen Ilkal Handloom Sarees/`.
-2. Run `npm run build` (or `docker compose up -d --build` on the server).
+2. Run `npm run images` (or the full `npm run build`).
+3. Commit and push the photos together with `src/assets/data/codes.lock.json`, then `git pull && docker compose up -d --build` on the server.
 
-New photos get the next free code, for example `PCQ-096`. Existing photos keep their code forever because the mapping is stored in `src/assets/data/codes.lock.json`. **Commit that file**: customers quote these codes on WhatsApp.
+New photos get the next free code, for example `PCQ-096`. Existing photos keep their code forever because the mapping is stored in `src/assets/data/codes.lock.json`. **Always commit that file**: customers quote these codes on WhatsApp.
 
 To remove a photo, delete it from the folder (its code is never reused) or add its file name to that category's `excludeFiles` list.
 
@@ -86,7 +87,7 @@ src/assets/data/     all JSON content
 src/styles/          design tokens, typography, base styles
 scripts/             build-images.mjs, build-sitemap.mjs
 nginx/               nginx server config and security headers
-raw-images/          original photos (git-ignored, needed for the build)
+raw-images/          original photos (committed; the Docker build converts them)
 ```
 
 ## How it stays fast
