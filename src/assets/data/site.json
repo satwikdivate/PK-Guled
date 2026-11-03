@@ -68,6 +68,7 @@
       "askCollection": "Ask about this collection",
       "askPrice": "Ask price",
       "lightboxAsk": "Ask price on WhatsApp",
+      "photoCopied": "Photo copied. In the WhatsApp chat press Ctrl+V (Cmd+V on Mac) to attach it, then send.",
       "endText": "Showing all {count} designs",
       "endCta": "Didn't find your colour? Ask us on WhatsApp"
     }

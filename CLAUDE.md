@@ -81,6 +81,11 @@ public/icons/         Figma icon SVGs (chat-16/20/24, dot, motif, map-pin), used
 - Those pages contain an `__ORIGIN__` placeholder. nginx replaces it at serve time with `$public_scheme://$http_host` (`sub_filter` in the `/p/` location; `X-Forwarded-Proto` is honoured behind Caddy). So previews work on the VM IP:port and on the domain without a rebuild.
 - `WhatsAppService.absolute()` uses `location.origin` on public hosts and `seo.siteUrl` on localhost or LAN addresses. Photo links therefore never point at localhost.
 - Previews only render when the site is reachable from the internet. Test them on the server, not with `npm start`.
+- **The actual photo is attached by `core/photo-share.service.ts`** through `(click)="ask($event)"` on the tile pill and the lightbox button:
+  - Touch devices: `navigator.share({ files: [jpg], text })` opens the share sheet (WhatsApp, then the shop chat).
+  - Laptops: the photo is copied to the clipboard as PNG, then the `wa.me` chat opens, and `<app-toast>` tells the customer to press Ctrl+V.
+  - Otherwise the anchor's `wa.me` href is used.
+- **Both APIs need a secure context (HTTPS or localhost).** On `http://IP:port`, browsers hide them, so only the text and link are sent. The site must be on HTTPS for photo attachment to work for customers.
 
 ## SEO
 

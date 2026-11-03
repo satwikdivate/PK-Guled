@@ -10,6 +10,7 @@ import {
   signal,
 } from '@angular/core';
 import { CatalogItem, SiteConfig } from '../../core/models';
+import { PhotoShareService } from '../../core/photo-share.service';
 import { WhatsAppService } from '../../core/whatsapp.service';
 import { IconComponent } from '../../shared/icon.component';
 
@@ -78,7 +79,7 @@ import { IconComponent } from '../../shared/icon.component';
           <p class="cat">{{ categoryTitle() }}</p>
         </div>
         <div class="actions">
-          <a class="btn btn--wa" [href]="askHref()" target="_blank" rel="noopener">
+          <a class="btn btn--wa" [href]="askHref()" target="_blank" rel="noopener" (click)="ask($event)">
             <img src="/icons/chat-20.svg" width="20" height="20" alt="" />{{ labels().lightboxAsk }}
           </a>
         </div>
@@ -227,6 +228,7 @@ import { IconComponent } from '../../shared/icon.component';
 })
 export class LightboxComponent {
   private readonly wa = inject(WhatsAppService);
+  private readonly photo = inject(PhotoShareService);
 
   readonly items = input.required<CatalogItem[]>();
   readonly index = model.required<number>();
@@ -303,5 +305,11 @@ export class LightboxComponent {
     } else if (dy > 90 && Math.abs(dy) > Math.abs(dx)) {
       this.closed.emit();
     }
+  }
+
+  /** Attach the actual photo (share sheet on phones, clipboard on laptops). */
+  protected ask(event: MouseEvent): void {
+    const it = this.current();
+    void this.photo.ask(event, { code: it.code, category: this.categoryTitle(), image: it.fallback });
   }
 }

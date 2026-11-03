@@ -11,6 +11,7 @@ import {
   viewChild,
 } from '@angular/core';
 import { CatalogItem } from '../../core/models';
+import { PhotoShareService } from '../../core/photo-share.service';
 import { WhatsAppService } from '../../core/whatsapp.service';
 
 /**
@@ -55,6 +56,7 @@ import { WhatsAppService } from '../../core/whatsapp.service';
         target="_blank"
         rel="noopener"
         [attr.aria-label]="askLabel() + ' for design ' + it.code + ' on WhatsApp'"
+        (click)="ask($event)"
         >{{ askLabel() }}</a
       >
     </div>
@@ -164,6 +166,7 @@ import { WhatsAppService } from '../../core/whatsapp.service';
 })
 export class SareeTileComponent {
   private readonly wa = inject(WhatsAppService);
+  private readonly photo = inject(PhotoShareService);
 
   readonly item = input.required<CatalogItem>();
   readonly categoryTitle = input.required<string>();
@@ -190,5 +193,11 @@ export class SareeTileComponent {
     afterNextRender(() => {
       if (this.img().nativeElement.complete) this.loaded.set(true);
     });
+  }
+
+  /** Attach the actual photo (share sheet on phones, clipboard on laptops). */
+  protected ask(event: MouseEvent): void {
+    const it = this.item();
+    void this.photo.ask(event, { code: it.code, category: this.categoryTitle(), image: it.fallback });
   }
 }
