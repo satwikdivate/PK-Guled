@@ -42,6 +42,11 @@ import { WhatsAppButtonComponent } from '../../shared/whatsapp-button.component'
             <a class="btn btn--lg btn--outline" [href]="site.contact.mapsUrl" target="_blank" rel="noopener">
               <app-icon name="pin" />{{ v.directions }}
             </a>
+            @if (reviewsUrl(); as url) {
+              <a class="btn btn--lg btn--outline" [href]="url" target="_blank" rel="noopener">
+                <span aria-hidden="true">★</span>{{ page.reviewsLabel }}
+              </a>
+            }
           </div>
         </div>
         <app-map-embed [label]="v.showMap" />
@@ -94,6 +99,10 @@ export class VisitComponent {
   readonly home = input.required<HomeConfig>();
   protected readonly content = inject(ContentService);
   protected readonly wa = inject(WhatsAppService);
+  protected readonly reviewsUrl = computed(() => {
+    const url = this.content.site().contact.reviewsUrl;
+    return isSet(url) ? url : null;
+  });
   protected readonly hours = computed(() => {
     const site = this.content.site();
     return isSet(site.contact.hours) ? site.contact.hours : site.pages.visit.hoursFallback;

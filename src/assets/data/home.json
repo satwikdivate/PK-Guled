@@ -78,7 +78,7 @@
     "eyebrow": "CUSTOMER REVIEWS",
     "heading": "Loved from Ilkal to New Jersey",
     "lead": "Real words from customers on Google and Facebook.",
-    "cta": { "label": "Read all Google reviews", "href": "TODO" },
+    "cta": { "label": "Read all Google reviews" },
     "items": [
       { "name": "Shruti Ayade", "place": "Ordered from the USA", "source": "Google", "text": "Beautiful collection and very prompt. I ordered from New Jersey and received them quickly. The sarees are beautiful, very good quality." },
       { "name": "Namratha Rao", "place": "Visited the Ilkal store", "source": "Google", "text": "We travelled from Bengaluru to Ilkal to buy one or two sarees and ended up buying 15. Worth the long travel, and the quality is simply excellent." },

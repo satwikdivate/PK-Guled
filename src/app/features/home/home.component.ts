@@ -40,7 +40,9 @@ export class HomeComponent {
   protected readonly site = this.content.site;
   protected readonly reviewsHref = computed(() => {
     const href = this.home().reviews.cta.href;
-    return isSet(href) ? href : null;
+    if (isSet(href)) return href;
+    const fallback = this.content.site().contact.reviewsUrl;
+    return isSet(fallback) ? fallback : null;
   });
 
   constructor() {

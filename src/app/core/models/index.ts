@@ -10,6 +10,8 @@ export interface SiteConfig {
     address: string[];
     mapsUrl: string;
     mapsEmbed: string;
+    /** Google reviews page for the shop (opened by the "See Google reviews" buttons). */
+    reviewsUrl: string;
     geo: { lat: number; lng: number };
     gstn: string;
     hours: string;
@@ -29,7 +31,7 @@ export interface SiteConfig {
       looms: { value: string; label: string }[];
       empty: string;
     };
-    visit: { title: string; description: string; hoursLabel: string; hoursFallback: string };
+    visit: { title: string; description: string; hoursLabel: string; hoursFallback: string; reviewsLabel: string };
     notFound: { title: string; eyebrow: string; heading: string; text: string; button: string };
     category: {
       breadcrumbHome: string;
@@ -155,7 +157,8 @@ export interface HomeConfig {
     eyebrow: string;
     heading: string;
     lead: string;
-    cta: { label: string; href: string };
+    /** href is optional; defaults to site.json contact.reviewsUrl. */
+    cta: { label: string; href?: string };
     items: { name: string; place: string; source: string; text: string }[];
   };
   visit: { eyebrow: string; heading: string; text: string; cardTitle: string; directions: string; showMap: string };

@@ -189,6 +189,11 @@
             h.visit.directions
           }}</a>
           <a class="btn btn--outline" [href]="wa.tel()">Call {{ site.contact.phoneDisplay }}</a>
+          @if (reviewsHref(); as href) {
+            <a class="btn btn--outline" [href]="href" target="_blank" rel="noopener">
+              <span aria-hidden="true">★</span>{{ site.pages.visit.reviewsLabel }}
+            </a>
+          }
         </div>
       </div>
       <app-map-embed [label]="h.visit.showMap" />

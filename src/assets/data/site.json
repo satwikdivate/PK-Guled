@@ -5,9 +5,10 @@
     "phoneDisplay": "+91 94481 25460",
     "email": "TODO",
     "address": ["3809, New Kothwal Peth, Ward No. 5", "Ilkal 587125, Taluk Hungund", "District Bagalkote, Karnataka, India"],
-    "mapsUrl": "https://www.google.com/maps/place/P+K+GULED+Ilkal+Sarees/@15.9569658,76.1154364,17z",
-    "mapsEmbed": "https://www.google.com/maps?q=15.9569658,76.1154364&z=16&output=embed",
-    "geo": { "lat": 15.9569658, "lng": 76.1154364 },
+    "mapsUrl": "https://maps.google.com/?cid=15768453669134498789",
+    "mapsEmbed": "https://www.google.com/maps?q=P+K+Guled+Ilkal+Saree+Manufacturers,+Ilkal&ll=15.9570427,76.1151596&z=17&output=embed",
+    "reviewsUrl": "https://search.google.com/local/reviews?placeid=ChIJHXo8Se8MuDsR5Xv3NRHN1No",
+    "geo": { "lat": 15.9570427, "lng": 76.1151596 },
     "gstn": "29ACKPG7177L1ZW",
     "hours": "TODO"
   },
@@ -51,7 +52,8 @@
       "title": "Visit P K Guled in Ilkal | Address, Map and Contact",
       "description": "Visit the P K Guled saree store at New Kothwal Peth, Ilkal, Karnataka. Get directions, call or message us on WhatsApp.",
       "hoursLabel": "Opening hours",
-      "hoursFallback": "Call ahead and we will plan your visit."
+      "hoursFallback": "Call ahead and we will plan your visit.",
+      "reviewsLabel": "See Google reviews"
     },
     "notFound": {
       "title": "Page not found | P K Guled Ilkal Sarees",
