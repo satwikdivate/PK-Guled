@@ -37,8 +37,6 @@ export interface SiteConfig {
       askCollection: string;
       askPrice: string;
       lightboxAsk: string;
-      share: string;
-      copied: string;
       endText: string;
       endCta: string;
     };

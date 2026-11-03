@@ -3,7 +3,6 @@ import {
   ChangeDetectionStrategy,
   Component,
   computed,
-  effect,
   inject,
   input,
   model,
@@ -82,9 +81,6 @@ import { IconComponent } from '../../shared/icon.component';
           <a class="btn btn--wa" [href]="askHref()" target="_blank" rel="noopener">
             <img src="/icons/chat-20.svg" width="20" height="20" alt="" />{{ labels().lightboxAsk }}
           </a>
-          <button type="button" class="btn btn--outline-light" (click)="share()">
-            <app-icon name="share" />{{ copied() ? labels().copied : labels().share }}
-          </button>
         </div>
       </div>
     </div>
@@ -241,20 +237,17 @@ export class LightboxComponent {
 
   protected readonly current = computed(() => this.items()[this.index()]);
   protected readonly loadedCode = signal<string | null>(null);
-  protected readonly copied = signal(false);
   protected readonly askHref = computed(() =>
-    this.wa.link('item', { code: this.current().code, category: this.categoryTitle() }),
+    this.wa.link('item', {
+      code: this.current().code,
+      category: this.categoryTitle(),
+      link: `/p/${this.current().code}`,
+    }),
   );
 
   private touch: { x: number; y: number } | null = null;
   private readonly preloaded = new Set<string>();
 
-  constructor() {
-    effect(() => {
-      this.current();
-      this.copied.set(false);
-    });
-  }
 
   prev(): void {
     const n = this.items().length;
@@ -309,21 +302,6 @@ export class LightboxComponent {
       else this.prev();
     } else if (dy > 90 && Math.abs(dy) > Math.abs(dx)) {
       this.closed.emit();
-    }
-  }
-
-  protected async share(): Promise<void> {
-    const url = location.href;
-    const title = `${this.current().code} | ${this.categoryTitle()}`;
-    try {
-      if (navigator.share) {
-        await navigator.share({ title, url });
-        return;
-      }
-      await navigator.clipboard.writeText(url);
-      this.copied.set(true);
-    } catch {
-      /* user cancelled or clipboard blocked */
     }
   }
 }

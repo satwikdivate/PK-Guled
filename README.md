@@ -77,6 +77,10 @@ To remove a photo, delete it from the folder (its code is never reused) or add i
    `fabric` is one of `silk`, `silk-cotton`, `cotton`, `viscose-cotton`, `khun`. `loom` is one of `handloom`, `powerloom`, `fabric`. `code` must be unique (3 letters).
 4. Rebuild. The new page `/collections/silk-kasuti-special` is prerendered, listed on `/collections`, in the category chips, the sitemap and the image sitemap.
 
+## WhatsApp "Ask price" with the saree photo
+
+WhatsApp links can only carry text, so the "Ask price" message includes a link like `http://<your-site>/p/SCP-004`. That small page has the saree's photo as its preview image, so WhatsApp shows the actual saree in the chat. Tapping the link opens that saree on the site. The wording is `whatsappTemplates.item` in `site.json`; `{code}`, `{category}` and `{link}` are filled in automatically. Previews only appear when the site is online (VM or domain), not on `localhost`.
+
 ## Project layout
 
 ```

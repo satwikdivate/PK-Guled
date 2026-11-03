@@ -64,6 +64,52 @@ for (const f of htmlFiles) {
   fs.writeFileSync(f, html.replace('</title>', `</title>${preload}`));
 }
 
+// WhatsApp preview pages: /p/<CODE> per saree. wa.me can only send text, so the "Ask price"
+// message links here; WhatsApp reads og:image and shows that saree's photo as the preview.
+// __ORIGIN__ is replaced by nginx (sub_filter) with the address the link was opened on, so
+// the preview works on the VM IP:port and on the real domain without a rebuild. People who
+// tap the link are sent on to the category page with the lightbox open.
+let sharePages = 0;
+for (const c of categories) {
+  const catalog = read(`catalog/${c.slug}.json`);
+  for (const it of catalog.items) {
+    const target = `/collections/${c.slug}?saree=${it.code}`;
+    const title = `Saree ${it.code} · ${c.title}`;
+    const desc = `${c.title} from ${site.brand.name}, Ilkal. Price on request on WhatsApp.`;
+    const html = `<!doctype html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${esc(title)} | ${esc(site.brand.name)}</title>
+<meta name="robots" content="noindex, follow">
+<meta name="description" content="${esc(desc)}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="${esc(`${site.brand.name} ${site.brand.tagline}`)}">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:description" content="${esc(desc)}">
+<meta property="og:image" content="__ORIGIN__${esc(it.fallback)}">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="${it.w}">
+<meta property="og:image:height" content="${it.h}">
+<meta property="og:image:alt" content="${esc(`${c.title}, design ${it.code}`)}">
+<meta property="og:url" content="__ORIGIN__/p/${esc(it.code)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="__ORIGIN__${esc(it.fallback)}">
+<link rel="canonical" href="__ORIGIN__${esc(target)}">
+<meta http-equiv="refresh" content="0; url=${esc(target)}">
+<style>body{margin:0;display:grid;place-items:center;min-height:100vh;background:#fbf6ee;font-family:system-ui,sans-serif;color:#2a1a17}a{color:#7a1f2b;text-align:center;text-decoration:none}img{display:block;width:240px;height:240px;object-fit:cover;border-radius:16px;margin:0 auto 12px}</style>
+</head>
+<body><a href="${esc(target)}"><img src="${esc(it.thumb)}" width="240" height="240" alt="">View saree ${esc(it.code)}</a></body>
+</html>
+`;
+    const dir = path.join(OUT, 'p', it.code);
+    fs.mkdirSync(dir, { recursive: true });
+    fs.writeFileSync(path.join(dir, 'index.html'), html);
+    sharePages++;
+  }
+}
+
 // nginx serves /404.html for unknown URLs (error_page 404).
 const notFound = path.join(OUT, '404', 'index.html');
 if (fs.existsSync(notFound)) fs.copyFileSync(notFound, path.join(OUT, '404.html'));
@@ -113,5 +159,5 @@ fs.writeFileSync(
 
 console.log(
   `sitemap.xml: ${routes.length} routes, sitemap-images.xml: ${imageCount} images, robots.txt, 404.html, ` +
-    `font preload (${heroFonts.length}) on the home page, csp.conf (${scriptHashes.size} script + ${handlerHashes.size} handler hashes)`,
+    `font preload (${heroFonts.length}) on the home page, ${sharePages} WhatsApp preview pages (/p/<code>), csp.conf (${scriptHashes.size} script + ${handlerHashes.size} handler hashes)`,
 );

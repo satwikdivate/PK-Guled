@@ -178,7 +178,11 @@ export class SareeTileComponent {
   private readonly img = viewChild.required<ElementRef<HTMLImageElement>>('img');
 
   protected readonly askHref = computed(() =>
-    this.wa.link('item', { code: this.item().code, category: this.categoryTitle() }),
+    this.wa.link('item', {
+      code: this.item().code,
+      category: this.categoryTitle(),
+      link: `/p/${this.item().code}`,
+    }),
   );
 
   constructor() {
