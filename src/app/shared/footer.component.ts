@@ -2,11 +2,12 @@ import { ChangeDetectionStrategy, Component, computed, inject } from '@angular/c
 import { RouterLink } from '@angular/router';
 import { ContentService, isSet } from '../core/content.service';
 import { WhatsAppService } from '../core/whatsapp.service';
-import { IconComponent } from './icon.component';
+import { BrandLogoComponent } from './brand-logo.component';
+import { SocialLinksComponent } from './social-links.component';
 
 @Component({
   selector: 'app-footer',
-  imports: [RouterLink, IconComponent],
+  imports: [RouterLink, BrandLogoComponent, SocialLinksComponent],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     @let site = content.site();
@@ -15,19 +16,9 @@ import { IconComponent } from './icon.component';
       <div class="container">
         <div class="cols">
           <div class="brand">
-            <p class="name">{{ site.brand.name.toUpperCase() }}</p>
+            <app-brand-logo [dark]="true" />
             <p class="about">{{ about() }}</p>
-            <ul role="list" class="social">
-              <li>
-                <a [href]="site.social.instagram" target="_blank" rel="noopener"><app-icon name="instagram" [size]="16" />Instagram</a>
-              </li>
-              <li>
-                <a [href]="site.social.facebook" target="_blank" rel="noopener"><app-icon name="facebook" [size]="16" />Facebook</a>
-              </li>
-              <li>
-                <a [href]="site.social.youtube" target="_blank" rel="noopener"><app-icon name="youtube" [size]="16" />YouTube</a>
-              </li>
-            </ul>
+            <app-social-links [dark]="true" [label]="site.followLabel" />
           </div>
 
           <nav aria-labelledby="f-collections">
@@ -94,38 +85,11 @@ import { IconComponent } from './icon.component';
         grid-column: auto;
       }
     }
-    .name {
-      font-family: var(--font-display);
-      font-weight: 700;
-      font-size: 24px;
-      letter-spacing: 1.92px;
-      color: var(--c-cream);
-    }
     .about {
       max-width: 300px;
       font-size: 15px;
       line-height: 1.6;
       color: #bfa9a0;
-    }
-    .social {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      a {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        min-height: 36px;
-        padding: 6px 12px;
-        border: 1px solid #5a3a40;
-        border-radius: var(--radius-pill);
-        color: var(--c-cream);
-        font-size: 13px;
-        text-decoration: none;
-        &:hover {
-          border-color: var(--c-cream);
-        }
-      }
     }
     .col-title {
       margin: 0 0 12px;
@@ -145,9 +109,6 @@ import { IconComponent } from './icon.component';
         color: var(--c-white);
         text-decoration: underline;
       }
-    }
-    .social li a {
-      padding-block: 6px;
     }
     .bottom {
       display: flex;

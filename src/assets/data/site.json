@@ -1,5 +1,5 @@
 {
-  "brand": { "name": "P K Guled", "tagline": "Ilkal Sarees", "since": 1875, "monogram": "PK", "logo": "/img/site/logo-256.png" },
+  "brand": { "name": "P K Guled", "tagline": "Ilkal Sarees", "since": 1875, "monogram": "PK", "logo": "/img/site/logo-256.png", "mark": { "src": "/img/site/logo-mark-h128.webp", "width": 71, "height": 128, "alt": "Shri Dattatreya" } },
   "contact": {
     "whatsapp": "919448125460",
     "phoneDisplay": "+91 94481 25460",
@@ -13,11 +13,12 @@
     "hours": "TODO"
   },
   "social": {
-    "instagram": "https://www.instagram.com/pkguledsarees",
+    "instagram": "https://www.instagram.com/popular/pk-guled-ilkal-sarees/",
     "facebook": "https://www.facebook.com/pkguledilkalsarees/",
     "youtube": "https://www.youtube.com/channel/UCG_9ZyyOonC7JoyySD5AoRA",
     "justdial": "https://www.justdial.com/Bagalkot/P-K-Guled-Sarees-Near-ShaleshwarTemple-Ilkal/9999P8354-8354-181127205043-Y5I7_BZDET"
   },
+  "followLabel": "Follow us for new designs",
   "announcement": [
     "Handwoven in Ilkal since 1875",
     "Shipping across India and worldwide",

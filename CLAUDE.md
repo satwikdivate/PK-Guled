@@ -87,6 +87,11 @@ public/icons/         Figma icon SVGs (chat-16/20/24, dot, motif, map-pin), used
   - Otherwise the anchor's `wa.me` href is used.
 - **Both APIs need a secure context (HTTPS or localhost).** On `http://IP:port`, browsers hide them, so only the text and link are sent. The site must be on HTTPS for photo attachment to work for customers.
 
+## Branding and social
+
+- **Logo:** the Dattatreya logo comes from `raw-images/.../cropped-datt-1.png` and is generated as `public/img/site/logo-mark-h128.webp` (the `site-images.json` entry `logo-mark`). It is referenced by `site.json` → `brand.mark` and rendered by `shared/brand-logo.component.ts`, with `[dark]` for the footer.
+- **Social links:** Instagram, Facebook and YouTube come from `site.json` → `social` and are rendered by `shared/social-links.component.ts`. `variant="icons"` is used in the header at 1280 px and wider. `variant="pills"` is used in the mobile menu, footer, home final CTA band and /visit, with the heading `site.json` → `followLabel`.
+
 ## SEO
 
 - `SeoService.update()` sets the title, description, robots, canonical, Open Graph, Twitter and JSON-LD tags. The `ClothingStore` block is on every page, plus page-specific blocks.

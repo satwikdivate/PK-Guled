@@ -3,6 +3,7 @@ import {
   ChangeDetectionStrategy,
   Component,
   DestroyRef,
+  ElementRef,
   afterNextRender,
   effect,
   inject,
@@ -20,11 +21,19 @@ import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import { ContentService } from '../core/content.service';
 import { BrandLogoComponent } from './brand-logo.component';
 import { IconComponent } from './icon.component';
+import { SocialLinksComponent } from './social-links.component';
 import { WhatsAppButtonComponent } from './whatsapp-button.component';
 
 @Component({
   selector: 'app-header',
-  imports: [RouterLink, RouterLinkActive, BrandLogoComponent, IconComponent, WhatsAppButtonComponent],
+  imports: [
+    RouterLink,
+    RouterLinkActive,
+    BrandLogoComponent,
+    IconComponent,
+    SocialLinksComponent,
+    WhatsAppButtonComponent,
+  ],
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: { '[class.is-scrolled]': 'scrolled()' },
   template: `
@@ -48,11 +57,12 @@ import { WhatsAppButtonComponent } from './whatsapp-button.component';
       </nav>
 
       <div class="actions">
+        <app-social-links class="social-desktop" variant="icons" />
         <span class="wa-desktop"><app-whatsapp-button label="Chat on WhatsApp" /></span>
         <button
           type="button"
           class="burger"
-          (click)="open.set(!open())"
+          (click)="toggleMenu()"
           [attr.aria-expanded]="open()"
           aria-controls="mobile-menu"
           [attr.aria-label]="open() ? 'Close menu' : 'Open menu'"
@@ -62,7 +72,13 @@ import { WhatsAppButtonComponent } from './whatsapp-button.component';
       </div>
     </div>
 
-    <div id="mobile-menu" class="sheet" [class.is-open]="open()" [attr.inert]="open() ? null : ''">
+    <div
+      id="mobile-menu"
+      class="sheet"
+      [class.is-open]="open()"
+      [attr.inert]="open() ? null : ''"
+      [style.top.px]="sheetTop()"
+    >
       <nav aria-label="Mobile">
         <ul role="list">
           @for (link of content.nav().header; track link.label) {
@@ -77,6 +93,7 @@ import { WhatsAppButtonComponent } from './whatsapp-button.component';
       </nav>
       <app-whatsapp-button label="Chat on WhatsApp" size="lg" />
       <p class="sheet-phone">or call <a [href]="'tel:+' + content.site().contact.whatsapp">{{ content.site().contact.phoneDisplay }}</a></p>
+      <app-social-links class="sheet-social" [label]="content.site().followLabel" />
     </div>
   `,
   styles: `
@@ -136,6 +153,12 @@ import { WhatsAppButtonComponent } from './whatsapp-button.component';
       align-items: center;
       gap: 8px;
     }
+    // Social icons only where the header has room for them next to the nav.
+    .social-desktop {
+      @media (max-width: 1279px) {
+        display: none;
+      }
+    }
     .burger {
       display: none;
       width: 44px;
@@ -191,6 +214,13 @@ import { WhatsAppButtonComponent } from './whatsapp-button.component';
           text-decoration: none;
         }
       }
+      .sheet-social {
+        align-items: center;
+        text-align: center;
+        ::ng-deep ul {
+          justify-content: center;
+        }
+      }
       .sheet-phone {
         text-align: center;
         color: var(--c-muted);
@@ -212,6 +242,9 @@ export class HeaderComponent {
     queryParams: 'ignored',
     matrixParams: 'ignored',
   };
+  /** The sheet starts right under the header (which sits lower while the announcement bar shows). */
+  protected readonly sheetTop = signal<number | null>(null);
+  private readonly host = inject<ElementRef<HTMLElement>>(ElementRef).nativeElement;
   private readonly doc = inject(DOCUMENT);
 
   constructor() {
@@ -239,5 +272,10 @@ export class HeaderComponent {
         removeEventListener('keydown', onKey);
       });
     });
+  }
+
+  protected toggleMenu(): void {
+    if (!this.open()) this.sheetTop.set(Math.max(0, Math.round(this.host.getBoundingClientRect().bottom)));
+    this.open.set(!this.open());
   }
 }

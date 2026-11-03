@@ -2,7 +2,15 @@ export type Fabric = 'silk' | 'silk-cotton' | 'cotton' | 'viscose-cotton' | 'khu
 export type Loom = 'handloom' | 'powerloom' | 'fabric';
 
 export interface SiteConfig {
-  brand: { name: string; tagline: string; since: number; monogram: string; logo: string };
+  brand: {
+    name: string;
+    tagline: string;
+    since: number;
+    monogram: string;
+    logo: string;
+    /** Small logo shown in the header and footer. */
+    mark: { src: string; width: number; height: number; alt: string };
+  };
   contact: {
     whatsapp: string;
     phoneDisplay: string;
@@ -17,6 +25,7 @@ export interface SiteConfig {
     hours: string;
   };
   social: { instagram: string; facebook: string; youtube: string; justdial: string };
+  followLabel: string;
   announcement: string[];
   pages: {
     collections: {

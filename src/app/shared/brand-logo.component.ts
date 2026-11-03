@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, inject } from '@angular/core';
+import { ChangeDetectionStrategy, Component, inject, input } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { ContentService } from '../core/content.service';
 
@@ -6,10 +6,18 @@ import { ContentService } from '../core/content.service';
   selector: 'app-brand-logo',
   imports: [RouterLink],
   changeDetection: ChangeDetectionStrategy.OnPush,
+  host: { '[class.is-dark]': 'dark()' },
   template: `
     @let brand = content.site().brand;
     <a routerLink="/" class="logo">
-      <span class="mono" aria-hidden="true">{{ brand.monogram }}</span>
+      <img
+        class="mark"
+        [src]="brand.mark.src"
+        [width]="brand.mark.width"
+        [height]="brand.mark.height"
+        [alt]="brand.mark.alt"
+        fetchpriority="high"
+      />
       <span class="words">
         <span class="name">{{ brand.name.toUpperCase() }}</span>
         <span class="sub">{{ brand.tagline.toUpperCase() }}&nbsp;&nbsp;•&nbsp;&nbsp;SINCE {{ brand.since }}</span>
@@ -23,17 +31,13 @@ import { ContentService } from '../core/content.service';
       gap: 12px;
       text-decoration: none;
     }
-    .mono {
-      display: grid;
-      place-items: center;
-      padding: 8px 10px;
-      border-radius: 10px;
-      background: var(--c-maroon);
-      color: var(--c-cream);
-      font-family: var(--font-display);
-      font-weight: 700;
-      font-size: 18px;
-      line-height: 24px;
+    .mark {
+      width: auto;
+      height: 56px;
+      filter: drop-shadow(0 2px 3px rgb(74 16 24 / 18%));
+      @media (max-width: 1023px) {
+        height: 46px;
+      }
     }
     .words {
       display: flex;
@@ -56,6 +60,20 @@ import { ContentService } from '../core/content.service';
       color: var(--c-gold-text);
       white-space: nowrap;
     }
+    :host(.is-dark) {
+      .name {
+        color: var(--c-cream);
+        font-size: 24px;
+        letter-spacing: 1.92px;
+      }
+      .sub {
+        color: var(--c-gold-light);
+      }
+      .mark {
+        height: 64px;
+        filter: none;
+      }
+    }
     @media (max-width: 380px) {
       .name {
         font-size: 17px;
@@ -69,4 +87,6 @@ import { ContentService } from '../core/content.service';
 })
 export class BrandLogoComponent {
   protected readonly content = inject(ContentService);
+  /** Light text for the dark footer. */
+  readonly dark = input(false);
 }

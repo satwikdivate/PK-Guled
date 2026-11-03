@@ -9,6 +9,7 @@ import { WhatsAppService } from '../../core/whatsapp.service';
 import { MapEmbedComponent } from '../../shared/map-embed.component';
 import { RevealDirective } from '../../shared/reveal.directive';
 import { SectionHeadingComponent } from '../../shared/section-heading.component';
+import { SocialLinksComponent } from '../../shared/social-links.component';
 import { WhatsAppButtonComponent } from '../../shared/whatsapp-button.component';
 import { HomeCollectionsComponent } from './home-collections.component';
 import { HomeStoryComponent } from './home-story.component';
@@ -22,6 +23,7 @@ import { HomeStoryComponent } from './home-story.component';
     WhatsAppButtonComponent,
     RevealDirective,
     MapEmbedComponent,
+    SocialLinksComponent,
     HomeCollectionsComponent,
     HomeStoryComponent,
   ],

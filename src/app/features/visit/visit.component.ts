@@ -5,11 +5,12 @@ import { SeoService } from '../../core/seo.service';
 import { WhatsAppService } from '../../core/whatsapp.service';
 import { IconComponent } from '../../shared/icon.component';
 import { MapEmbedComponent } from '../../shared/map-embed.component';
+import { SocialLinksComponent } from '../../shared/social-links.component';
 import { WhatsAppButtonComponent } from '../../shared/whatsapp-button.component';
 
 @Component({
   selector: 'app-visit',
-  imports: [MapEmbedComponent, WhatsAppButtonComponent, IconComponent],
+  imports: [MapEmbedComponent, WhatsAppButtonComponent, IconComponent, SocialLinksComponent],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     @let v = home().visit;
@@ -48,6 +49,7 @@ import { WhatsAppButtonComponent } from '../../shared/whatsapp-button.component'
               </a>
             }
           </div>
+          <app-social-links [label]="site.followLabel" />
         </div>
         <app-map-embed [label]="v.showMap" />
       </div>

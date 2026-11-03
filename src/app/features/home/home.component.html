@@ -212,6 +212,7 @@
       <p>{{ h.finalCta.text }}</p>
       <app-whatsapp-button [label]="h.finalCta.button" size="xl" />
       <a class="final__call" [href]="wa.tel()">or call {{ site.contact.phoneDisplay }}</a>
+      <app-social-links class="final__social" [dark]="true" [label]="site.followLabel" />
     </div>
   </section>
 } @placeholder {

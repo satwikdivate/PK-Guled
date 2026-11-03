@@ -2,6 +2,7 @@
   "_note": "Images from the 00 folders. Output: public/img/site/<id>-<width>.<format>. Edit here to swap a photo, no code change needed.",
   "items": [
     { "id": "logo", "folder": "00 Homepage (banners, logo, press)", "file": "cropped-datt-1.png", "widths": [256], "format": "png" },
+    { "id": "logo-mark", "folder": "00 Homepage (banners, logo, press)", "file": "cropped-datt-1.png", "height": 128, "format": "webp" },
     { "id": "hero-main", "folder": "00 Collections Page (category covers)", "file": "Untitled-design-7.jpg", "widths": [480, 800], "format": "webp" },
     { "id": "hero-pallu", "folder": "00 Homepage (banners, logo, press)", "file": "topteni.jpg", "widths": [480, 831], "format": "webp" },
     { "id": "hero-weaver", "folder": "00 Homepage (banners, logo, press)", "file": "WhatsApp-Image-2022-03-02-at-11.42.35.jpg", "widths": [480, 960], "format": "webp" },
